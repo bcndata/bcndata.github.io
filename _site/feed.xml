@@ -5,13 +5,13 @@
     <description>BCN data</description>
     <link>http://yourdomain.com/</link>
     <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 30 Nov 2015 15:45:25 -0500</pubDate>
-    <lastBuildDate>Mon, 30 Nov 2015 15:45:25 -0500</lastBuildDate>
+    <pubDate>Wed, 02 Dec 2015 14:33:24 -0500</pubDate>
+    <lastBuildDate>Wed, 02 Dec 2015 14:33:24 -0500</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
-        <title>Car accidents in Barcelona</title>
-        <description>&lt;h2 class=&quot;section-heading&quot;&gt;Second-level header&lt;/h2&gt;
+        <title>The most dangerous intersection in Barcelona</title>
+        <description>&lt;h2 class=&quot;section-heading&quot;&gt;Barcelona by car&lt;/h2&gt;
 
 
 &lt;p&gt;Some random text.  Some random text. Some random text.  Some random text. Some random text.  Some random text. Some random text.  Some random text. Some random text.  Some random text. Some random text.  Some random text. Some random text.  Some random text. Some random text.  Some random text.  &lt;/p&gt;
@@ -32,9 +32,14 @@
 
 &lt;p&gt;Some random text.  Some random text. Some random text.  Some random text. Some random text.  Some random text. Some random text.  Some random text. Some random text.  Some random text. Some random text.  Some random text. Some random text.  Some random text. Some random text.  Some random text.  &lt;/p&gt;
 
-&lt;h3 class=&quot;section-heading&quot;&gt;Third-level header&lt;/h3&gt;
+&lt;h3 class=&quot;section-heading&quot;&gt;The most dangerous intersection in Barcelona&lt;/h3&gt;
 
-&lt;p&gt;Some random text.  Some random text. Some random text.  Some random text. Some random text.  Some random text. Some random text.  Some random text. Some random text.  Some random text. Some random text.  Some random text. Some random text.  Some random text. Some random text.  Some random text.  &lt;/p&gt;
+&lt;p&gt;You guessed it: Avinguda Gaudi and Passeig de Gracia.&lt;/p&gt;
+
+&lt;a href=&quot;#&quot;&gt;
+    &lt;img src=&quot;/img/2015-11-30-Car-accidents-in-Barcelona/google1.png&quot; alt=&quot;Google Maps&quot;&gt;
+&lt;/a&gt;
+&lt;span class=&quot;caption text-muted&quot;&gt;Subtitle goes here.&lt;/span&gt;
 
 
 &lt;a href=&quot;#&quot;&gt;
