@@ -5,16 +5,56 @@
     <description>BCN data</description>
     <link>http://yourdomain.com/</link>
     <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 03 Dec 2015 15:04:13 -0500</pubDate>
-    <lastBuildDate>Thu, 03 Dec 2015 15:04:13 -0500</lastBuildDate>
+    <pubDate>Sat, 05 Dec 2015 06:49:14 -0500</pubDate>
+    <lastBuildDate>Sat, 05 Dec 2015 06:49:14 -0500</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
         <title>The most dangerous intersection in Barcelona</title>
-        <description>&lt;h2 class=&quot;section-heading&quot;&gt;Barcelona by car&lt;/h2&gt;
+        <description>&lt;h3 class=&quot;section-heading&quot;&gt;The most dangerous intersection in Barcelona&lt;/h3&gt;
+
+&lt;p&gt;You guessed it: Avinguda Diagonal and Passeig de Gracia.&lt;/p&gt;
+
+&lt;a href=&quot;#&quot;&gt;
+    &lt;img src=&quot;/img/2015-11-30-Car-accidents-in-Barcelona/worst.png&quot; alt=&quot;Google Maps&quot;&gt;
+&lt;/a&gt;
+&lt;span class=&quot;caption text-muted&quot;&gt;Did somebody plan this intersection?&lt;/span&gt;
+
+&lt;p&gt;From 2010 to 2014, there were 129 accidents involving 165 victims and 248 vehicles! That's an average of one accident every two weeks.&lt;/p&gt;
 
 
-&lt;p&gt;Barcelona has a lot of cars.  X % of trips are made by car in Barcelona (compared to y in Amsterdam), and the &lt;/p&gt;
+&lt;a href=&quot;#&quot;&gt;
+    &lt;img src=&quot;/img/2015-11-30-Car-accidents-in-Barcelona/google1.png&quot; alt=&quot;Google Maps&quot;&gt;
+&lt;/a&gt;
+&lt;span class=&quot;caption text-muted&quot;&gt;Yikes.&lt;/span&gt;
+
+&lt;h3 class=&quot;section-heading&quot;&gt;But everywhere is kind of dangerous&lt;/h3&gt;
+
+The reality is that, relative to other comparable cities, Barcelona's a dangerous place. Sure, &lt;a href=&quot;http://www.telegraph.co.uk/news/worldnews/europe/italy/3198659/Rome-most-dangerous-city-in-Europe-for-traffic-accidents.html&quot;&gt;Rome is worse&lt;/a&gt;  Rome is worse ()
+
+&lt;a href=&quot;#&quot;&gt;
+    &lt;img src=&quot;/img/2015-11-30-Car-accidents-in-Barcelona/over_time_2014.gif&quot; alt=&quot;So many photos in this post&quot;&gt;
+&lt;/a&gt;
+&lt;span class=&quot;caption text-muted&quot;&gt;Subtitle goes here.&lt;/span&gt;
+
+
+&lt;a href=&quot;#&quot;&gt;
+    &lt;img src=&quot;/img/2015-11-30-Car-accidents-in-Barcelona/by_year.JPG&quot; alt=&quot;So many photos in this post&quot;&gt;
+&lt;/a&gt;
+&lt;span class=&quot;caption text-muted&quot;&gt;Subtitle goes here.&lt;/span&gt;
+
+
+&lt;h3 class=&quot;section-heading&quot;&gt;Death&lt;/h3&gt;
+
+
+Fortunately, none of the 
+
+
+&lt;h3 class=&quot;section-heading&quot;&gt;Does Messi cause car accidents?&lt;/h3&gt;
+
+
+&lt;h3 class=&quot;section-heading&quot;&gt;What about the weather?&lt;/h3&gt;
+
 
 
 &lt;a href=&quot;#&quot;&gt;
@@ -25,10 +65,7 @@
 &lt;p&gt;Some random text.  Some random text. Some random text.  Some random text. Some random text.  Some random text. Some random text.  Some random text. Some random text.  Some random text. Some random text.  Some random text. Some random text.  Some random text. Some random text.  Some random text.  &lt;/p&gt;
 
 
-&lt;a href=&quot;#&quot;&gt;
-    &lt;img src=&quot;/img/2015-11-30-Car-accidents-in-Barcelona/over_time_2014.gif&quot; alt=&quot;So many photos in this post&quot;&gt;
-&lt;/a&gt;
-&lt;span class=&quot;caption text-muted&quot;&gt;Subtitle goes here.&lt;/span&gt;
+
 
 
 &lt;p&gt;Some random text.  Some random text. Some random text.  Some random text. Some random text.  Some random text. Some random text.  Some random text. Some random text.  Some random text. Some random text.  Some random text. Some random text.  Some random text. Some random text.  Some random text.  &lt;/p&gt;
@@ -40,15 +77,6 @@
 &lt;span class=&quot;caption text-muted&quot;&gt;Subtitle goes here.&lt;/span&gt;
 
 &lt;p&gt;Some random text.  Some random text. Some random text.  Some random text. Some random text.  Some random text. Some random text.  Some random text. Some random text.  Some random text. Some random text.  Some random text. Some random text.  Some random text. Some random text.  Some random text.  &lt;/p&gt;
-
-&lt;h3 class=&quot;section-heading&quot;&gt;The most dangerous intersection in Barcelona&lt;/h3&gt;
-
-&lt;p&gt;You guessed it: Avinguda Gaudi and Passeig de Gracia.&lt;/p&gt;
-
-&lt;a href=&quot;#&quot;&gt;
-    &lt;img src=&quot;/img/2015-11-30-Car-accidents-in-Barcelona/google1.png&quot; alt=&quot;Google Maps&quot;&gt;
-&lt;/a&gt;
-&lt;span class=&quot;caption text-muted&quot;&gt;Subtitle goes here.&lt;/span&gt;
 
 
 &lt;a href=&quot;#&quot;&gt;
