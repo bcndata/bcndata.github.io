@@ -46,7 +46,7 @@ Sure, <a href="http://www.telegraph.co.uk/news/worldnews/europe/italy/3198659/Ro
 </a>
 <span class="caption text-muted">25 a day.</span>
 
-<h3 class="section-heading">What's behind all these crashes?</h3>
+<h3 class="section-heading">When do accidents happen?</h3>
 
 Who knows.  As consistent as the yearly numbers are, there's a lot of variation by time and day.  Afternoon is far worse than morning, for example.
 
@@ -54,83 +54,63 @@ Who knows.  As consistent as the yearly numbers are, there's a lot of variation 
 <a href="#">
     <img src="{{ site.baseurl }}/img/2015-11-30-Car-accidents-in-Barcelona/hora.JPG" alt="I can't really think of any way in which this photo is relevant">
 </a>
-<span class="caption text-muted">Here's a subtitle for the above.</span>
+<span class="caption text-muted">Stay off the roads in the afternoon.</span>
 
-
-<p>Some random text.  Some random text. Some random text.  Some random text. Some random text.  Some random text. Some random text.  Some random text. Some random text.  Some random text. Some random text.  Some random text. Some random text.  Some random text. Some random text.  Some random text.  </p>
-
-
-<p>Some random text.  Some random text. Some random text.  Some random text. Some random text.  Some random text. Some random text.  Some random text. Some random text.  Some random text. Some random text.  Some random text. Some random text.  Some random text. Some random text.  Some random text.  </p>
-
-
-<p>Some random text.  Some random text. Some random text.  Some random text. Some random text.  Some random text. Some random text.  Some random text. Some random text.  Some random text. Some random text.  Some random text. Some random text.  Some random text. Some random text.  Some random text.  </p>
-
-
-
-
-At least someone's keeping track.  The police keep a list of every accident they investigate.  Here they are:
-
-INSERT IFRAME OF INTERACTIVE MAP HERE.
-
-
-
-
-<h3 class="section-heading">Blame Messi?</h3>
-
-
-
+And weekdays (especially Friday) are far worse than weekends.
 
 <a href="#">
-    <img src="{{ site.baseurl }}/img/2015-11-30-Car-accidents-in-Barcelona/points.JPG" alt="So many photos in this post">
+    <img src="{{ site.baseurl }}/img/2015-11-30-Car-accidents-in-Barcelona/dia.JPG" alt="I can't really think of any way in which this photo is relevant">
 </a>
-<span class="caption text-muted">Subtitle goes here.</span>
+<span class="caption text-muted">Accumulation of fatigue from working?</span>
 
-<p>Some random text.  Some random text. Some random text.  Some random text. Some random text.  Some random text. Some random text.  Some random text. Some random text.  Some random text. Some random text.  Some random text. Some random text.  Some random text. Some random text.  Some random text.  </p>
+<h3 class="section-heading">Wouldn't be cool to see all the car accidents on one map?</h3>
 
-<h3 class="section-heading">Death</h3>
+<p>Yes, that would be awesome:</p>
 
+<iframe src="{{ site.baseurl }}/img/2015-11-30-Car-accidents-in-Barcelona/widget.html", width="550" height="350",align='middle'></iframe>
 
-Fortunately, none of the 
+<h3 class="section-heading">So what's behind all these accidents?</h3>
 
+<p>Who knows.  But apparently, <em>football games</em> prevent them!</p> We looked at every accident from 2010-2014, and every Barcelona football game during the same period.  It turns out that, on average, game days are about </p>
 
+<table class='gmisc_table' style='border-collapse: collapse;' >
+<thead>
+<tr>
+<th style='border-bottom: 1px solid grey; border-top: 2px solid grey; text-align: center;'>Status</th>
+<th style='border-bottom: 1px solid grey; border-top: 2px solid grey; text-align: center;'>Days</th>
+<th style='border-bottom: 1px solid grey; border-top: 2px solid grey; text-align: center;'>Accidents</th>
+<th style='border-bottom: 1px solid grey; border-top: 2px solid grey; text-align: center;'>Daily Rate</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style='text-align: center;'>No game</td>
+<td style='text-align: center;'>1572</td>
+<td style='text-align: center;'>40376</td>
+<td style='text-align: center;'>25.68</td>
+</tr>
+<tr>
+<td style='border-bottom: 2px solid grey; text-align: center;'>Game day</td>
+<td style='border-bottom: 2px solid grey; text-align: center;'>254</td>
+<td style='border-bottom: 2px solid grey; text-align: center;'>5802</td>
+<td style='border-bottom: 2px solid grey; text-align: center;'>22.84</td>
+</tr>
+</tbody>
+</table>
 
-<p>Some random text.  Some random text. Some random text.  Some random text. Some random text.  Some random text. Some random text.  Some random text. Some random text.  Some random text. Some random text.  Some random text. Some random text.  Some random text. Some random text.  Some random text.  </p>
+<p>One could surmise that football matches keep people inside (glued to their television screens) rather than on the road.  In other words, football itself isn't <em>causing</em> anything, and is simply acting as a proxy for traffic density.</p>
 
+<p>Is this the case?  We don't think so.  When we dig deeper, we find that the <em>outcome</em>of the match matters more than the <em></em>. Barcelonians crash more often when Barça loses.</p>
 
 <a href="#">
-    <img src="{{ site.baseurl }}/img/2015-11-30-Car-accidents-in-Barcelona/hotspots.JPG" alt="So many photos in this post">
+    <img src="{{ site.baseurl }}/img/2015-11-30-Car-accidents-in-Barcelona/football.JPG" alt="I can't really think of any way in which this photo is relevant">
 </a>
-<span class="caption text-muted">Subtitle goes here.</span>
+<span class="caption text-muted">That's crazy, right?</span>
 
-<p>Some random text.  Some random text. Some random text.  Some random text. Some random text.  Some random text. Some random text.  Some random text. Some random text.  Some random text. Some random text.  Some random text. Some random text.  Some random text. Some random text.  Some random text.  </p>
+<p>What's the mechanism for this?  Two possible theories.  (1) People just get mad and drive worse when their team loses, or (2) people live venues in a more staggered fashion after a victory than after a defeat (since post-victory parties are more likely than post-defeat parties).</p>
 
+<h3 class="section-heading">Data sources, code, etc.</h3>
 
-<a href="#">
-    <img src="{{ site.baseurl }}/img/2015-11-30-Car-accidents-in-Barcelona/points.JPG" alt="So many photos in this post">
-</a>
-<span class="caption text-muted">Subtitle goes here.</span>
+<p>OpenDataBCN hosts the <a href="http://opendata.bcn.cat/opendata/ca/catalog/ENTORN_URBA">dataset</a> for traffic accidents managed by the Guardia Urbana.  It's a <em>super</em> interesting dataset with a lot more than what was explored here (mortality, number of injuries, etc.).  </p>
 
-<p>Some random text.  Some random text. Some random text.  Some random text. Some random text.  Some random text. Some random text.  Some random text. Some random text.  Some random text. Some random text.  Some random text. Some random text.  Some random text. Some random text.  Some random text.  </p>
-
-
-
-<p>Some random text.  Some random text. Some random text.  Some random text. Some random text.  Some random text. Some random text.  Some random text. Some random text.  Some random text. Some random text.  Some random text. Some random text.  Some random text. Some random text.  Some random text.  </p>
-
-
-<h2 class="section-heading">Another second-level header</h2>
-
-<p>Some random text.  Some random text. Some random text.  Some random text. Some random text.  Some random text. Some random text.  Some random text. Some random text.  Some random text. Some random text.  Some random text. Some random text.  Some random text. Some random text.  Some random text.  </p>
-
-<a href="#">
-    <img src="{{ site.baseurl }}/img/2015-11-30-Car-accidents-in-Barcelona/points2.JPG" alt="So many photos in this post">
-</a>
-<span class="caption text-muted">Subtitle goes here.</span>
-
-<p>Some random text.  Some random text. Some random text.  Some random text. Some random text.  Some random text. Some random text.  Some random text. Some random text.  Some random text. Some random text.  Some random text. Some random text.  Some random text. Some random text.  Some random text.  </p>
-
-<a href="#">
-    <img src="{{ site.baseurl }}/img/2015-11-30-Car-accidents-in-Barcelona/dia.JPG" alt="So many photos in this post">
-</a>
-<span class="caption text-muted">Subtitle goes here.</span>
-
-<p>Some random text.  Some random text. Some random text.  Some random text. Some random text.  Some random text. Some random text.  Some random text. Some random text.  Some random text. Some random text.  Some random text. Some random text.  Some random text. Some random text.  Some random text.  </p>
+<p>The code and data for this post (including source files, cleaning script, visualizations, etc.) can all be found on <a href="https://github.com/bcndata/accidents_de_cotxe">github</a>.</p>
