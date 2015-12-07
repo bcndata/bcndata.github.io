@@ -5,8 +5,8 @@
     <description>BCN data</description>
     <link>http://yourdomain.com/</link>
     <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 07 Dec 2015 14:52:49 -0500</pubDate>
-    <lastBuildDate>Mon, 07 Dec 2015 14:52:49 -0500</lastBuildDate>
+    <pubDate>Mon, 07 Dec 2015 14:55:17 -0500</pubDate>
+    <lastBuildDate>Mon, 07 Dec 2015 14:55:17 -0500</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -146,9 +146,9 @@ That's probably a stretch.  Yes, there are &lt;em&gt;slightly&lt;/em&gt; fewer d
 
 &lt;p&gt;OpenDataBCN hosts the &lt;a href=&quot;http://opendata.bcn.cat/opendata/ca/catalog/ENTORN_URBA&quot;&gt;dataset&lt;/a&gt; for traffic accidents managed by the Guardia Urbana.&lt;/p&gt;
 
-&lt;p&gt;Data on football matches, locations, and outcomes was manually gathered from Wikipedia.&lt;/p&gt;
+&lt;p&gt;Data on football matches, locations, and outcomes was manually gathered from multiple Wikipedia pages.  The cleaned-up data is &lt;a href='https://github.com/bcndata/bcndata/blob/master/data/accidents_de_cotxe/football_games/games_2010-2014.csv'&gt;here&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;The code and data for this post (including source files, cleaning script, visualizations, etc.) can all be found on &lt;a href=&quot;https://github.com/bcndata/accidents_de_cotxe&quot;&gt;github&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;As always, the code and data for this post (including source files, cleaning script, visualizations, etc.) can all be found on &lt;a href=&quot;https://github.com/bcndata/accidents_de_cotxe&quot;&gt;github&lt;/a&gt;.&lt;/p&gt;
 
 </description>
         <pubDate>Fri, 04 Dec 2015 07:00:00 -0500</pubDate>
