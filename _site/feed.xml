@@ -5,8 +5,8 @@
     <description>BCN data</description>
     <link>http://yourdomain.com/</link>
     <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 07 Dec 2015 15:11:58 -0500</pubDate>
-    <lastBuildDate>Mon, 07 Dec 2015 15:11:58 -0500</lastBuildDate>
+    <pubDate>Mon, 07 Dec 2015 15:37:27 -0500</pubDate>
+    <lastBuildDate>Mon, 07 Dec 2015 15:37:27 -0500</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -180,7 +180,7 @@ That's probably a stretch.  Yes, there are &lt;em&gt;slightly&lt;/em&gt; fewer d
 
 &lt;p&gt;You guessed it: Avinguda Diagonal and Passeig de Gracia.&lt;/p&gt;
 
-&lt;a href=&quot;#&quot;&gt;
+&lt;a href=&quot;/img/2015-11-30-Car-accidents-in-Barcelona/worst.png&quot;&gt;
     &lt;img src=&quot;/img/2015-11-30-Car-accidents-in-Barcelona/worst.png&quot; alt=&quot;Google Maps&quot;&gt;
 &lt;/a&gt;
 &lt;span class=&quot;caption text-muted&quot;&gt;This technically counts as one intersection, right?&lt;/span&gt;
@@ -188,7 +188,7 @@ That's probably a stretch.  Yes, there are &lt;em&gt;slightly&lt;/em&gt; fewer d
 &lt;p&gt;From 2010 to 2014, there were 129 accidents involving 165 victims and 248 vehicles. That's an average of one accident every two weeks.&lt;/p&gt;
 
 
-&lt;a href=&quot;#&quot;&gt;
+&lt;a href=&quot;/img/2015-11-30-Car-accidents-in-Barcelona/google1.png&quot;&gt;
     &lt;img src=&quot;/img/2015-11-30-Car-accidents-in-Barcelona/google1.png&quot; alt=&quot;Google Maps&quot;&gt;
 &lt;/a&gt;
 &lt;span class=&quot;caption text-muted&quot;&gt;Yikes.&lt;/span&gt;
@@ -198,7 +198,7 @@ That's probably a stretch.  Yes, there are &lt;em&gt;slightly&lt;/em&gt; fewer d
 
 &lt;p&gt;The reality is that, relative to other comparable cities, Barcelona is a dangerous place. 
 
-&lt;a href=&quot;#&quot;&gt;
+&lt;a href=&quot;/img/2015-11-30-Car-accidents-in-Barcelona/over_time_2014.gif&quot;&gt;
     &lt;img src=&quot;/img/2015-11-30-Car-accidents-in-Barcelona/over_time_2014.gif&quot; alt=&quot;So many photos in this post&quot;, align='right'&gt;
 &lt;/a&gt;
 &lt;span class=&quot;caption text-muted&quot;&gt;&lt;/span&gt;
@@ -211,7 +211,7 @@ Sure, &lt;a href=&quot;http://www.telegraph.co.uk/news/worldnews/europe/italy/31
 
 &lt;p&gt;In 2010, there were just a hair over 9,000 accidents.  In 2011, that number dropped to 8,809.  Since then, however, the number of accidents has climbed by a few hundred per year, peaking at 9,660 in 2014 (the last year for which data are available).
 
-&lt;a href=&quot;#&quot;&gt;
+&lt;a href=&quot;/img/2015-11-30-Car-accidents-in-Barcelona/by_year.JPG&quot;&gt;
     &lt;img src=&quot;/img/2015-11-30-Car-accidents-in-Barcelona/by_year.JPG&quot; alt=&quot;So many photos in this post&quot;&gt;
 &lt;/a&gt;
 
@@ -220,23 +220,34 @@ Sure, &lt;a href=&quot;http://www.telegraph.co.uk/news/worldnews/europe/italy/31
 As consistent as the yearly numbers are, there's a lot of variation by time and day.  Afternoon is far worse than morning, for example.  In the below chart, you can make out spikes at around 8-9 AM (morning rush hour), 2 PM (afternoon break) and 5-7 PM (evening rush hour).  It's odd that the mid-day spike is so much higher than the morning and evening spikes - are that many people on the road at that time?
 
 
-&lt;a href=&quot;#&quot;&gt;
+&lt;a href=&quot;{ site.baseurl }}/img/2015-11-30-Car-accidents-in-Barcelona/hora.JPG&quot;&gt;
     &lt;img src=&quot;/img/2015-11-30-Car-accidents-in-Barcelona/hora.JPG&quot; alt=&quot;I can't really think of any way in which this photo is relevant&quot;&gt;
 &lt;/a&gt;
 
 &lt;p&gt;Weekdays (especially Friday) are far worse than weekends.&lt;/p&gt;
 
-&lt;a href=&quot;#&quot;&gt;
+&lt;a href=&quot;/img/2015-11-30-Car-accidents-in-Barcelona/dia.JPG&quot;&gt;
     &lt;img src=&quot;/img/2015-11-30-Car-accidents-in-Barcelona/dia.JPG&quot; alt=&quot;I can't really think of any way in which this photo is relevant&quot;&gt;
 &lt;/a&gt;
 
 &lt;p&gt;When we look at the averages over the course of an entire week, we see that weekdays have a pre-midnight spike (coming home from dinner), which is conspicuously absent on weekends.&lt;/p&gt;
 
-&lt;a href=&quot;#&quot;&gt;
+&lt;a href=&quot;/img/2015-11-30-Car-accidents-in-Barcelona/full_week.JPG&quot;&gt;
     &lt;img src=&quot;/img/2015-11-30-Car-accidents-in-Barcelona/full_week.JPG&quot; alt=&quot;So many photos in this post&quot;&gt;
 &lt;/a&gt;
 
 &lt;p&gt;It also seems that most of the Friday spike can be attributed to the AM - not PM - rush.  Strange...&lt;/p&gt;
+
+&lt;h3 class=&quot;section-heading&quot;&gt;Like stars in the night sky&lt;/h3&gt;
+
+&lt;p&gt;Car accidents are a pretty morbid topic.  They take far too many lives, and cause countless suffering by those affected.&lt;/p&gt;
+
+&lt;p&gt;Data visualization can help us to absorb numbers too large for our primate brains (ie, the tens of thousands of car accidents in Barcelona over the last few years, and the hundreds of associated deaths).  So, we'll end this post with a visual: click on the below image and zoom in - white dots are accidents, and red dots are deaths.&lt;/p&gt;    
+
+&lt;a href=&quot;/img/2015-11-30-Car-accidents-in-Barcelona/static.jpeg&quot;&gt;
+    &lt;img src=&quot;/img/2015-11-30-Car-accidents-in-Barcelona/static.jpeg&quot; alt=&quot;So many photos in this post&quot;&gt;
+&lt;/a&gt;
+
 
 &lt;h3 class=&quot;section-heading&quot;&gt;Data sources, code, etc.&lt;/h3&gt;
 
