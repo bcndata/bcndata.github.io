@@ -5,23 +5,23 @@
     <description>BCN data</description>
     <link>http://yourdomain.com/</link>
     <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 07 Dec 2015 12:16:50 -0500</pubDate>
-    <lastBuildDate>Mon, 07 Dec 2015 12:16:50 -0500</lastBuildDate>
+    <pubDate>Mon, 07 Dec 2015 14:52:49 -0500</pubDate>
+    <lastBuildDate>Mon, 07 Dec 2015 14:52:49 -0500</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
         <title>Every car accident in Barcelona since 2010</title>
         <description>&lt;h3 align='middle'&gt;Every Barcelona car accident from 2010-2014&lt;/h3&gt;
 
-&lt;iframe src=&quot;/img/2015-11-30-Car-accidents-in-Barcelona/widget.html&quot;, width=&quot;1000&quot; height=&quot;700&quot;,align='middle'&gt;&lt;/iframe&gt;
+&lt;iframe src=&quot;/img/2015-11-30-Car-accidents-in-Barcelona/widget.html&quot; height = 600 width = 100%&gt;&lt;/iframe&gt;
 
 &lt;p&gt;Zoom in and around, and click on the markers for details about each accident.&lt;/p&gt;
 
 &lt;h3 class=&quot;section-heading&quot;&gt;Data sources, code, etc.&lt;/h3&gt;
 
-&lt;p&gt;OpenDataBCN hosts the &lt;a href=&quot;http://opendata.bcn.cat/opendata/ca/catalog/ENTORN_URBA&quot;&gt;dataset&lt;/a&gt; for traffic accidents managed by the Guardia Urbana.  It's a &lt;em&gt;super&lt;/em&gt; interesting dataset with a lot more than what was explored here (mortality, number of injuries, etc.).  &lt;/p&gt;
+&lt;p&gt;OpenDataBCN hosts the &lt;a href=&quot;http://opendata.bcn.cat/opendata/ca/catalog/ENTORN_URBA&quot;&gt;dataset&lt;/a&gt; for traffic accidents managed by the Guardia Urbana.&lt;/p&gt;
 
-&lt;p&gt;The code and data for this post (including source files, cleaning script, visualizations, etc.) can all be found on &lt;a href=&quot;https://github.com/bcndata/accidents_de_cotxe&quot;&gt;github&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;This map was generated in R, using the leaflet library. The code and data for this post (including source files, cleaning script, visualizations, etc.) can all be found on &lt;a href=&quot;https://github.com/bcndata/accidents_de_cotxe&quot;&gt;github&lt;/a&gt;.&lt;/p&gt;
 
 </description>
         <pubDate>Mon, 07 Dec 2015 07:00:00 -0500</pubDate>
@@ -32,14 +32,141 @@
       </item>
     
       <item>
+        <title>Does football save lives?</title>
+        <description>&lt;h3 class=&quot;section-heading&quot;&gt;Football and car accidents&lt;/h3&gt;
+
+
+&lt;p&gt;Apparently, &lt;em&gt;football games&lt;/em&gt; prevent car accidents.&lt;/p&gt; 
+
+&lt;p&gt;We looked at every accident from 2010-2014, and every Barcelona football game during the same period.  It turns out that, on average, game days are about 11% safer than non-game days.&lt;/p&gt;
+
+&lt;table class='gmisc_table' style='border-collapse: collapse;' &gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style='border-bottom: 1px solid grey; border-top: 2px solid grey; text-align: center;'&gt;Status&lt;/th&gt;
+&lt;th style='border-bottom: 1px solid grey; border-top: 2px solid grey; text-align: center;'&gt;Days&lt;/th&gt;
+&lt;th style='border-bottom: 1px solid grey; border-top: 2px solid grey; text-align: center;'&gt;Accidents&lt;/th&gt;
+&lt;th style='border-bottom: 1px solid grey; border-top: 2px solid grey; text-align: center;'&gt;Daily Rate&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style='text-align: center;'&gt;No game&lt;/td&gt;
+&lt;td style='text-align: center;'&gt;1572&lt;/td&gt;
+&lt;td style='text-align: center;'&gt;40376&lt;/td&gt;
+&lt;td style='text-align: center;'&gt;25.68&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style='border-bottom: 2px solid grey; text-align: center;'&gt;Game day&lt;/td&gt;
+&lt;td style='border-bottom: 2px solid grey; text-align: center;'&gt;254&lt;/td&gt;
+&lt;td style='border-bottom: 2px solid grey; text-align: center;'&gt;5802&lt;/td&gt;
+&lt;td style='border-bottom: 2px solid grey; text-align: center;'&gt;22.84&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h3 class=&quot;section-heading&quot;&gt;Maybe it's not really the football...&lt;/h3&gt;
+
+
+&lt;p&gt;One could surmise that football matches keep people inside (glued to their television screens) rather than on the road (probably true), or that games take place more on the weekends than weekdays &lt;a href=&quot;/2015/11/30/Car-accidents-in-Barcelona/&quot;&gt;(when there are less accidents generally)&lt;/a&gt; .  In other words, football itself isn't &lt;em&gt;causing&lt;/em&gt; anything, and is simply acting as a proxy for traffic density.&lt;/p&gt;
+
+
+&lt;p&gt;Is this the case?  We don't think so. &lt;/p&gt; 
+
+&lt;h3 class=&quot;section-heading&quot;&gt;Then again, maybe it is...&lt;/h3&gt;
+
+
+&lt;p&gt;When we dig deeper, we find that the &lt;em&gt;outcome&lt;/em&gt; of the match matters more than &lt;em&gt;whether or not there is a game&lt;/em&gt;. When the home team wins, there are few crashes.  But when Barça loses, there are even more crashes than on non-game days!&lt;/p&gt;
+
+&lt;table class='gmisc_table' style='border-collapse: collapse;' &gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style='border-bottom: 1px solid grey; border-top: 2px solid grey; text-align: center;'&gt;Outcome&lt;/th&gt;
+&lt;th style='border-bottom: 1px solid grey; border-top: 2px solid grey; text-align: center;'&gt;Days&lt;/th&gt;
+&lt;th style='border-bottom: 1px solid grey; border-top: 2px solid grey; text-align: center;'&gt;Accidents&lt;/th&gt;
+&lt;th style='border-bottom: 1px solid grey; border-top: 2px solid grey; text-align: center;'&gt;Daily rate&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style='text-align: center;'&gt;Loss&lt;/td&gt;
+&lt;td style='text-align: center;'&gt;26&lt;/td&gt;
+&lt;td style='text-align: center;'&gt;711&lt;/td&gt;
+&lt;td style='text-align: center;'&gt;27.35&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style='text-align: center;'&gt;No game&lt;/td&gt;
+&lt;td style='text-align: center;'&gt;1572&lt;/td&gt;
+&lt;td style='text-align: center;'&gt;40376&lt;/td&gt;
+&lt;td style='text-align: center;'&gt;25.68&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style='text-align: center;'&gt;Tie&lt;/td&gt;
+&lt;td style='text-align: center;'&gt;45&lt;/td&gt;
+&lt;td style='text-align: center;'&gt;1078&lt;/td&gt;
+&lt;td style='text-align: center;'&gt;23.96&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style='border-bottom: 2px solid grey; text-align: center;'&gt;Win&lt;/td&gt;
+&lt;td style='border-bottom: 2px solid grey; text-align: center;'&gt;183&lt;/td&gt;
+&lt;td style='border-bottom: 2px solid grey; text-align: center;'&gt;4013&lt;/td&gt;
+&lt;td style='border-bottom: 2px solid grey; text-align: center;'&gt;21.93&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+
+
+&lt;a href=&quot;#&quot;&gt;
+    &lt;img src=&quot;/img/2015-11-30-Car-accidents-in-Barcelona/football.JPG&quot; alt=&quot;I can't really think of any way in which this photo is relevant&quot;&gt;
+&lt;/a&gt;
+&lt;span class=&quot;caption text-muted&quot;&gt;That's kind of crazy, right?&lt;/span&gt;
+
+&lt;h3 class=&quot;section-heading&quot;&gt;Two theories&lt;/h3&gt;
+
+&lt;p&gt;What's the reason for this?  Two possible theories:&lt;/p&gt;  
+
+&lt;p&gt;(1) People just get mad and drive worse when their team loses (possible, but unlikely).&lt;/p&gt;
+
+&lt;p&gt;(2) People leave venues in a more staggered fashion after a victory than after a defeat (since post-victory parties are more likely than post-defeat parties).&lt;/p&gt;
+
+&lt;h3 class=&quot;section-heading&quot;&gt;So, does football save lives?&lt;/h3&gt;
+
+That's probably a stretch.  Yes, there are &lt;em&gt;slightly&lt;/em&gt; fewer deaths on a winning vs. losing days, but this doesn't quite reach the level of &quot;statistical significance.&quot;  
+
+&lt;a href=&quot;#&quot;&gt;
+    &lt;img src=&quot;/img/2015-11-30-Car-accidents-in-Barcelona/deaths.JPG&quot; alt=&quot;I can't really think of any way in which this photo is relevant&quot;&gt;
+&lt;/a&gt;
+&lt;span class=&quot;caption text-muted&quot;&gt;Perhaps la liga should ban ties?&lt;/span&gt;
+
+&lt;p&gt;That said, the reduction in &lt;em&gt;accidents&lt;/em&gt; associated with football victories &lt;em&gt;is&lt;/em&gt; significant.  So, if you're reading this, Messi - put down the computer, and get back to your training!&lt;/p&gt;
+
+
+&lt;h3 class=&quot;section-heading&quot;&gt;Data sources, code, etc.&lt;/h3&gt;
+
+&lt;p&gt;OpenDataBCN hosts the &lt;a href=&quot;http://opendata.bcn.cat/opendata/ca/catalog/ENTORN_URBA&quot;&gt;dataset&lt;/a&gt; for traffic accidents managed by the Guardia Urbana.&lt;/p&gt;
+
+&lt;p&gt;Data on football matches, locations, and outcomes was manually gathered from Wikipedia.&lt;/p&gt;
+
+&lt;p&gt;The code and data for this post (including source files, cleaning script, visualizations, etc.) can all be found on &lt;a href=&quot;https://github.com/bcndata/accidents_de_cotxe&quot;&gt;github&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 04 Dec 2015 07:00:00 -0500</pubDate>
+        <link>http://yourdomain.com/2015/12/04/Does-football-save-lives/</link>
+        <guid isPermaLink="true">http://yourdomain.com/2015/12/04/Does-football-save-lives/</guid>
+        
+        
+      </item>
+    
+      <item>
         <title>The most dangerous intersection in Barcelona</title>
         <description>&lt;h3 class=&quot;section-heading&quot;&gt;Barcelonians crash.  A lot.&lt;/h3&gt;
 
 &lt;p&gt;Wouldn't it be cool to see all the car accidents on one map?  Yes, that would be awesome.  &lt;a href=&quot;/2015/12/07/Every-car-accident-in-Barcelona-since-2010/&quot;&gt;HERE's&lt;/a&gt; every Barcelona car accident from 2010 to 2014.&lt;/p&gt;
 
-&lt;p&gt;With so many accidents, you might be thinking, &quot;how can I avoid getting in a wreck?&quot; You won't find the answer here, but you might start by avoiding &lt;em&gt;the most dangerous intersectin in Barcelona...&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;With so many accidents, you might be thinking, &quot;how can I avoid getting in a wreck?&quot; You won't find the answer here, but you might start by avoiding &lt;em&gt;the most dangerous intersection in Barcelona...&lt;/em&gt;&lt;/p&gt;
 
-&lt;h3 class=&quot;section-heading&quot;&gt;The most dangerous intersection in Barcelona&lt;/h3&gt;
+&lt;h3 class=&quot;section-heading&quot;&gt;And the winner goes to...&lt;/h3&gt;
 
 &lt;p&gt;You guessed it: Avinguda Diagonal and Passeig de Gracia.&lt;/p&gt;
 
@@ -93,47 +220,13 @@ As consistent as the yearly numbers are, there's a lot of variation by time and 
     &lt;img src=&quot;/img/2015-11-30-Car-accidents-in-Barcelona/dia.JPG&quot; alt=&quot;I can't really think of any way in which this photo is relevant&quot;&gt;
 &lt;/a&gt;
 
-&lt;h3 class=&quot;section-heading&quot;&gt;So what's behind all these accidents?&lt;/h3&gt;
-
-&lt;p&gt;Who knows.  We dug around, looking at things like bad weather (almost no correlation).  In the end, though, our best explanation is footbal!&lt;/p&gt;  
-
-&lt;p&gt;Apparently, &lt;em&gt;football games&lt;/em&gt; prevent car accidents. We looked at every accident from 2010-2014, and every Barcelona football game during the same period.  It turns out that, on average, game days are about 11% safer than non-game days.&lt;/p&gt;
-
-&lt;table class='gmisc_table' style='border-collapse: collapse;' &gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th style='border-bottom: 1px solid grey; border-top: 2px solid grey; text-align: center;'&gt;Status&lt;/th&gt;
-&lt;th style='border-bottom: 1px solid grey; border-top: 2px solid grey; text-align: center;'&gt;Days&lt;/th&gt;
-&lt;th style='border-bottom: 1px solid grey; border-top: 2px solid grey; text-align: center;'&gt;Accidents&lt;/th&gt;
-&lt;th style='border-bottom: 1px solid grey; border-top: 2px solid grey; text-align: center;'&gt;Daily Rate&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td style='text-align: center;'&gt;No game&lt;/td&gt;
-&lt;td style='text-align: center;'&gt;1572&lt;/td&gt;
-&lt;td style='text-align: center;'&gt;40376&lt;/td&gt;
-&lt;td style='text-align: center;'&gt;25.68&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style='border-bottom: 2px solid grey; text-align: center;'&gt;Game day&lt;/td&gt;
-&lt;td style='border-bottom: 2px solid grey; text-align: center;'&gt;254&lt;/td&gt;
-&lt;td style='border-bottom: 2px solid grey; text-align: center;'&gt;5802&lt;/td&gt;
-&lt;td style='border-bottom: 2px solid grey; text-align: center;'&gt;22.84&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;p&gt;One could surmise that football matches keep people inside (glued to their television screens) rather than on the road (probably true), or that games take place more on the weekends than weekdays (also true).  In other words, football itself isn't &lt;em&gt;causing&lt;/em&gt; anything, and is simply acting as a proxy for traffic density.&lt;/p&gt;
-
-&lt;p&gt;Is this the case?  We don't think so.  When we dig deeper, we find that the &lt;em&gt;outcome&lt;/em&gt; of the match matters more than &lt;em&gt;whether or not there is a game&lt;/em&gt;. When the home team wins, there are few crashes.  But when Barça loses, there are even more crashes than on non-game days!&lt;/p&gt;
+&lt;p&gt;When we look at the averages over the course of an entire week, we see that weekdays have a pre-midnight spike (coming home from dinner), which is conspicuously absent on weekends.&lt;/p&gt;
 
 &lt;a href=&quot;#&quot;&gt;
-    &lt;img src=&quot;/img/2015-11-30-Car-accidents-in-Barcelona/football.JPG&quot; alt=&quot;I can't really think of any way in which this photo is relevant&quot;&gt;
+    &lt;img src=&quot;/img/2015-11-30-Car-accidents-in-Barcelona/full_week.JPG&quot; alt=&quot;So many photos in this post&quot;&gt;
 &lt;/a&gt;
-&lt;span class=&quot;caption text-muted&quot;&gt;That's kind of crazy, right?&lt;/span&gt;
 
-&lt;p&gt;What's the reason for this?  Two possible theories.  (1) People just get mad and drive worse when their team loses, or (2) people leave venues in a more staggered fashion after a victory than after a defeat (since post-victory parties are more likely than post-defeat parties).&lt;/p&gt;
+&lt;p&gt;It also seems that most of the Friday spike can be attributed to the AM - not PM - rush.  Strange...&lt;/p&gt;
 
 &lt;h3 class=&quot;section-heading&quot;&gt;Data sources, code, etc.&lt;/h3&gt;
 
