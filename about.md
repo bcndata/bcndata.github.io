@@ -22,6 +22,8 @@ BCN Data strives to be provide a data-centric view of life for people living in,
 
 # Who  
 
+We're a Catalan-American couple enjoying life in Barcelona. 
+
 <p>Coloma Farre Lopez: <a href="mailto:colomafarre@gamil.com?Subject=Hello%20Coloma" target="_top">colomafarre@gmail.com</a> </p>
 
 

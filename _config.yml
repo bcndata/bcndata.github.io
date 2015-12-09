@@ -1,6 +1,6 @@
 # Site settings
 title: BCN data
-header-img: img/roofs.JPG
+header-img: img/bunkers.JPG
 email: joebrew@gmail.com
 description: "BCN data"
 url: "http://yourdomain.com"
@@ -12,6 +12,5 @@ facebook_username:  bcndata
 markdown: kramdown
 highlighter: pygments
 permalink: pretty
-paginate: 5
+paginate: 15
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
-

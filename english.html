@@ -1,9 +1,9 @@
 ---
 layout: page
+title: "English"
 description: "a data-centric perspective on life from Catalonia's capital"
+header-img: "img/bunkers.JPG"
 ---
-
-<h1 style="text-align: center;"><a href="{{ site.baseurl }}/catalan">CATALÀ</a> - <a href="{{ site.baseurl }}/english">ENGLISH</a> - <a href="{{ site.baseurl }}/espanol">ESPAÑOL</a></h1>
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- non-responsive -->
@@ -15,12 +15,7 @@ description: "a data-centric perspective on life from Catalonia's capital"
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-<!--
-<h2 align='center'>All posts (all languages)</h2>
-<hr>
-
-
-{% for post in paginator.posts %}
+{% for post in site.categories.en %}
 <div class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
         <h2 class="post-title">            {{ post.title }}
@@ -35,11 +30,8 @@ description: "a data-centric perspective on life from Catalonia's capital"
 </div>
 <hr>
 {% endfor %}
--->
-
 
 <!-- Pager -->
-<!--
 {% if paginator.total_pages > 1 %}
 <ul class="pager">
     {% if paginator.previous_page %}
@@ -54,7 +46,6 @@ description: "a data-centric perspective on life from Catalonia's capital"
     {% endif %}
 </ul>
 {% endif %}
--->
 
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
