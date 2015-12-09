@@ -45,9 +45,8 @@ You can find us on twitter under the handle @bcndata.
 
 We're also on Instagram.
 
-<!-- SnapWidget -->
-<script src="http://snapwidget.com/js/snapwidget.js"></script>
-<iframe src="http://snapwidget.com/in/?h=YmNuZGF0YXxpbnwxMjV8M3wzfHxub3w1fGZhZGVJbnxvblN0YXJ0fHllc3x5ZXM=&ve=081215" title="Instagram Widget" class="snapwidget-widget" allowTransparency="true" frameborder="0" scrolling="no" style="border:none; overflow:hidden; width:100%;"></iframe>
+<!-- www.intagme.com -->
+<iframe src="http://www.intagme.com/in/?u=YmNuZGF0YXxzbHwzMDB8MnwzfHx5ZXN8NXx1bmRlZmluZWR8eWVz" allowTransparency="true" frameborder="0" scrolling="no" style="border:none; overflow:hidden; width:315px; height: 315px" ></iframe>
 
 ### Facebook   
 
