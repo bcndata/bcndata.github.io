@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "About"
+header_title: "Nosaltres"
 description: "People who like Barcelona"
 header-img: "img/joe_i_colo.JPG"
 ---
