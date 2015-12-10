@@ -21,17 +21,14 @@ header-img: "img/joe_i_colo.JPG"
 BCN Data strives to be provide a data-centric view of life for people living in, affected by, or simply curious about Barcelona.
 
 
-# Who  
-
-We're a Catalan-American couple enjoying life in Barcelona. 
-
-<p>Coloma Farre Lopez: <a href="mailto:colomafarre@gamil.com?Subject=Hello%20Coloma" target="_top">colomafarre@gmail.com</a> </p>
-
-
-<p>Joe Brew: <a href="mailto:joebrew@gmail.com?Subject=Hello%20Joe" target="_top">joebrew@gmail.com</a> </p>
-
-
 # Where  
+
+### Instagram  
+
+We're on Instagram.
+
+<!-- www.intagme.com -->
+<iframe src="http://www.intagme.com/in/?u=YmNuZGF0YXxzbHwzMDB8MnwzfHx5ZXN8NXx1bmRlZmluZWR8eWVz" allowTransparency="true" frameborder="0" scrolling="no" style="border:none; overflow:hidden; width:315px; height: 315px" ></iframe>
 
 
 ### Twitter  
@@ -41,13 +38,6 @@ You can find us on twitter under the handle @bcndata.
 <a class="twitter-timeline" href="https://twitter.com/bcndata" data-widget-id="673974521024659456">Tuits de @bcndata</a>
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 
-
-### Instagram  
-
-We're also on Instagram.
-
-<!-- www.intagme.com -->
-<iframe src="http://www.intagme.com/in/?u=YmNuZGF0YXxzbHwzMDB8MnwzfHx5ZXN8NXx1bmRlZmluZWR8eWVz" allowTransparency="true" frameborder="0" scrolling="no" style="border:none; overflow:hidden; width:315px; height: 315px" ></iframe>
 
 ### Facebook   
 
@@ -65,3 +55,12 @@ Yep, facebook too.
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
+
+
+# Who  
+
+We're a Catalan-American couple enjoying life in Barcelona. 
+
+<p>Coloma Farre Lopez: <a href="mailto:colomafarre@gamil.com?Subject=Hello%20Coloma" target="_top">colomafarre@gmail.com</a> </p>
+
+<p>Joe Brew: <a href="mailto:joebrew@gmail.com?Subject=Hello%20Joe" target="_top">joebrew@gmail.com</a> </p>
