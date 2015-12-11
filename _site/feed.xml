@@ -5,8 +5,8 @@
     <description>BCN data</description>
     <link>http://yourdomain.com/</link>
     <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 11 Dec 2015 16:27:09 -0500</pubDate>
-    <lastBuildDate>Fri, 11 Dec 2015 16:27:09 -0500</lastBuildDate>
+    <pubDate>Fri, 11 Dec 2015 18:11:49 -0500</pubDate>
+    <lastBuildDate>Fri, 11 Dec 2015 18:11:49 -0500</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -811,17 +811,15 @@ Sure, &lt;a href=&quot;http://www.telegraph.co.uk/news/worldnews/europe/italy/31
 &lt;h3 class=&quot;section-heading&quot;&gt;I no sembla que estigui millorant&lt;/h3&gt;
 
 
-
-&lt;p&gt;El 2010, hi havia només una mica més de 9.000 accidents. El 2011, In 2010, there were just a hair over 9,000 accidents.  In 2011, that number dropped to 8,809.  Since then, however, the number of accidents has climbed by a few hundred per year, peaking at 9,660 in 2014 (the last year for which data are available).
+&lt;p&gt;El 2010, hi havia només una mica més de 9.000 accidents. El 2011, va baixar fins a 8.809.  Des de llavors per`o, el nombre d'accidents ha anat augmentant cada any, amb un màxim de 9.660 el 2014 (l'ultim any del qual disposem de dades).
 
 &lt;a href=&quot;/img/2015-11-30-Car-accidents-in-Barcelona/by_year_ca.JPG&quot;&gt;
     &lt;img src=&quot;/img/2015-11-30-Car-accidents-in-Barcelona/by_year_ca.JPG&quot; alt=&quot;So many photos in this post&quot;&gt;
 &lt;/a&gt;
 
-&lt;h3 class=&quot;section-heading&quot;&gt;When do accidents happen?&lt;/h3&gt;
+&lt;h3 class=&quot;section-heading&quot;&gt;Quan passen tots aquest accidents?&lt;/h3&gt;
 
-As consistent as the yearly numbers are, there's a lot of variation by time and day.  Afternoon is far worse than morning, for example.  In the below chart, you can make out spikes at around 8-9 AM (morning rush hour), 2 PM (afternoon break) and 5-7 PM (evening rush hour).  It's odd that the mid-day spike is so much higher than the morning and evening spikes - are that many people on the road at that time?
-
+Hi ha molta variació depenent del dia i la hora. La tarda és molt pitjor que el matí, per exemple. En el gràfic següent es veu clar la hora punta del matí, de 8 a 9, a les 2 amb el descans del migdia i l'hora punta a la tarda, entre 5 i 7.  In the below chart, you can make out spikes at around 8-9 AM (morning rush hour), 2 PM (afternoon break) and 5-7 PM (evening rush hour).  It's odd that the mid-day spike is so much higher than the morning and evening spikes - are that many people on the road at that time?
 
 &lt;a href=&quot;{ site.baseurl }}/img/2015-11-30-Car-accidents-in-Barcelona/hora)ca.JPG&quot;&gt;
     &lt;img src=&quot;/img/2015-11-30-Car-accidents-in-Barcelona/hora_ca.JPG&quot; alt=&quot;I can't really think of any way in which this photo is relevant&quot;&gt;
