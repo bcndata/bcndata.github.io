@@ -5,8 +5,8 @@
     <description>BCN data</description>
     <link>http://yourdomain.com/</link>
     <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 11 Dec 2015 18:32:57 -0500</pubDate>
-    <lastBuildDate>Fri, 11 Dec 2015 18:32:57 -0500</lastBuildDate>
+    <pubDate>Fri, 11 Dec 2015 18:53:02 -0500</pubDate>
+    <lastBuildDate>Fri, 11 Dec 2015 18:53:02 -0500</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -311,31 +311,31 @@ That's probably a stretch.  Yes, there are &lt;em&gt;slightly&lt;/em&gt; fewer d
 (adsbygoogle = window.adsbygoogle || []).push({});
 &lt;/script&gt;
 
-&lt;h3 class=&quot;section-heading&quot;&gt;Football and car accidents&lt;/h3&gt;
+&lt;h3 class=&quot;section-heading&quot;&gt;El futbol i els accidents de cotxe&lt;/h3&gt;
 
 
-&lt;p&gt;Apparently, &lt;em&gt;football games&lt;/em&gt; prevent car accidents.&lt;/p&gt; 
+&lt;p&gt;Sembla que els &lt;em&gt;partits de futbol&lt;/em&gt; prevenen accidents de cotxe.&lt;/p&gt; 
 
-&lt;p&gt;We looked at every accident from 2010-2014, and every Barcelona football game during the same period.  It turns out that, on average, game days are about 11% safer than non-game days.&lt;/p&gt;
+&lt;p&gt;Vam analitzar tots els accidents de 2010 a 2014, i tots els partits durant el mateix period.  Resulta que, com a mitjana, els dies de partit son aproximademnt 11% més segur que els dies on no jugan.&lt;/p&gt;
 
 &lt;table class='gmisc_table' style='border-collapse: collapse;' &gt;
 &lt;thead&gt;
 &lt;tr&gt;
-&lt;th style='border-bottom: 1px solid grey; border-top: 2px solid grey; text-align: center;'&gt;Status&lt;/th&gt;
-&lt;th style='border-bottom: 1px solid grey; border-top: 2px solid grey; text-align: center;'&gt;Days&lt;/th&gt;
+&lt;th style='border-bottom: 1px solid grey; border-top: 2px solid grey; text-align: center;'&gt;Estat&lt;/th&gt;
+&lt;th style='border-bottom: 1px solid grey; border-top: 2px solid grey; text-align: center;'&gt;Dies&lt;/th&gt;
 &lt;th style='border-bottom: 1px solid grey; border-top: 2px solid grey; text-align: center;'&gt;Accidents&lt;/th&gt;
-&lt;th style='border-bottom: 1px solid grey; border-top: 2px solid grey; text-align: center;'&gt;Daily Rate&lt;/th&gt;
+&lt;th style='border-bottom: 1px solid grey; border-top: 2px solid grey; text-align: center;'&gt;Per dia&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td style='text-align: center;'&gt;No game&lt;/td&gt;
+&lt;td style='text-align: center;'&gt;Sense partit&lt;/td&gt;
 &lt;td style='text-align: center;'&gt;1572&lt;/td&gt;
 &lt;td style='text-align: center;'&gt;40376&lt;/td&gt;
 &lt;td style='text-align: center;'&gt;25.68&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td style='border-bottom: 2px solid grey; text-align: center;'&gt;Game day&lt;/td&gt;
+&lt;td style='border-bottom: 2px solid grey; text-align: center;'&gt;Dia de partit&lt;/td&gt;
 &lt;td style='border-bottom: 2px solid grey; text-align: center;'&gt;254&lt;/td&gt;
 &lt;td style='border-bottom: 2px solid grey; text-align: center;'&gt;5802&lt;/td&gt;
 &lt;td style='border-bottom: 2px solid grey; text-align: center;'&gt;22.84&lt;/td&gt;
@@ -343,13 +343,13 @@ That's probably a stretch.  Yes, there are &lt;em&gt;slightly&lt;/em&gt; fewer d
 &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;h3 class=&quot;section-heading&quot;&gt;Maybe it's not really the football...&lt;/h3&gt;
+&lt;h3 class=&quot;section-heading&quot;&gt;Potser no és el futbol&lt;/h3&gt;
 
 
-&lt;p&gt;One could surmise that football matches keep people inside (glued to their television screens) rather than on the road (probably true), or that games take place more on the weekends than weekdays &lt;a href=&quot;/2015/11/30/Car-accidents-in-Barcelona/&quot;&gt;(when there are less accidents generally)&lt;/a&gt; .  In other words, football itself isn't &lt;em&gt;causing&lt;/em&gt; anything, and is simply acting as a proxy for traffic density.&lt;/p&gt;
+&lt;p&gt;Es podria pensar que els partits de futbol fan que la gent estigui adins (mirant la tele) en lloc d'al carrer (lo que és, probablement, de veritat), o que els partits tenden jugar-se més als caps de setmana &lt;a href=&quot;/2015/11/30/Car-accidents-in-Barcelona/&quot;&gt;(quan hi ha menys accidents en general)&lt;/a&gt;.  En altres palabres, el futbol no  &lt;em&gt;causa&lt;/em&gt; res, i només serveix d'indicador d'altres comporaments que tenen impact en la densitat de transit.&lt;/p&gt;
 
 
-&lt;p&gt;Is this the case?  We don't think so. &lt;/p&gt; 
+&lt;p&gt;És el cas? Pensem que no. &lt;/p&gt; 
 
 
 &lt;script async src=&quot;//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js&quot;&gt;&lt;/script&gt;
@@ -363,35 +363,32 @@ That's probably a stretch.  Yes, there are &lt;em&gt;slightly&lt;/em&gt; fewer d
 &lt;/script&gt;
 
 
-&lt;h3 class=&quot;section-heading&quot;&gt;Then again, maybe it is...&lt;/h3&gt;
-
-
-&lt;p&gt;When we dig deeper, we find that the &lt;em&gt;outcome&lt;/em&gt; of the match matters more than &lt;em&gt;whether or not there is a game&lt;/em&gt;. When the home team wins, there are few crashes.  But when Barça loses, there are even more crashes than on non-game days!&lt;/p&gt;
+&lt;p&gt;Quan anem més profundament en l'analasí, trobem que el &lt;em&gt;resultat&lt;/em&gt; del partit importa més que &lt;em&gt;si hi ha un partit o no&lt;/em&gt;. Quan guanya el Barça, hi ha menys accidents.  Quan perd el barça, hi ha encara més accidents que els dies sense partit!&lt;/p&gt;
 
 &lt;table class='gmisc_table' style='border-collapse: collapse;' &gt;
 &lt;thead&gt;
 &lt;tr&gt;
-&lt;th style='border-bottom: 1px solid grey; border-top: 2px solid grey; text-align: center;'&gt;Outcome&lt;/th&gt;
-&lt;th style='border-bottom: 1px solid grey; border-top: 2px solid grey; text-align: center;'&gt;Days&lt;/th&gt;
+&lt;th style='border-bottom: 1px solid grey; border-top: 2px solid grey; text-align: center;'&gt;Resultat&lt;/th&gt;
+&lt;th style='border-bottom: 1px solid grey; border-top: 2px solid grey; text-align: center;'&gt;Dies&lt;/th&gt;
 &lt;th style='border-bottom: 1px solid grey; border-top: 2px solid grey; text-align: center;'&gt;Accidents&lt;/th&gt;
-&lt;th style='border-bottom: 1px solid grey; border-top: 2px solid grey; text-align: center;'&gt;Daily rate&lt;/th&gt;
+&lt;th style='border-bottom: 1px solid grey; border-top: 2px solid grey; text-align: center;'&gt;Per dia&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td style='text-align: center;'&gt;Loss&lt;/td&gt;
+&lt;td style='text-align: center;'&gt;Perdre&lt;/td&gt;
 &lt;td style='text-align: center;'&gt;26&lt;/td&gt;
 &lt;td style='text-align: center;'&gt;711&lt;/td&gt;
 &lt;td style='text-align: center;'&gt;27.35&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td style='text-align: center;'&gt;No game&lt;/td&gt;
+&lt;td style='text-align: center;'&gt;Sense partit&lt;/td&gt;
 &lt;td style='text-align: center;'&gt;1572&lt;/td&gt;
 &lt;td style='text-align: center;'&gt;40376&lt;/td&gt;
 &lt;td style='text-align: center;'&gt;25.68&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td style='text-align: center;'&gt;Tie&lt;/td&gt;
+&lt;td style='text-align: center;'&gt;Empat&lt;/td&gt;
 &lt;td style='text-align: center;'&gt;45&lt;/td&gt;
 &lt;td style='text-align: center;'&gt;1078&lt;/td&gt;
 &lt;td style='text-align: center;'&gt;23.96&lt;/td&gt;
@@ -410,35 +407,35 @@ That's probably a stretch.  Yes, there are &lt;em&gt;slightly&lt;/em&gt; fewer d
 &lt;a href=&quot;#&quot;&gt;
     &lt;img src=&quot;/img/2015-11-30-Car-accidents-in-Barcelona/football.JPG&quot; alt=&quot;I can't really think of any way in which this photo is relevant&quot;&gt;
 &lt;/a&gt;
-&lt;span class=&quot;caption text-muted&quot;&gt;That's kind of crazy, right?&lt;/span&gt;
+&lt;span class=&quot;caption text-muted&quot;&gt;Això no pot ser, no?&lt;/span&gt;
 
-&lt;h3 class=&quot;section-heading&quot;&gt;Two theories&lt;/h3&gt;
+&lt;h3 class=&quot;section-heading&quot;&gt;Dues teories&lt;/h3&gt;
 
-&lt;p&gt;What's the reason for this?  Two possible theories:&lt;/p&gt;  
+&lt;p&gt;Que podria explicar això?  Tenim dues teories posibles:&lt;/p&gt;  
 
-&lt;p&gt;(1) People just get mad and drive worse when their team loses (possible, but unlikely).&lt;/p&gt;
+&lt;p&gt;(1) La gent s'enfada quan perd el seu équip i condueix encara més fatal que normal (posible, però no molt probable).&lt;/p&gt;
 
-&lt;p&gt;(2) People leave venues in a more staggered fashion after a victory than after a defeat (since post-victory parties are more likely than post-defeat parties).&lt;/p&gt;
+&lt;p&gt;(2) La gent martxa dels llocs (bars, cases, etc.) d'una manera més escalonada desprès d'una victoria (com que és més probable fer festa desprès de guanyar que desprès de perdre).&lt;/p&gt;
 
-&lt;h3 class=&quot;section-heading&quot;&gt;So, does football save lives?&lt;/h3&gt;
+&lt;h3 class=&quot;section-heading&quot;&gt;Llavors, el football salva vides?&lt;/h3&gt;
 
-That's probably a stretch.  Yes, there are &lt;em&gt;slightly&lt;/em&gt; fewer deaths on a winning vs. losing days, but this doesn't quite reach the level of &quot;statistical significance.&quot;  
+&lt;p&gt;Probablement no.  Si, hi ha &lt;em&gt;una mica&lt;/em&gt; menys morts els dies que guanya el Barça que quan perd, pero això no arriba al nivell de &quot;significat stadística&quot;. &lt;/p&gt;
 
 &lt;a href=&quot;#&quot;&gt;
     &lt;img src=&quot;/img/2015-11-30-Car-accidents-in-Barcelona/deaths.JPG&quot; alt=&quot;I can't really think of any way in which this photo is relevant&quot;&gt;
 &lt;/a&gt;
-&lt;span class=&quot;caption text-muted&quot;&gt;Perhaps la liga should ban ties?&lt;/span&gt;
+&lt;span class=&quot;caption text-muted&quot;&gt;La liga hauria de prohibir els empats?&lt;/span&gt;
 
-&lt;p&gt;That said, the reduction in &lt;em&gt;accidents&lt;/em&gt; associated with football victories &lt;em&gt;is&lt;/em&gt; significant.  So, if you're reading this, Messi - put down the computer, and get back to your training!&lt;/p&gt;
+&lt;p&gt;Això dit, la reducció en &lt;em&gt;accidents&lt;/em&gt; associada amb les victories de futbol &lt;em&gt;si&lt;/em&gt; que és significativa. Així que, si estàs llegint això, Leonel, torna al teu entrenament!&lt;/p&gt;
 
 
-&lt;h3 class=&quot;section-heading&quot;&gt;Data sources, code, etc.&lt;/h3&gt;
+&lt;h3 class=&quot;section-heading&quot;&gt;Font de dades, códig, etc.&lt;/h3&gt;
 
-&lt;p&gt;OpenDataBCN hosts the &lt;a href=&quot;http://opendata.bcn.cat/opendata/ca/catalog/ENTORN_URBA&quot;&gt;dataset&lt;/a&gt; for traffic accidents managed by the Guardia Urbana.&lt;/p&gt;
+&lt;p&gt;Les dades sobre els accidents de cotxe venen del &lt;a href=&quot;http://opendata.bcn.cat/opendata/ca/catalog/ENTORN_URBA&quot;&gt;portal OpenDataBCN&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;Data on football matches, locations, and outcomes was manually gathered from multiple Wikipedia pages.  The cleaned-up data is &lt;a href='https://github.com/bcndata/bcndata/blob/master/data/accidents_de_cotxe/football_games/games_2010-2014.csv'&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Les dades sobre el football, vem compilar nosaltres manualment de varias págines de Wikipedia.  La versió &quot;neta&quot; d'aquestes dades es poden accedir &lt;a href='https://github.com/bcndata/bcndata/blob/master/data/accidents_de_cotxe/football_games/games_2010-2014.csv'&gt;aqui&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;As always, the code and data for this post (including source files, cleaning script, visualizations, etc.) can all be found on &lt;a href=&quot;https://github.com/bcndata/accidents_de_cotxe&quot;&gt;github&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;El códig i les dades (incluyent els archius de font, el códig per a netejar, i el códig per a generar les visualitzacions) es poden trobar en &lt;a href=&quot;https://github.com/bcndata/accidents_de_cotxe&quot;&gt;github&lt;/a&gt;.&lt;/p&gt;
 
 
 &lt;script async src=&quot;//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js&quot;&gt;&lt;/script&gt;
@@ -522,9 +519,6 @@ That's probably a stretch.  Yes, there are &lt;em&gt;slightly&lt;/em&gt; fewer d
 &lt;script&gt;
 (adsbygoogle = window.adsbygoogle || []).push({});
 &lt;/script&gt;
-
-
-&lt;h3 class=&quot;section-heading&quot;&gt;Then again, maybe it is...&lt;/h3&gt;
 
 
 &lt;p&gt;When we dig deeper, we find that the &lt;em&gt;outcome&lt;/em&gt; of the match matters more than &lt;em&gt;whether or not there is a game&lt;/em&gt;. When the home team wins, there are few crashes.  But when Barça loses, there are even more crashes than on non-game days!&lt;/p&gt;
