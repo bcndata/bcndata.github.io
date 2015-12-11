@@ -5,8 +5,8 @@
     <description>BCN data</description>
     <link>http://yourdomain.com/</link>
     <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 11 Dec 2015 18:53:02 -0500</pubDate>
-    <lastBuildDate>Fri, 11 Dec 2015 18:53:02 -0500</lastBuildDate>
+    <pubDate>Fri, 11 Dec 2015 18:59:31 -0500</pubDate>
+    <lastBuildDate>Fri, 11 Dec 2015 18:59:31 -0500</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -800,7 +800,7 @@ As consistent as the yearly numbers are, there's a lot of variation by time and 
 &lt;/a&gt;
 &lt;span class=&quot;caption text-muted&quot;&gt;&lt;/span&gt;
 
-Sure, &lt;a href=&quot;http://www.telegraph.co.uk/news/worldnews/europe/italy/3198659/Rome-most-dangerous-city-in-Europe-for-traffic-accidents.html&quot;&gt;Roma és pitjor.&lt;/a&gt; (quina sorpresa, no?), però Barcelona té molts cotxes, moltes motos, molts autobusos i molta gent intentant anar de punt A a punt B. Tot això porta a una mitjana de 9.235 accidents per any en els últims 5 anys, el que correspon a més de 25 accidetns per dia.&lt;/p&gt;
+&lt;a href=&quot;http://www.telegraph.co.uk/news/worldnews/europe/italy/3198659/Rome-most-dangerous-city-in-Europe-for-traffic-accidents.html&quot;&gt;Roma és pitjor.&lt;/a&gt; (quina sorpresa, no?), però Barcelona té molts cotxes, moltes motos, molts autobusos i molta gent intentant anar de punt A a punt B. Tot això porta a una mitjana de 9.235 accidents per any en els últims 5 anys, el que correspon a més de 25 accidetns per dia.&lt;/p&gt;
 
 &lt;h3 class=&quot;section-heading&quot;&gt;I no sembla que estigui millorant&lt;/h3&gt;
 
@@ -813,13 +813,13 @@ Sure, &lt;a href=&quot;http://www.telegraph.co.uk/news/worldnews/europe/italy/31
 
 &lt;h3 class=&quot;section-heading&quot;&gt;Quan passen tots aquest accidents?&lt;/h3&gt;
 
-Hi ha molta variació depenent del dia i la hora. La tarda és molt pitjor que el matí, per exemple. En el gràfic següent es veu clar la hora punta del matí, de 8 a 9, a les 2 amb el descans del migdia i l'hora punta a la tarda, entre 5 i 7.  En le gráfic a sota, es veu les pujedes a aproximadament les 8-9 del matí, les 2 de la tarda i les 5-7 de la tarda.  És raro que la pujada al mitgdia es més alta que les del matí i de la tarda - realment hi ha tanta gent als carrers a la hora de dinar?
+Hi ha molta variació depenent del dia i la hora. La tarda és molt pitjor que el matí, per exemple. En el gràfic següent es veu clar la hora punta del matí, de 8 a 9, a les 2 amb el descans del migdia i l'hora punta a la tarda, entre 5 i 7.  És extrany que la pujada al mitgdia es més alta que les del matí i de la tarda - realment hi ha tanta gent als carrers a la hora de dinar?
 
 &lt;a href=&quot;{ site.baseurl }}/img/2015-11-30-Car-accidents-in-Barcelona/hora)ca.JPG&quot;&gt;
     &lt;img src=&quot;/img/2015-11-30-Car-accidents-in-Barcelona/hora_ca.JPG&quot; alt=&quot;I can't really think of any way in which this photo is relevant&quot;&gt;
 &lt;/a&gt;
 
-&lt;p&gt;Els dies de la setmana (sobre tot el divendres) son molt pitjors que els caps de setmana.&lt;/p&gt;
+&lt;p&gt;Els dies entre setmana (sobre tot el divendres) son molt pitjors que els caps de setmana.&lt;/p&gt;
 
 &lt;a href=&quot;/img/2015-11-30-Car-accidents-in-Barcelona/dia_ca.JPG&quot;&gt;
     &lt;img src=&quot;/img/2015-11-30-Car-accidents-in-Barcelona/dia_ca.JPG&quot; alt=&quot;I can't really think of any way in which this photo is relevant&quot;&gt;
@@ -837,19 +837,19 @@ Hi ha molta variació depenent del dia i la hora. La tarda és molt pitjor que e
 &lt;/script&gt;
 
 
-&lt;p&gt;Quan mirem els números al llarg de una setmana sencera, veiem que hi ha una pujada pre-mitjanit (tornat del sopar?), lo que no existeix al cap de setmana.&lt;/p&gt;
+&lt;p&gt;Quan mirem els números al llarg d'una setmana sencera, veiem que hi ha una pujada abans de la mitjanit (tornat del sopar?), lo que no existeix durant el cap de setmana.&lt;/p&gt;
 
 &lt;a href=&quot;/img/2015-11-30-Car-accidents-in-Barcelona/full_week_ca.JPG&quot;&gt;
     &lt;img src=&quot;/img/2015-11-30-Car-accidents-in-Barcelona/full_week_ca.JPG&quot; alt=&quot;So many photos in this post&quot;&gt;
 &lt;/a&gt;
 
-&lt;p&gt;També sembla que la tasa de accidents tan alta del divendres es deu al matí, i no a la tarda.  Que raro...&lt;/p&gt;
+&lt;p&gt;També sembla que la taxe d'accidents tan alta del divendres es deu al matí, i no a la tarda.  Que extrany...&lt;/p&gt;
 
 &lt;h3 class=&quot;section-heading&quot;&gt;Com estrelles al cel a la nit&lt;/h3&gt;
 
 &lt;p&gt;Els accidents de cotxe és un tema força mordbid.  Matan a massa gent, i causan sufriment incontable pels afectats.&lt;/p&gt;
 
-&lt;p&gt;La visualizació de dades ens pot ajudar a absorbar números que son massa grans pels nostres cervells de primat (o sigui, els deu miles de accidents a Barcelona aquests ultims anys, i les centanes de morts associats).  Així que acabarem aquest post amb un visual: fes click al mapa d'aqui a sote - els punts blancs son accidents, i els vermells son morts.&lt;/p&gt;    
+&lt;p&gt;La visualizació de dades ens pot ajudar a absorbir números que son massa grans pels nostres cervells de primat (o sigui, els milers d'accidents a Barcelona aquests ultims anys, i els centenats de morts associats).  Doncs acabarem aquest post amb un mapa: fes click al mapa d'aqui a sote - els punts blancs son accidents, i els vermells son morts.&lt;/p&gt;    
 
 &lt;a href=&quot;/img/2015-11-30-Car-accidents-in-Barcelona/static.jpeg&quot;&gt;
     &lt;img src=&quot;/img/2015-11-30-Car-accidents-in-Barcelona/static.jpeg&quot; alt=&quot;So many photos in this post&quot;&gt;
