@@ -5,8 +5,8 @@
     <description>BCN data</description>
     <link>http://yourdomain.com/</link>
     <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 11 Dec 2015 11:18:55 -0500</pubDate>
-    <lastBuildDate>Fri, 11 Dec 2015 11:18:55 -0500</lastBuildDate>
+    <pubDate>Fri, 11 Dec 2015 16:27:09 -0500</pubDate>
+    <lastBuildDate>Fri, 11 Dec 2015 16:27:09 -0500</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -21,17 +21,17 @@
 (adsbygoogle = window.adsbygoogle || []).push({});
 &lt;/script&gt;
 
-&lt;h3 align='middle'&gt;Every Barcelona car accident from 2010-2014&lt;/h3&gt;
+&lt;h3 align='middle'&gt;Todos los accidents de coche de 2010-2014&lt;/h3&gt;
 
-&lt;iframe src=&quot;/img/2015-11-30-Car-accidents-in-Barcelona/widget.html&quot; height = 600 width = 100%&gt;&lt;/iframe&gt;
+&lt;iframe src=&quot;/img/2015-11-30-Car-accidents-in-Barcelona/widget_es.html&quot; height = 600 width = 100%&gt;&lt;/iframe&gt;
 
-&lt;p&gt;Zoom in and around, and click on the markers for details about each accident.&lt;/p&gt;
+&lt;p&gt;Haz clic en los marcadores para ver los detalles&lt;/p&gt;
 
-&lt;h3 class=&quot;section-heading&quot;&gt;Data sources, code, etc.&lt;/h3&gt;
+&lt;h3 class=&quot;section-heading&quot;&gt;Fuente de datos, código, etc.&lt;/h3&gt;
 
-&lt;p&gt;OpenDataBCN hosts the &lt;a href=&quot;http://opendata.bcn.cat/opendata/ca/catalog/ENTORN_URBA&quot;&gt;dataset&lt;/a&gt; for traffic accidents managed by the Guardia Urbana.&lt;/p&gt;
+&lt;p&gt;Los data provienen del &lt;a href=&quot;http://opendata.bcn.cat/opendata/ca/catalog/ENTORN_URBA&quot;&gt;portal OpenDataBCN&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;This map was generated in R, using the leaflet library. The code and data for this post (including source files, cleaning script, visualizations, etc.) can all be found on &lt;a href=&quot;https://github.com/bcndata/accidents_de_cotxe&quot;&gt;github&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Generamos el mapa en R, aprovechando el paquete leaflet. El código y los datos (incluyendo los archivos de fuente, el código para limpiar, y el código para producir las visualizaciones) se pueden encontrar en &lt;a href=&quot;https://github.com/bcndata/accidents_de_cotxe&quot;&gt;github&lt;/a&gt;.&lt;/p&gt;
 
 &lt;script async src=&quot;//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js&quot;&gt;&lt;/script&gt;
 &lt;!-- First ad --&gt;
@@ -64,17 +64,17 @@
 (adsbygoogle = window.adsbygoogle || []).push({});
 &lt;/script&gt;
 
-&lt;h3 align='middle'&gt;Every Barcelona car accident from 2010-2014&lt;/h3&gt;
+&lt;h3 align='middle'&gt;Tots els accidents de cotxe a Barcelona de 2010-2014&lt;/h3&gt;
 
-&lt;iframe src=&quot;/img/2015-11-30-Car-accidents-in-Barcelona/widget.html&quot; height = 600 width = 100%&gt;&lt;/iframe&gt;
+&lt;iframe src=&quot;/img/2015-11-30-Car-accidents-in-Barcelona/widget_ca.html&quot; height = 600 width = 100%&gt;&lt;/iframe&gt;
 
-&lt;p&gt;Zoom in and around, and click on the markers for details about each accident.&lt;/p&gt;
+&lt;p&gt;Fes zoom, explora, i fes clic en els marcadors per a veure detalls sobre cada incident.&lt;/p&gt;
 
-&lt;h3 class=&quot;section-heading&quot;&gt;Data sources, code, etc.&lt;/h3&gt;
+&lt;h3 class=&quot;section-heading&quot;&gt;Font de dades, códig, etc.&lt;/h3&gt;
 
-&lt;p&gt;OpenDataBCN hosts the &lt;a href=&quot;http://opendata.bcn.cat/opendata/ca/catalog/ENTORN_URBA&quot;&gt;dataset&lt;/a&gt; for traffic accidents managed by the Guardia Urbana.&lt;/p&gt;
+&lt;p&gt;Les dades venen del &lt;a href=&quot;http://opendata.bcn.cat/opendata/ca/catalog/ENTORN_URBA&quot;&gt;portal OpenDataBCN&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;This map was generated in R, using the leaflet library. The code and data for this post (including source files, cleaning script, visualizations, etc.) can all be found on &lt;a href=&quot;https://github.com/bcndata/accidents_de_cotxe&quot;&gt;github&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Vem fer el mapa en R, utilitzant el paquet Leaflet.  El códig i les dades (incluyent els archius de font, el códig per a netejar, i el códig per a generar les visualitzacions) es poden trobar en &lt;a href=&quot;https://github.com/bcndata/accidents_de_cotxe&quot;&gt;github&lt;/a&gt;.&lt;/p&gt;
 
 &lt;script async src=&quot;//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js&quot;&gt;&lt;/script&gt;
 &lt;!-- First ad --&gt;
@@ -635,7 +635,7 @@ That's probably a stretch.  Yes, there are &lt;em&gt;slightly&lt;/em&gt; fewer d
 
 &lt;h3 class=&quot;section-heading&quot;&gt;Barcelonians crash.  A lot.&lt;/h3&gt;
 
-&lt;p&gt;Wouldn't it be cool to see all the car accidents on one map?  Yes, that would be awesome.  &lt;a href=&quot;/2015/12/07/Every-car-accident-in-Barcelona-since-2010/&quot;&gt;HERE's&lt;/a&gt; every Barcelona car accident from 2010 to 2014.&lt;/p&gt;
+&lt;p&gt;Wouldn't it be cool to see all the car accidents on one map?  Yes, that would be awesome.  &lt;a href=&quot;/es/2015/12/07/Every-car-accident-in-Barcelona-since-2010.es/&quot;&gt;HERE's&lt;/a&gt; every Barcelona car accident from 2010 to 2014.&lt;/p&gt;
 
 &lt;p&gt;With so many accidents, you might be thinking, &quot;how can I avoid getting in a wreck?&quot; You won't find the answer here, but you might start by avoiding &lt;em&gt;the most dangerous intersection in Barcelona...&lt;/em&gt;&lt;/p&gt;
 
@@ -674,8 +674,8 @@ Sure, &lt;a href=&quot;http://www.telegraph.co.uk/news/worldnews/europe/italy/31
 
 &lt;p&gt;In 2010, there were just a hair over 9,000 accidents.  In 2011, that number dropped to 8,809.  Since then, however, the number of accidents has climbed by a few hundred per year, peaking at 9,660 in 2014 (the last year for which data are available).
 
-&lt;a href=&quot;/img/2015-11-30-Car-accidents-in-Barcelona/by_year.JPG&quot;&gt;
-    &lt;img src=&quot;/img/2015-11-30-Car-accidents-in-Barcelona/by_year.JPG&quot; alt=&quot;So many photos in this post&quot;&gt;
+&lt;a href=&quot;/img/2015-11-30-Car-accidents-in-Barcelona/by_year_es.JPG&quot;&gt;
+    &lt;img src=&quot;/img/2015-11-30-Car-accidents-in-Barcelona/by_year_es.JPG&quot; alt=&quot;So many photos in this post&quot;&gt;
 &lt;/a&gt;
 
 &lt;h3 class=&quot;section-heading&quot;&gt;When do accidents happen?&lt;/h3&gt;
@@ -683,14 +683,14 @@ Sure, &lt;a href=&quot;http://www.telegraph.co.uk/news/worldnews/europe/italy/31
 As consistent as the yearly numbers are, there's a lot of variation by time and day.  Afternoon is far worse than morning, for example.  In the below chart, you can make out spikes at around 8-9 AM (morning rush hour), 2 PM (afternoon break) and 5-7 PM (evening rush hour).  It's odd that the mid-day spike is so much higher than the morning and evening spikes - are that many people on the road at that time?
 
 
-&lt;a href=&quot;{ site.baseurl }}/img/2015-11-30-Car-accidents-in-Barcelona/hora.JPG&quot;&gt;
-    &lt;img src=&quot;/img/2015-11-30-Car-accidents-in-Barcelona/hora.JPG&quot; alt=&quot;I can't really think of any way in which this photo is relevant&quot;&gt;
+&lt;a href=&quot;{ site.baseurl }}/img/2015-11-30-Car-accidents-in-Barcelona/hora_es.JPG&quot;&gt;
+    &lt;img src=&quot;/img/2015-11-30-Car-accidents-in-Barcelona/hora_es.JPG&quot; alt=&quot;I can't really think of any way in which this photo is relevant&quot;&gt;
 &lt;/a&gt;
 
 &lt;p&gt;Weekdays (especially Friday) are far worse than weekends.&lt;/p&gt;
 
-&lt;a href=&quot;/img/2015-11-30-Car-accidents-in-Barcelona/dia.JPG&quot;&gt;
-    &lt;img src=&quot;/img/2015-11-30-Car-accidents-in-Barcelona/dia.JPG&quot; alt=&quot;I can't really think of any way in which this photo is relevant&quot;&gt;
+&lt;a href=&quot;/img/2015-11-30-Car-accidents-in-Barcelona/dia_es.JPG&quot;&gt;
+    &lt;img src=&quot;/img/2015-11-30-Car-accidents-in-Barcelona/dia_es.JPG&quot; alt=&quot;I can't really think of any way in which this photo is relevant&quot;&gt;
 &lt;/a&gt;
 
 &lt;script async src=&quot;//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js&quot;&gt;&lt;/script&gt;
@@ -707,8 +707,8 @@ As consistent as the yearly numbers are, there's a lot of variation by time and 
 
 &lt;p&gt;When we look at the averages over the course of an entire week, we see that weekdays have a pre-midnight spike (coming home from dinner), which is conspicuously absent on weekends.&lt;/p&gt;
 
-&lt;a href=&quot;/img/2015-11-30-Car-accidents-in-Barcelona/full_week.JPG&quot;&gt;
-    &lt;img src=&quot;/img/2015-11-30-Car-accidents-in-Barcelona/full_week.JPG&quot; alt=&quot;So many photos in this post&quot;&gt;
+&lt;a href=&quot;/img/2015-11-30-Car-accidents-in-Barcelona/full_week_es.JPG&quot;&gt;
+    &lt;img src=&quot;/img/2015-11-30-Car-accidents-in-Barcelona/full_week_es.JPG&quot; alt=&quot;So many photos in this post&quot;&gt;
 &lt;/a&gt;
 
 &lt;p&gt;It also seems that most of the Friday spike can be attributed to the AM - not PM - rush.  Strange...&lt;/p&gt;
@@ -775,7 +775,7 @@ As consistent as the yearly numbers are, there's a lot of variation by time and 
 
 &lt;h3 class=&quot;section-heading&quot;&gt;Els barcelonins xoquen. I molt.&lt;/h3&gt;
 
-&lt;p&gt;Seria molt guai veure tots els accident en un mapa, no? Si cliques  &lt;a href=&quot;/2015/12/07/Every-car-accident-in-Barcelona-since-2010/&quot;&gt;AQUÍ&lt;/a&gt; podras fer-ho. Tot els accidents de cotxe a Barcelona del 2010 al 2014. &lt;/p&gt;
+&lt;p&gt;Seria molt guai veure tots els accident en un mapa, no? Si cliques  &lt;a href=&quot;/ca/2015/12/07/Every-car-accident-in-Barcelona-since-2010.ca/&quot;&gt;AQUÍ&lt;/a&gt; podras fer-ho. Tot els accidents de cotxe a Barcelona del 2010 al 2014. &lt;/p&gt;
 
 &lt;p&gt;Amb tants accidents, estaras pensant, &quot;com puc evitar aquests merders?&quot;. Aquí no trobarás la resposta, però pots començar evitant &lt;em&gt;la intersecció més perillosa de Barcelona...&lt;/em&gt;&lt;/p&gt;
 
@@ -814,8 +814,8 @@ Sure, &lt;a href=&quot;http://www.telegraph.co.uk/news/worldnews/europe/italy/31
 
 &lt;p&gt;El 2010, hi havia només una mica més de 9.000 accidents. El 2011, In 2010, there were just a hair over 9,000 accidents.  In 2011, that number dropped to 8,809.  Since then, however, the number of accidents has climbed by a few hundred per year, peaking at 9,660 in 2014 (the last year for which data are available).
 
-&lt;a href=&quot;/img/2015-11-30-Car-accidents-in-Barcelona/by_year.JPG&quot;&gt;
-    &lt;img src=&quot;/img/2015-11-30-Car-accidents-in-Barcelona/by_year.JPG&quot; alt=&quot;So many photos in this post&quot;&gt;
+&lt;a href=&quot;/img/2015-11-30-Car-accidents-in-Barcelona/by_year_ca.JPG&quot;&gt;
+    &lt;img src=&quot;/img/2015-11-30-Car-accidents-in-Barcelona/by_year_ca.JPG&quot; alt=&quot;So many photos in this post&quot;&gt;
 &lt;/a&gt;
 
 &lt;h3 class=&quot;section-heading&quot;&gt;When do accidents happen?&lt;/h3&gt;
@@ -823,14 +823,14 @@ Sure, &lt;a href=&quot;http://www.telegraph.co.uk/news/worldnews/europe/italy/31
 As consistent as the yearly numbers are, there's a lot of variation by time and day.  Afternoon is far worse than morning, for example.  In the below chart, you can make out spikes at around 8-9 AM (morning rush hour), 2 PM (afternoon break) and 5-7 PM (evening rush hour).  It's odd that the mid-day spike is so much higher than the morning and evening spikes - are that many people on the road at that time?
 
 
-&lt;a href=&quot;{ site.baseurl }}/img/2015-11-30-Car-accidents-in-Barcelona/hora.JPG&quot;&gt;
-    &lt;img src=&quot;/img/2015-11-30-Car-accidents-in-Barcelona/hora.JPG&quot; alt=&quot;I can't really think of any way in which this photo is relevant&quot;&gt;
+&lt;a href=&quot;{ site.baseurl }}/img/2015-11-30-Car-accidents-in-Barcelona/hora)ca.JPG&quot;&gt;
+    &lt;img src=&quot;/img/2015-11-30-Car-accidents-in-Barcelona/hora_ca.JPG&quot; alt=&quot;I can't really think of any way in which this photo is relevant&quot;&gt;
 &lt;/a&gt;
 
 &lt;p&gt;Weekdays (especially Friday) are far worse than weekends.&lt;/p&gt;
 
-&lt;a href=&quot;/img/2015-11-30-Car-accidents-in-Barcelona/dia.JPG&quot;&gt;
-    &lt;img src=&quot;/img/2015-11-30-Car-accidents-in-Barcelona/dia.JPG&quot; alt=&quot;I can't really think of any way in which this photo is relevant&quot;&gt;
+&lt;a href=&quot;/img/2015-11-30-Car-accidents-in-Barcelona/dia_ca.JPG&quot;&gt;
+    &lt;img src=&quot;/img/2015-11-30-Car-accidents-in-Barcelona/dia_ca.JPG&quot; alt=&quot;I can't really think of any way in which this photo is relevant&quot;&gt;
 &lt;/a&gt;
 
 &lt;script async src=&quot;//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js&quot;&gt;&lt;/script&gt;
@@ -847,8 +847,8 @@ As consistent as the yearly numbers are, there's a lot of variation by time and 
 
 &lt;p&gt;When we look at the averages over the course of an entire week, we see that weekdays have a pre-midnight spike (coming home from dinner), which is conspicuously absent on weekends.&lt;/p&gt;
 
-&lt;a href=&quot;/img/2015-11-30-Car-accidents-in-Barcelona/full_week.JPG&quot;&gt;
-    &lt;img src=&quot;/img/2015-11-30-Car-accidents-in-Barcelona/full_week.JPG&quot; alt=&quot;So many photos in this post&quot;&gt;
+&lt;a href=&quot;/img/2015-11-30-Car-accidents-in-Barcelona/full_week_ca.JPG&quot;&gt;
+    &lt;img src=&quot;/img/2015-11-30-Car-accidents-in-Barcelona/full_week_ca.JPG&quot; alt=&quot;So many photos in this post&quot;&gt;
 &lt;/a&gt;
 
 &lt;p&gt;It also seems that most of the Friday spike can be attributed to the AM - not PM - rush.  Strange...&lt;/p&gt;

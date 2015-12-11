@@ -64,3 +64,7 @@ We're a Catalan-American couple enjoying life in Barcelona.
 <p>Coloma Farre Lopez: <a href="mailto:colomafarre@gamil.com?Subject=Hello%20Coloma" target="_top">colomafarre@gmail.com</a> </p>
 
 <p>Joe Brew: <a href="mailto:joebrew@gmail.com?Subject=Hello%20Joe" target="_top">joebrew@gmail.com</a> </p>
+
+# Legal  
+
+<p>This site's formatting was originally based on the "clean blog" template produced by <a href="http://startbootstrap.com">Start Bootstrap (Iron Summit Media Strategies)</a>. We have modified it in accordance with the terms of the <a href="https://github.com/IronSummitMedia/startbootstrap/blob/gh-pages/LICENSE">Apache 2.0 license</a>. The original template can be found on <a href="https://github.com/IronSummitMedia/startbootstrap-clean-blog-jekyll.git">github</a>.</p>
