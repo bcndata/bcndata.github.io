@@ -5,8 +5,8 @@
     <description>BCN data</description>
     <link>http://yourdomain.com/</link>
     <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 11 Dec 2015 19:54:24 -0500</pubDate>
-    <lastBuildDate>Fri, 11 Dec 2015 19:54:24 -0500</lastBuildDate>
+    <pubDate>Fri, 11 Dec 2015 21:37:43 -0500</pubDate>
+    <lastBuildDate>Fri, 11 Dec 2015 21:37:43 -0500</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -141,7 +141,7 @@
       </item>
     
       <item>
-        <title>El futbol salva vides?</title>
+        <title>¿El futból salva vidas?</title>
         <description>&lt;script async src=&quot;//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js&quot;&gt;&lt;/script&gt;
 &lt;!-- horiz large ad --&gt;
 &lt;ins class=&quot;adsbygoogle&quot;
@@ -152,31 +152,31 @@
 (adsbygoogle = window.adsbygoogle || []).push({});
 &lt;/script&gt;
 
-&lt;h3 class=&quot;section-heading&quot;&gt;El futbol i els accidents de cotxe&lt;/h3&gt;
+&lt;h3 class=&quot;section-heading&quot;&gt;El futból y los accidentes de coche&lt;/h3&gt;
 
 
-&lt;p&gt;Sembla que els &lt;em&gt;partits de futbol&lt;/em&gt; prevenen accidents de cotxe.&lt;/p&gt; 
+&lt;p&gt;Parece que los &lt;em&gt;partidos de futból&lt;/em&gt; previenen accidentes de coche.&lt;/p&gt; 
 
-&lt;p&gt;Vem analitzar tots els accidents de 2010 a 2014, i tots els partits durant el mateix periode.  Resulta que, com a mitjana, els dies de partit son aproximadament 11% més segurs que els dies sense.&lt;/p&gt;
+&lt;p&gt;Hemos analizado todos los accidentes de 2010 a 2014, y todos los partidos durante el mismo periodo.  Sucede que, como mediana, los días de partido son aproximadamente 11% más seguros que los días sin.&lt;/p&gt;
 
 &lt;table class='gmisc_table' style='border-collapse: collapse;' &gt;
 &lt;thead&gt;
 &lt;tr&gt;
-&lt;th style='border-bottom: 1px solid grey; border-top: 2px solid grey; text-align: center;'&gt;Estat&lt;/th&gt;
-&lt;th style='border-bottom: 1px solid grey; border-top: 2px solid grey; text-align: center;'&gt;Dies&lt;/th&gt;
-&lt;th style='border-bottom: 1px solid grey; border-top: 2px solid grey; text-align: center;'&gt;Accidents&lt;/th&gt;
-&lt;th style='border-bottom: 1px solid grey; border-top: 2px solid grey; text-align: center;'&gt;Per dia&lt;/th&gt;
+&lt;th style='border-bottom: 1px solid grey; border-top: 2px solid grey; text-align: center;'&gt;Estado&lt;/th&gt;
+&lt;th style='border-bottom: 1px solid grey; border-top: 2px solid grey; text-align: center;'&gt;Días&lt;/th&gt;
+&lt;th style='border-bottom: 1px solid grey; border-top: 2px solid grey; text-align: center;'&gt;Accidentes&lt;/th&gt;
+&lt;th style='border-bottom: 1px solid grey; border-top: 2px solid grey; text-align: center;'&gt;Por dia&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td style='text-align: center;'&gt;Sense partit&lt;/td&gt;
+&lt;td style='text-align: center;'&gt;Sin partido&lt;/td&gt;
 &lt;td style='text-align: center;'&gt;1572&lt;/td&gt;
 &lt;td style='text-align: center;'&gt;40376&lt;/td&gt;
 &lt;td style='text-align: center;'&gt;25.68&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td style='border-bottom: 2px solid grey; text-align: center;'&gt;Dia de partit&lt;/td&gt;
+&lt;td style='border-bottom: 2px solid grey; text-align: center;'&gt;Día de partido&lt;/td&gt;
 &lt;td style='border-bottom: 2px solid grey; text-align: center;'&gt;254&lt;/td&gt;
 &lt;td style='border-bottom: 2px solid grey; text-align: center;'&gt;5802&lt;/td&gt;
 &lt;td style='border-bottom: 2px solid grey; text-align: center;'&gt;22.84&lt;/td&gt;
@@ -184,13 +184,13 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;h3 class=&quot;section-heading&quot;&gt;Potser no és el futbol&lt;/h3&gt;
+&lt;h3 class=&quot;section-heading&quot;&gt;Tal vez no es el futból&lt;/h3&gt;
 
 
-&lt;p&gt;Es podria pensar que els partits de futbol fan que la gent estigui més adins de casa (mirant la tele) que al carrer (el que realment és veritat), o que els partits tendeixen jugar-se més als caps de setmana &lt;a href=&quot;/2015/11/30/Car-accidents-in-Barcelona/&quot;&gt;(quan hi ha menys accidents en general)&lt;/a&gt;.  En altres paraules, el futbol en si  &lt;em&gt;no te res a veure amb els accidents&lt;/em&gt;, i només serveix d'indicador d'altres comporaments que tenen impacte en la densitat de transit.&lt;/p&gt;
+&lt;p&gt;Se podría pensar que los partidos de futból hacen que la gente esté más en casa (mirando la tele) que en la calle (lo que realmente es verdad), o que los partidos tienden jugarse más los fines de semana &lt;a href=&quot;/2015/11/30/Car-accidents-in-Barcelona/&quot;&gt;(cuando hay menos accidentes en general)&lt;/a&gt;.  En otras palabras, el futból en si &lt;em&gt;no tiene nada que ver con los accidentes&lt;/em&gt;, y solo sirve de indicador de otros comportamientos que tienen impacto en la densidad de tráfico.&lt;/p&gt;
 
 
-&lt;p&gt;És el cas? Pensem que no.&lt;/p&gt; 
+&lt;p&gt;Es el caso? Pensamos que no.&lt;/p&gt; 
 
 
 &lt;script async src=&quot;//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js&quot;&gt;&lt;/script&gt;
@@ -204,38 +204,40 @@
 &lt;/script&gt;
 
 
-&lt;p&gt;Quan anem més profundament en l'analisí, trobem que el &lt;em&gt;resultat&lt;/em&gt; del partit importa més que &lt;em&gt;si hi ha partit o no&lt;/em&gt;. Quan guanya el Barça, hi ha menys accidents.  Quan perd el Barça, hi ha encara més accidents que els dies sense partit!&lt;/p&gt;
+&lt;p&gt;Cuando vamos más profundamente en el análisis, encontramos que el &lt;em&gt;resultado&lt;/em&gt; del partido importa más que &lt;em&gt;si hay un partido o no&lt;/em&gt;.  Cuando gana el Barça, hay menos accidentes.  ¡Cuando pierde el Barça, hay aún más accidentes que los días sin partido!
+
+
 
 &lt;table class='gmisc_table' style='border-collapse: collapse;' &gt;
 &lt;thead&gt;
 &lt;tr&gt;
-&lt;th style='border-bottom: 1px solid grey; border-top: 2px solid grey; text-align: center;'&gt;Resultat&lt;/th&gt;
-&lt;th style='border-bottom: 1px solid grey; border-top: 2px solid grey; text-align: center;'&gt;Dies&lt;/th&gt;
-&lt;th style='border-bottom: 1px solid grey; border-top: 2px solid grey; text-align: center;'&gt;Accidents&lt;/th&gt;
-&lt;th style='border-bottom: 1px solid grey; border-top: 2px solid grey; text-align: center;'&gt;Per dia&lt;/th&gt;
+&lt;th style='border-bottom: 1px solid grey; border-top: 2px solid grey; text-align: center;'&gt;Resultado&lt;/th&gt;
+&lt;th style='border-bottom: 1px solid grey; border-top: 2px solid grey; text-align: center;'&gt;Días&lt;/th&gt;
+&lt;th style='border-bottom: 1px solid grey; border-top: 2px solid grey; text-align: center;'&gt;Accidentes&lt;/th&gt;
+&lt;th style='border-bottom: 1px solid grey; border-top: 2px solid grey; text-align: center;'&gt;Por día&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td style='text-align: center;'&gt;Perdre&lt;/td&gt;
+&lt;td style='text-align: center;'&gt;Perder&lt;/td&gt;
 &lt;td style='text-align: center;'&gt;26&lt;/td&gt;
 &lt;td style='text-align: center;'&gt;711&lt;/td&gt;
 &lt;td style='text-align: center;'&gt;27.35&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td style='text-align: center;'&gt;Sense partit&lt;/td&gt;
+&lt;td style='text-align: center;'&gt;Sin partido&lt;/td&gt;
 &lt;td style='text-align: center;'&gt;1572&lt;/td&gt;
 &lt;td style='text-align: center;'&gt;40376&lt;/td&gt;
 &lt;td style='text-align: center;'&gt;25.68&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td style='text-align: center;'&gt;Empat&lt;/td&gt;
+&lt;td style='text-align: center;'&gt;Empate&lt;/td&gt;
 &lt;td style='text-align: center;'&gt;45&lt;/td&gt;
 &lt;td style='text-align: center;'&gt;1078&lt;/td&gt;
 &lt;td style='text-align: center;'&gt;23.96&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td style='border-bottom: 2px solid grey; text-align: center;'&gt;Guanyar&lt;/td&gt;
+&lt;td style='border-bottom: 2px solid grey; text-align: center;'&gt;Ganar&lt;/td&gt;
 &lt;td style='border-bottom: 2px solid grey; text-align: center;'&gt;183&lt;/td&gt;
 &lt;td style='border-bottom: 2px solid grey; text-align: center;'&gt;4013&lt;/td&gt;
 &lt;td style='border-bottom: 2px solid grey; text-align: center;'&gt;21.93&lt;/td&gt;
@@ -248,35 +250,35 @@
 &lt;a href=&quot;#&quot;&gt;
     &lt;img src=&quot;/img/2015-11-30-Car-accidents-in-Barcelona/football_es.JPG&quot; alt=&quot;I can't really think of any way in which this photo is relevant&quot;&gt;
 &lt;/a&gt;
-&lt;span class=&quot;caption text-muted&quot;&gt;Això no pot ser, no?&lt;/span&gt;
+&lt;span class=&quot;caption text-muted&quot;&gt;No puede ser, ¿o sí?&lt;/span&gt;
 
-&lt;h3 class=&quot;section-heading&quot;&gt;Dues teories&lt;/h3&gt;
+&lt;h3 class=&quot;section-heading&quot;&gt;Dos teorías&lt;/h3&gt;
 
-&lt;p&gt;Que podria explicar això?  Tenim dues teories posibles:&lt;/p&gt;  
+&lt;p&gt;¿Qué podría explicar esto? Tenemos dos teorías posibles:&lt;/p&gt;  
 
-&lt;p&gt;(1) La gent s'enfada quan perd el seu équip i condueix encara més fatal que normal (posible, però no molt probable).&lt;/p&gt;
+&lt;p&gt;(1) La gente se enfada cuando pierde su equipo y conduce aún más fatal que normal (posible, pero no muy probable).&lt;/p&gt;
 
-&lt;p&gt;(2) La gent martxa dels llocs (bars, cases, etc.) d'una manera més esglaonada desprès d'una victoria (com que és més probable fer festa desprès de guanyar que desprès de perdre).&lt;/p&gt;
+&lt;p&gt;(2) La gente sale de los lugares donde miraron el partido (bares, casas, etc.) de una manera más escalonada después de una victoria (ya que es más probable hacer fiesta despues de ganar que después de perder).&lt;/p&gt;
 
-&lt;h3 class=&quot;section-heading&quot;&gt;Llavors, el football salva vides?&lt;/h3&gt;
+&lt;h3 class=&quot;section-heading&quot;&gt;Entonces, ¿El futból salva vidas?&lt;/h3&gt;
 
-&lt;p&gt;Probablement no.  És veritat que hi ha &lt;em&gt;una mica&lt;/em&gt; menys de morts els dies que guanya el Barça que quan perd, pero això no arriba al nivell de &quot;significat estadistic&quot;. &lt;/p&gt;
+&lt;p&gt;Probablemente no.  Es verdad que hay &lt;em&gt;un poco&lt;/em&gt; menos muertes los días que gana el Barça que cuando pierde, pero esto no llega al nivel de &quot;significado estadístico.&quot;&lt;/p&gt;
 
 &lt;a href=&quot;#&quot;&gt;
     &lt;img src=&quot;/img/2015-11-30-Car-accidents-in-Barcelona/deaths_es.JPG&quot; alt=&quot;I can't really think of any way in which this photo is relevant&quot;&gt;
 &lt;/a&gt;
-&lt;span class=&quot;caption text-muted&quot;&gt;La liga hauria de prohibir els empats?&lt;/span&gt;
+&lt;span class=&quot;caption text-muted&quot;&gt;La liga debería prohibir los empates?&lt;/span&gt;
 
-&lt;p&gt;Tot i així, la reducció en &lt;em&gt;accidents&lt;/em&gt; associada amb les victories de futbol &lt;em&gt;si&lt;/em&gt; que és significativa. Així que, si estàs llegint això, Leonel, torna al teu entrenament!&lt;/p&gt;
+&lt;p&gt;Sin embargo, la reducción en &lt;em&gt;accidentes&lt;/em&gt; asociada con las victorias de futból &lt;em&gt;sí&lt;/em&gt; que es significativa. Así que, si estás lleyendo esto, Leonel, ¡vuelve al entrenamiento!&lt;/p&gt;
 
 
-&lt;h3 class=&quot;section-heading&quot;&gt;Font de dades, códig, etc.&lt;/h3&gt;
+&lt;h3 class=&quot;section-heading&quot;&gt;Fuente de datos, código, etc.&lt;/h3&gt;
 
-&lt;p&gt;Les dades sobre els accidents de cotxe venen del &lt;a href=&quot;http://opendata.bcn.cat/opendata/ca/catalog/ENTORN_URBA&quot;&gt;portal OpenDataBCN&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Los datos sobre los accidentes de coche provienen del &lt;a href=&quot;http://opendata.bcn.cat/opendata/ca/catalog/ENTORN_URBA&quot;&gt;portal OpenDataBCN&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;Les dades sobre el football, vem compilar nosaltres manualment de varias págines de Wikipedia.  La versió &quot;neta&quot; d'aquestes dades es pot accedir &lt;a href='https://github.com/bcndata/bcndata/blob/master/data/accidents_de_cotxe/football_games/games_2010-2014.csv'&gt;aqui&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Los datos sobre el futbol hemos compilado nosotros manualmente de varias páginas de Wikipedia. La versión &quot;limpia&quot; de estos datos se puede accedir &lt;a href='https://github.com/bcndata/bcndata/blob/master/data/accidents_de_cotxe/football_games/games_2010-2014.csv'&gt;aquí&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;El códig i les dades (incluent els arxius de font, el códig per a netejar, i el códig per a generar les visualitzacions) es poden trobar a &lt;a href=&quot;https://github.com/bcndata/accidents_de_cotxe&quot;&gt;github&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;El código y los datos (incluyendo los archivos de fuente, el código para limpiar, y el código para generar las visualizaciones) se pueden encontrar en &lt;a href=&quot;https://github.com/bcndata/accidents_de_cotxe&quot;&gt;github&lt;/a&gt;.&lt;/p&gt;
 
 
 &lt;script async src=&quot;//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js&quot;&gt;&lt;/script&gt;
