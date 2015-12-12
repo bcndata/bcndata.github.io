@@ -18,7 +18,15 @@ header-img: "img/joe_i_colo.JPG"
 
 # What   
 
-BCN Data strives to be provide a data-centric view of life for people living in, affected by, or simply curious about Barcelona.
+BCN data strives to provide a data-centric view of life for people living in, affected by, or simply curious about Barcelona.
+
+# Who  
+
+We're a Catalan-American couple enjoying life in Barcelona. 
+
+<p>Coloma Farre Lopez: <a href="mailto:colomafarre@gamil.com?Subject=Hello%20Coloma" target="_top">colomafarre@gmail.com</a> </p>
+<p>Joe Brew: <a href="mailto:joebrew@gmail.com?Subject=Hello%20Joe" target="_top">joebrew@gmail.com</a> </p>
+
 
 
 # Where  
@@ -57,13 +65,6 @@ Yep, facebook too.
 </script>
 
 
-# Who  
-
-We're a Catalan-American couple enjoying life in Barcelona. 
-
-<p>Coloma Farre Lopez: <a href="mailto:colomafarre@gamil.com?Subject=Hello%20Coloma" target="_top">colomafarre@gmail.com</a> </p>
-
-<p>Joe Brew: <a href="mailto:joebrew@gmail.com?Subject=Hello%20Joe" target="_top">joebrew@gmail.com</a> </p>
 
 # Legal  
 
