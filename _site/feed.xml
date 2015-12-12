@@ -5,8 +5,8 @@
     <description>BCN data</description>
     <link>http://bcndata.github.io/</link>
     <atom:link href="http://bcndata.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 12 Dec 2015 00:16:42 -0500</pubDate>
-    <lastBuildDate>Sat, 12 Dec 2015 00:16:42 -0500</lastBuildDate>
+    <pubDate>Sat, 12 Dec 2015 10:08:55 -0500</pubDate>
+    <lastBuildDate>Sat, 12 Dec 2015 10:08:55 -0500</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -33,6 +33,10 @@
 
 &lt;p&gt;Hicimos el mapa en R, utilizando el paquete Leaflet.  El código y los datos (incluyendo los archivos de fuente, el código para limpiar, y el código para generar visualizaciones) se pueden encontrar en &lt;a href=&quot;https://github.com/bcndata/accidents_de_cotxe&quot;&gt;github&lt;/a&gt;.&lt;/p&gt;
 
+&lt;ul class=&quot;pager&quot;&gt;
+    &lt;li class=&quot;previous&quot;&gt;
+        &lt;a href=&quot;/es/2015/12/04/Does-football-save-lives.es/&quot; data-toggle=&quot;tooltip&quot; data-placement=&quot;top&quot; title=&quot;¿El futból salva vidas?&quot;&gt;&amp;larr; Anterior&lt;/a&gt;
+    &lt;/li&gt;
 
 
 &lt;script async src=&quot;//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js&quot;&gt;&lt;/script&gt;
@@ -78,6 +82,11 @@
 
 &lt;p&gt;Vem fer el mapa en R, utilitzant el paquet Leaflet. El codi i les dades (incloent els arxius de font, el codi per a netejar, i el codi per a generar les visualitzacions) es poden trobar a &lt;a href=&quot;https://github.com/bcndata/accidents_de_cotxe&quot;&gt;github&lt;/a&gt;.&lt;/p&gt;
 
+&lt;ul class=&quot;pager&quot;&gt;
+    &lt;li class=&quot;previous&quot;&gt;
+        &lt;a href=&quot;/ca/2015/12/04/Does-football-save-lives.ca/&quot; data-toggle=&quot;tooltip&quot; data-placement=&quot;top&quot; title=&quot;El futbol salva vides?&quot;&gt;&amp;larr; Anterior&lt;/a&gt;
+    &lt;/li&gt;
+
 
 &lt;script async src=&quot;//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js&quot;&gt;&lt;/script&gt;
 &lt;!-- First ad --&gt;
@@ -121,6 +130,12 @@
 &lt;p&gt;OpenDataBCN hosts the &lt;a href=&quot;http://opendata.bcn.cat/opendata/ca/catalog/ENTORN_URBA&quot;&gt;dataset&lt;/a&gt; for traffic accidents managed by the Guardia Urbana.&lt;/p&gt;
 
 &lt;p&gt;This map was generated in R, using the leaflet library. The code and data for this post (including source files, cleaning script, visualizations, etc.) can all be found on &lt;a href=&quot;https://github.com/bcndata/accidents_de_cotxe&quot;&gt;github&lt;/a&gt;.&lt;/p&gt;
+
+&lt;ul class=&quot;pager&quot;&gt;
+    &lt;li class=&quot;previous&quot;&gt;
+        &lt;a href=&quot;/en/2015/12/04/Does-football-save-lives/&quot; data-toggle=&quot;tooltip&quot; data-placement=&quot;top&quot; title=&quot;Does football save lives?&quot;&gt;&amp;larr; Anterior&lt;/a&gt;
+    &lt;/li&gt;
+
 
 &lt;script async src=&quot;//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js&quot;&gt;&lt;/script&gt;
 &lt;!-- First ad --&gt;
@@ -281,6 +296,16 @@
 
 &lt;p&gt;El código y los datos (incluyendo los archivos de fuente, el código para limpiar, y el código para generar las visualizaciones) se pueden encontrar en &lt;a href=&quot;https://github.com/bcndata/accidents_de_cotxe&quot;&gt;github&lt;/a&gt;.&lt;/p&gt;
 
+&lt;ul class=&quot;pager&quot;&gt;
+    &lt;li class=&quot;previous&quot;&gt;
+        &lt;a href=&quot;/es/2015/11/30/Car-accidents-in-Barcelona.es/&quot; data-toggle=&quot;tooltip&quot; data-placement=&quot;top&quot; title=&quot;La intersección más peligrosa de Bacelona&quot;&gt;&amp;larr; Anterior&lt;/a&gt;
+    &lt;/li&gt;
+    &lt;li class=&quot;next&quot;&gt;
+        &lt;a href=&quot;/es/2015/12/07/Every-car-accident-in-Barcelona-since-2010.es/&quot; data-toggle=&quot;tooltip&quot; data-placement=&quot;top&quot; title=&quot;Todos los accidentes de coche en Barcelona desde 2010&quot;&gt;Siguiente &amp;rarr;&lt;/a&gt;
+    &lt;/li&gt;
+&lt;/ul&gt;
+
+
 
 &lt;script async src=&quot;//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js&quot;&gt;&lt;/script&gt;
 &lt;!-- responsive 2 --&gt;
@@ -438,6 +463,17 @@
 &lt;p&gt;Les dades sobre el futbol, les vem compilar nosaltres manualment de varias pàgines de Wikipedia.  La versió &quot;neta&quot; d'aquestes dades es pot accedir &lt;a href='https://github.com/bcndata/bcndata/blob/master/data/accidents_de_cotxe/football_games/games_2010-2014.csv'&gt;aquí&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;El codi i les dades (incloent els arxius de font, el codi per a netejar, i el codi per a generar les visualitzacions) es poden trobar a &lt;a href=&quot;https://github.com/bcndata/accidents_de_cotxe&quot;&gt;github&lt;/a&gt;.&lt;/p&gt;
+
+
+&lt;ul class=&quot;pager&quot;&gt;
+    &lt;li class=&quot;previous&quot;&gt;
+        &lt;a href=&quot;/ca/2015/11/30/Car-accidents-in-Barcelona.ca/&quot; data-toggle=&quot;tooltip&quot; data-placement=&quot;top&quot; title=&quot;La intersecció més perillosa de Bacelona&quot;&gt;&amp;larr; Anterior&lt;/a&gt;
+    &lt;/li&gt;
+    &lt;li class=&quot;next&quot;&gt;
+        &lt;a href=&quot;/ca/2015/12/07/Every-car-accident-in-Barcelona-since-2010.ca/&quot; data-toggle=&quot;tooltip&quot; data-placement=&quot;top&quot; title=&quot;Tots els accidents de cotxe a Barcelona des de 2010&quot;&gt;Següent &amp;rarr;&lt;/a&gt;
+    &lt;/li&gt;
+&lt;/ul&gt;
+
 
 
 &lt;script async src=&quot;//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js&quot;&gt;&lt;/script&gt;
@@ -598,6 +634,16 @@ That's probably a stretch.  Yes, there are &lt;em&gt;slightly&lt;/em&gt; fewer d
 &lt;p&gt;As always, the code and data for this post (including source files, cleaning script, visualizations, etc.) can all be found on &lt;a href=&quot;https://github.com/bcndata/accidents_de_cotxe&quot;&gt;github&lt;/a&gt;.&lt;/p&gt;
 
 
+&lt;ul class=&quot;pager&quot;&gt;
+    &lt;li class=&quot;previous&quot;&gt;
+        &lt;a href=&quot;/en/2015/11/30/Car-accidents-in-Barcelona/&quot; data-toggle=&quot;tooltip&quot; data-placement=&quot;top&quot; title=&quot;The most dangerous intersection in Barcelona&quot;&gt;&amp;larr; Previous&lt;/a&gt;
+    &lt;/li&gt;
+    &lt;li class=&quot;next&quot;&gt;
+        &lt;a href=&quot;/en/2015/12/07/Every-car-accident-in-Barcelona-since-2010/&quot; data-toggle=&quot;tooltip&quot; data-placement=&quot;top&quot; title=&quot;Every Barcelona car accident since 2010&quot;&gt;Next &amp;rarr;&lt;/a&gt;
+    &lt;/li&gt;
+&lt;/ul&gt;
+
+
 &lt;script async src=&quot;//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js&quot;&gt;&lt;/script&gt;
 &lt;!-- responsive 2 --&gt;
 &lt;ins class=&quot;adsbygoogle&quot;
@@ -726,6 +772,14 @@ That's probably a stretch.  Yes, there are &lt;em&gt;slightly&lt;/em&gt; fewer d
 
 &lt;p&gt;Hicimos el mapa en R, utilizando el paquete Leaflet.  El código y los datos (incluyendo los archivos de fuente, el código para limpiar, y el código para generar visualizaciones) se pueden encontrar en &lt;a href=&quot;https://github.com/bcndata/accidents_de_cotxe&quot;&gt;github&lt;/a&gt;.&lt;/p&gt;
 
+
+
+&lt;ul class=&quot;pager&quot;&gt;
+    &lt;li class=&quot;next&quot;&gt;
+        &lt;a href=&quot;/es/2015/12/04/Does-football-save-lives.es/&quot; data-toggle=&quot;tooltip&quot; data-placement=&quot;top&quot; title=&quot;¿El futból salva vides?&quot;&gt;Siguiente &amp;rarr;&lt;/a&gt;
+    &lt;/li&gt;
+&lt;/ul&gt;
+
 &lt;script async src=&quot;//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js&quot;&gt;&lt;/script&gt;
 &lt;!-- responsive 2 --&gt;
 &lt;ins class=&quot;adsbygoogle&quot;
@@ -773,7 +827,7 @@ That's probably a stretch.  Yes, there are &lt;em&gt;slightly&lt;/em&gt; fewer d
 
 &lt;p&gt;Seria molt guai veure tots els accident en un mapa, no? Si cliques  &lt;a href=&quot;/ca/2015/12/07/Every-car-accident-in-Barcelona-since-2010.ca/&quot;&gt;AQUÍ&lt;/a&gt; podras fer-ho. Tot els accidents de cotxe a Barcelona del 2010 al 2014. &lt;/p&gt;
 
-&lt;p&gt;Amb tants accidents, estaras pensant, &quot;com puc evitar aquests merders?&quot;. Aquí no trobaràs la resposta, però pots començar evitant &lt;em&gt;la intersecció més perillosa de Barcelona...&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Amb tants accidents, estaras pensant, &quot;com puc evitar aquests merders?&quot; Aquí no trobaràs la resposta, però pots començar evitant &lt;em&gt;la intersecció més perillosa de Barcelona...&lt;/em&gt;&lt;/p&gt;
 
 &lt;h3 class=&quot;section-heading&quot;&gt;I la guanyadora és...&lt;/h3&gt;
 
@@ -803,7 +857,7 @@ That's probably a stretch.  Yes, there are &lt;em&gt;slightly&lt;/em&gt; fewer d
 &lt;span class=&quot;caption text-muted&quot;&gt;&lt;/span&gt;
 
 
-&lt;p&gt;&lt;a href=&quot;http://www.telegraph.co.uk/news/worldnews/europe/italy/3198659/Rome-most-dangerous-city-in-Europe-for-traffic-accidents.html&quot;&gt;Roma és pitjor.&lt;/a&gt; (quina sorpresa, no?), però Barcelona té molts cotxes, moltes motos, molts autobusos i molta gent intentant anar de punt A a punt B. Tot això porta a una mitjana de 9.235 accidents per any en els últims 5 anys, el que correspon a més de 25 accidetns per dia.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.telegraph.co.uk/news/worldnews/europe/italy/3198659/Rome-most-dangerous-city-in-Europe-for-traffic-accidents.html&quot;&gt;Roma és pitjor.&lt;/a&gt; (quina sorpresa, no?), però Barcelona té molts cotxes, moltes motos, molts autobusos i molta gent intentant anar de punt A a punt B. Tot això porta a una mitjana de 9.235 accidents per any en els últims 5 anys, el que correspon a més de 25 accidents per dia.&lt;/p&gt;
 
 &lt;h3 class=&quot;section-heading&quot;&gt;I no sembla que estigui millorant&lt;/h3&gt;
 
@@ -865,6 +919,16 @@ That's probably a stretch.  Yes, there are &lt;em&gt;slightly&lt;/em&gt; fewer d
 &lt;p&gt;Les dades venen del &lt;a href=&quot;http://opendata.bcn.cat/opendata/ca/catalog/ENTORN_URBA&quot;&gt;portal OpenDataBCN&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;El codi i les dades (incloent els arxius de font, el codi per a netejar, i el codi per a generar les visualitzacions) es poden trobar en &lt;a href=&quot;https://github.com/bcndata/accidents_de_cotxe&quot;&gt;github&lt;/a&gt;.&lt;/p&gt;
+
+
+
+&lt;ul class=&quot;pager&quot;&gt;
+    &lt;li class=&quot;next&quot;&gt;
+        &lt;a href=&quot;/ca/2015/12/04/Does-football-save-lives.ca/&quot; data-toggle=&quot;tooltip&quot; data-placement=&quot;top&quot; title=&quot;El futbol salva vides?&quot;&gt;Següent &amp;rarr;&lt;/a&gt;
+    &lt;/li&gt;
+&lt;/ul&gt;
+                
+
 
 &lt;script async src=&quot;//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js&quot;&gt;&lt;/script&gt;
 &lt;!-- responsive 2 --&gt;
@@ -1005,6 +1069,13 @@ As consistent as the yearly numbers are, there's a lot of variation by time and 
 &lt;p&gt;OpenDataBCN hosts the &lt;a href=&quot;http://opendata.bcn.cat/opendata/ca/catalog/ENTORN_URBA&quot;&gt;dataset&lt;/a&gt; for traffic accidents managed by the Guardia Urbana.  It's a &lt;em&gt;super&lt;/em&gt; interesting dataset with a lot more than what was explored here (mortality, number of injuries, etc.).  &lt;/p&gt;
 
 &lt;p&gt;The code and data for this post (including source files, cleaning script, visualizations, etc.) can all be found on &lt;a href=&quot;https://github.com/bcndata/accidents_de_cotxe&quot;&gt;github&lt;/a&gt;.&lt;/p&gt;
+
+
+&lt;ul class=&quot;pager&quot;&gt;
+    &lt;li class=&quot;next&quot;&gt;
+        &lt;a href=&quot;/en/2015/12/04/Does-football-save-lives/&quot; data-toggle=&quot;tooltip&quot; data-placement=&quot;top&quot; title=&quot;Does football save lives?&quot;&gt;Next &amp;rarr;&lt;/a&gt;
+    &lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;script async src=&quot;//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js&quot;&gt;&lt;/script&gt;
 &lt;!-- responsive 2 --&gt;
