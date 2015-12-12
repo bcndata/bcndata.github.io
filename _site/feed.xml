@@ -5,8 +5,8 @@
     <description>BCN data</description>
     <link>http://yourdomain.com/</link>
     <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 11 Dec 2015 21:37:43 -0500</pubDate>
-    <lastBuildDate>Fri, 11 Dec 2015 21:37:43 -0500</lastBuildDate>
+    <pubDate>Fri, 11 Dec 2015 21:56:08 -0500</pubDate>
+    <lastBuildDate>Fri, 11 Dec 2015 21:56:08 -0500</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -71,11 +71,11 @@
 
 &lt;p&gt;Fes zoom, explora, i fes clic en els marcadors per a veure detalls sobre cada incident.&lt;/p&gt;
 
-&lt;h3 class=&quot;section-heading&quot;&gt;Font de dades, códig, etc.&lt;/h3&gt;
+&lt;h3 class=&quot;section-heading&quot;&gt;Font de dades, codi, etc.&lt;/h3&gt;
 
 &lt;p&gt;Les dades venen del &lt;a href=&quot;http://opendata.bcn.cat/opendata/ca/catalog/ENTORN_URBA&quot;&gt;portal OpenDataBCN&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;Vem fer el mapa en R, utilitzant el paquet Leaflet. El códig i les dades (incluent els arxius de font, el códig per a netejar, i el códig per a generar les visualitzacions) es poden trobar a &lt;a href=&quot;https://github.com/bcndata/accidents_de_cotxe&quot;&gt;github&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Vem fer el mapa en R, utilitzant el paquet Leaflet. El codi i les dades (incluent els arxius de font, el codi per a netejar, i el codi per a generar les visualitzacions) es poden trobar a &lt;a href=&quot;https://github.com/bcndata/accidents_de_cotxe&quot;&gt;github&lt;/a&gt;.&lt;/p&gt;
 
 
 &lt;script async src=&quot;//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js&quot;&gt;&lt;/script&gt;
@@ -315,7 +315,7 @@
 &lt;h3 class=&quot;section-heading&quot;&gt;El futbol i els accidents de cotxe&lt;/h3&gt;
 
 
-&lt;p&gt;Sembla que els &lt;em&gt;partits de futbol&lt;/em&gt; prevenen accidents de cotxe.&lt;/p&gt; 
+&lt;p&gt;Sembla que els &lt;em&gt;partits de futbol&lt;/em&gt; preveuen accidents de cotxe.&lt;/p&gt; 
 
 &lt;p&gt;Vem analitzar tots els accidents de 2010 a 2014, i tots els partits durant el mateix periode.  Resulta que, com a mitjana, els dies de partit son aproximadament 11% més segurs que els dies sense.&lt;/p&gt;
 
@@ -347,7 +347,7 @@
 &lt;h3 class=&quot;section-heading&quot;&gt;Potser no és el futbol&lt;/h3&gt;
 
 
-&lt;p&gt;Es podria pensar que els partits de futbol fan que la gent estigui més adins de casa (mirant la tele) que al carrer (el que realment és veritat), o que els partits tendeixen jugar-se més als caps de setmana &lt;a href=&quot;/2015/11/30/Car-accidents-in-Barcelona/&quot;&gt;(quan hi ha menys accidents en general)&lt;/a&gt;.  En altres paraules, el futbol en si  &lt;em&gt;no te res a veure amb els accidents&lt;/em&gt;, i només serveix d'indicador d'altres comporaments que tenen impacte en la densitat de transit.&lt;/p&gt;
+&lt;p&gt;Es podria pensar que els partits de futbol fan que la gent estigui més adins de casa (mirant la tele) que al carrer (el que realment és veritat), o que els partits tendeixen a jugar-se més als caps de setmana &lt;a href=&quot;/2015/11/30/Car-accidents-in-Barcelona/&quot;&gt;(quan hi ha menys accidents en general)&lt;/a&gt;.  En altres paraules, el futbol en si  &lt;em&gt;no te res a veure amb els accidents&lt;/em&gt;, i només serveix d'indicador d'altres comporaments que tenen impacte en la densitat de transit.&lt;/p&gt;
 
 
 &lt;p&gt;És el cas? Pensem que no.&lt;/p&gt; 
@@ -364,7 +364,7 @@
 &lt;/script&gt;
 
 
-&lt;p&gt;Quan anem més profundament en l'analisí, trobem que el &lt;em&gt;resultat&lt;/em&gt; del partit importa més que &lt;em&gt;si hi ha partit o no&lt;/em&gt;. Quan guanya el Barça, hi ha menys accidents.  Quan perd el Barça, hi ha encara més accidents que els dies sense partit!&lt;/p&gt;
+&lt;p&gt;Quan aprofundim més en l'analisi, trobem que el &lt;em&gt;resultat&lt;/em&gt; del partit importa més que &lt;em&gt;si hi ha partit o no&lt;/em&gt;. Quan guanya el Barça, hi ha menys accidents.  Quan perd el Barça, hi ha encara més accidents que els dies sense partit!&lt;/p&gt;
 
 &lt;table class='gmisc_table' style='border-collapse: collapse;' &gt;
 &lt;thead&gt;
@@ -412,31 +412,31 @@
 
 &lt;h3 class=&quot;section-heading&quot;&gt;Dues teories&lt;/h3&gt;
 
-&lt;p&gt;Que podria explicar això?  Tenim dues teories posibles:&lt;/p&gt;  
+&lt;p&gt;Que podria explicar això?  Tenim dues teories possibles:&lt;/p&gt;  
 
-&lt;p&gt;(1) La gent s'enfada quan perd el seu équip i condueix encara més fatal que normal (posible, però no molt probable).&lt;/p&gt;
+&lt;p&gt;(1) La gent s'enfada quan perd el seu equip i condueix encara més malament que el normal (possible, però no molt provable).&lt;/p&gt;
 
-&lt;p&gt;(2) La gent martxa dels llocs (bars, cases, etc.) d'una manera més esglaonada desprès d'una victoria (com que és més probable fer festa desprès de guanyar que desprès de perdre).&lt;/p&gt;
+&lt;p&gt;(2) La gent marxa dels llocs (bars, cases, etc.) d'una manera més esglaonada després d'una victòria (ja que és més probable fer festa després de guanyar que després de perdre).&lt;/p&gt;
 
-&lt;h3 class=&quot;section-heading&quot;&gt;Llavors, el football salva vides?&lt;/h3&gt;
+&lt;h3 class=&quot;section-heading&quot;&gt;Llavors, el futbol salva vides?&lt;/h3&gt;
 
-&lt;p&gt;Probablement no.  És veritat que hi ha &lt;em&gt;una mica&lt;/em&gt; menys de morts els dies que guanya el Barça que quan perd, pero això no arriba al nivell de &quot;significat estadistic&quot;. &lt;/p&gt;
+&lt;p&gt;Provablement no.  És veritat que hi ha &lt;em&gt;una mica&lt;/em&gt; menys de morts els dies que guanya el Barça que els dies que perd, però això no arriva al nivell de &quot;significat estadistic&quot;. &lt;/p&gt;
 
 &lt;a href=&quot;#&quot;&gt;
     &lt;img src=&quot;/img/2015-11-30-Car-accidents-in-Barcelona/deaths_ca.JPG&quot; alt=&quot;I can't really think of any way in which this photo is relevant&quot;&gt;
 &lt;/a&gt;
-&lt;span class=&quot;caption text-muted&quot;&gt;La liga hauria de prohibir els empats?&lt;/span&gt;
+&lt;span class=&quot;caption text-muted&quot;&gt;&quot;La Liga&quot; hauria de prohibir els empats?&lt;/span&gt;
 
-&lt;p&gt;Tot i així, la reducció en &lt;em&gt;accidents&lt;/em&gt; associada amb les victories de futbol &lt;em&gt;si&lt;/em&gt; que és significativa. Així que, si estàs llegint això, Leonel, torna al teu entrenament!&lt;/p&gt;
+&lt;p&gt;Tot i així, la reducció en &lt;em&gt;accidents&lt;/em&gt; associada a les victories de futbol &lt;em&gt;si&lt;/em&gt; que és significativa. Així que, si estàs llegint això, Leonel, torna al teu entrenament!&lt;/p&gt;
 
 
-&lt;h3 class=&quot;section-heading&quot;&gt;Font de dades, códig, etc.&lt;/h3&gt;
+&lt;h3 class=&quot;section-heading&quot;&gt;Font de dades, codi, etc.&lt;/h3&gt;
 
 &lt;p&gt;Les dades sobre els accidents de cotxe venen del &lt;a href=&quot;http://opendata.bcn.cat/opendata/ca/catalog/ENTORN_URBA&quot;&gt;portal OpenDataBCN&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;Les dades sobre el football, vem compilar nosaltres manualment de varias págines de Wikipedia.  La versió &quot;neta&quot; d'aquestes dades es pot accedir &lt;a href='https://github.com/bcndata/bcndata/blob/master/data/accidents_de_cotxe/football_games/games_2010-2014.csv'&gt;aqui&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Les dades sobre el futbol, les vem compilar nosaltres manualment de varias pàgines de Wikipedia.  La versió &quot;neta&quot; d'aquestes dades es pot accedir &lt;a href='https://github.com/bcndata/bcndata/blob/master/data/accidents_de_cotxe/football_games/games_2010-2014.csv'&gt;aquí&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;El códig i les dades (incluent els arxius de font, el códig per a netejar, i el códig per a generar les visualitzacions) es poden trobar a &lt;a href=&quot;https://github.com/bcndata/accidents_de_cotxe&quot;&gt;github&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;El codi i les dades (incluent els arxius de font, el codi per a netejar, i el codi per a generar les visualitzacions) es poden trobar a &lt;a href=&quot;https://github.com/bcndata/accidents_de_cotxe&quot;&gt;github&lt;/a&gt;.&lt;/p&gt;
 
 
 &lt;script async src=&quot;//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js&quot;&gt;&lt;/script&gt;
@@ -772,7 +772,7 @@ That's probably a stretch.  Yes, there are &lt;em&gt;slightly&lt;/em&gt; fewer d
 
 &lt;p&gt;Seria molt guai veure tots els accident en un mapa, no? Si cliques  &lt;a href=&quot;/ca/2015/12/07/Every-car-accident-in-Barcelona-since-2010.ca/&quot;&gt;AQUÍ&lt;/a&gt; podras fer-ho. Tot els accidents de cotxe a Barcelona del 2010 al 2014. &lt;/p&gt;
 
-&lt;p&gt;Amb tants accidents, estaras pensant, &quot;com puc evitar aquests merders?&quot;. Aquí no trobarás la resposta, però pots començar evitant &lt;em&gt;la intersecció més perillosa de Barcelona...&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Amb tants accidents, estaras pensant, &quot;com puc evitar aquests merders?&quot;. Aquí no trobaràs la resposta, però pots començar evitant &lt;em&gt;la intersecció més perillosa de Barcelona...&lt;/em&gt;&lt;/p&gt;
 
 &lt;h3 class=&quot;section-heading&quot;&gt;I la guanyadora és...&lt;/h3&gt;
 
@@ -858,11 +858,11 @@ That's probably a stretch.  Yes, there are &lt;em&gt;slightly&lt;/em&gt; fewer d
 
 
 
-&lt;h3 class=&quot;section-heading&quot;&gt;Font de dades, códig, etc.&lt;/h3&gt;
+&lt;h3 class=&quot;section-heading&quot;&gt;Font de dades, codi, etc.&lt;/h3&gt;
 
 &lt;p&gt;Les dades venen del &lt;a href=&quot;http://opendata.bcn.cat/opendata/ca/catalog/ENTORN_URBA&quot;&gt;portal OpenDataBCN&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;Vem fer el mapa en R, utilitzant el paquet Leaflet.  El códig i les dades (incluyent els archius de font, el códig per a netejar, i el códig per a generar les visualitzacions) es poden trobar en &lt;a href=&quot;https://github.com/bcndata/accidents_de_cotxe&quot;&gt;github&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Vem fer el mapa en R, utilitzant el paquet Leaflet.  El codi i les dades (incluyent els archius de font, el codi per a netejar, i el codi per a generar les visualitzacions) es poden trobar en &lt;a href=&quot;https://github.com/bcndata/accidents_de_cotxe&quot;&gt;github&lt;/a&gt;.&lt;/p&gt;
 
 &lt;script async src=&quot;//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js&quot;&gt;&lt;/script&gt;
 &lt;!-- responsive 2 --&gt;
