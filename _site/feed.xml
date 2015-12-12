@@ -5,8 +5,8 @@
     <description>BCN data</description>
     <link>http://bcndata.github.io/</link>
     <atom:link href="http://bcndata.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 12 Dec 2015 00:13:25 -0500</pubDate>
-    <lastBuildDate>Sat, 12 Dec 2015 00:13:25 -0500</lastBuildDate>
+    <pubDate>Sat, 12 Dec 2015 00:14:51 -0500</pubDate>
+    <lastBuildDate>Sat, 12 Dec 2015 00:14:51 -0500</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -66,7 +66,7 @@
 (adsbygoogle = window.adsbygoogle || []).push({});
 &lt;/script&gt;
 
-&lt;h3 align='middle'&gt;Tots els accidents de cotxe a Barcelona de 2010 a2014&lt;/h3&gt;
+&lt;h3 align='middle'&gt;Tots els accidents de cotxe a Barcelona de 2010 a 2014&lt;/h3&gt;
 
 &lt;iframe src=&quot;/img/2015-11-30-Car-accidents-in-Barcelona/widget_ca.html&quot; height = 600 width = 100%&gt;&lt;/iframe&gt;
 
