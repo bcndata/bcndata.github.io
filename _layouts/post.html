@@ -2,6 +2,10 @@
 layout: default
 ---
 
+<!-- LANGUAGE SUFFIX VARIABLE -->
+{% capture language_suffix %}.{{ page.category }}{% endcapture %}
+
+
 <!-- Post Header -->
 <header class="intro-header" style="background-image: url('{{ site.baseurl }}/{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}')">
     <div class="container">
@@ -19,69 +23,108 @@ layout: default
     </div>
 </header>
 
+
+
+
 <!-- Post Content -->
 <article>
     <div class="container">
         <div class="column">
             <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
 
-                {{ content }}
+                <!-- Joes language header -->
 
+                <!-- CATALAN -->
+                {% if page.category == "ca" %}
+                <div class="row" align="center">
+                    <div class="column">
+                        <a href="{{page.url | prepend: site.baseurl | replace_first: page.category, "en" | replace: language_suffix, ".en"}}"> <img src="{{ site.baseurl }}/img/banderes/en.png" alt="" align='left' style='float:left' height="50" width="50">
+                        </a> 
+                        <span class="caption text-muted" align='left' style='float:left'><a href="{{page.url | prepend: site.baseurl | replace_first: page.category, "en" | replace: language_suffix, ".en"}}">This post in English</a></span>
+                    </div>
+                    <div class="column">
+                        <a href="{{page.url | prepend: site.baseurl | replace_first: page.category, "es" | replace: language_suffix, ".es"}}">
+                        <img src="{{ site.baseurl }}/img/banderes/es.png" alt="" align='right' style='float:right' height="50" width="50">
+                        </a>
+                        <span class="caption text-muted" align='right' style='float:right'><a href="{{page.url | prepend: site.baseurl | replace_first: page.category, "es" | replace: language_suffix, ".es"}}">Este post en español</a></span>
+                    </div>
+                </div>
+                {% endif %}
+
+                <!-- ENGLISH -->
+                {% if page.category == "en" %}
+                <div class="row" align="center">
+                    <div class="column">
+                        <a href="{{page.url | prepend: site.baseurl | replace_first: page.category, "ca" | replace: language_suffix, ".ca"}}"> <img src="{{ site.baseurl }}/img/banderes/ca.png" alt="" align='left' style='float:left' height="50" width="50">
+                        </a> 
+                        <span class="caption text-muted" align='left' style='float:left'><a href="{{page.url | prepend: site.baseurl | replace_first: page.category, "ca" | replace: language_suffix, ".ca"}}">Aquest post en català</a></span>
+                    </div>
+                    <div class="column">
+                        <a href="{{page.url | prepend: site.baseurl | replace_first: page.category, "es" | replace: language_suffix, ".es"}}">
+                        <img src="{{ site.baseurl }}/img/banderes/es.png" alt="" align='right' style='float:right' height="50" width="50">
+                        </a>
+                        <span class="caption text-muted" align='right' style='float:right'><a href="{{page.url | prepend: site.baseurl | replace_first: page.category, "es" | replace: language_suffix, ".es"}}">Este post en español</a></span>
+                    </div>
+                </div>
+                {% endif %}
+
+                <!-- SPANISH -->
+                {% if page.category == "es" %}
+                <div class="row" align="center">
+                    <div class="column">
+                        <a href="{{page.url | prepend: site.baseurl | replace_first: page.category, "ca" | replace: language_suffix, ".ca"}}"> <img src="{{ site.baseurl }}/img/banderes/ca.png" alt="" align='left' style='float:left' height="50" width="50">
+                        </a> 
+                        <span class="caption text-muted" align='left' style='float:left'><a href="{{page.url | prepend: site.baseurl | replace_first: page.category, "ca" | replace: language_suffix, ".ca"}}">Aquest post en català</a></span>
+                    </div>
+                    <div class="column">
+                        <a href="{{page.url | prepend: site.baseurl | replace_first: page.category, "en" | replace: language_suffix, ".en"}}">
+                        <img src="{{ site.baseurl }}/img/banderes/en.png" alt="" align='right' style='float:right' height="50" width="50">
+                        </a>
+                        <span class="caption text-muted" align='right' style='float:right'><a href="{{page.url | prepend: site.baseurl | replace_first: page.category, "en" | replace: language_suffix, ".en"}}">This post in English</a></span>
+                    </div>
+                </div>
+                {% endif %}
+
+                <!-- ACTUAL BLOG POST / CONTENT -->
+                {{ content }}
+                <hr>
+                <br>
                 <hr>
 
-<br>
-<hr>
+                <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                <!-- responsive 2 -->
+                <ins class="adsbygoogle"
+                     style="display:block"
+                     data-ad-client="ca-pub-7902219614622730"
+                     data-ad-slot="9152995208"
+                     data-ad-format="auto"></ins>
+                <script>
+                (adsbygoogle = window.adsbygoogle || []).push({});
+                </script>
+
+                <br>
+                <hr>
+
+                <div align='center'>
+
+                <a href="{{ site.baseurl }}/catalan">
+                    <img src="{{ site.baseurl }}/img/banderes/ca.png" alt="" align='right' style='float:right' height="100" width="100">
+                </a>
 
 
+                <a href="{{ site.baseurl }}/espanol">
+                    <img src="{{ site.baseurl }}/img/banderes/es.png" alt="" align='left' style='float:left' height="100" width="100">
+                </a>
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- responsive 2 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-7902219614622730"
-     data-ad-slot="9152995208"
-     data-ad-format="auto"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+                <div id='content' align='center'>
+                <a href="{{ site.baseurl }}/english">
+                    <img src="{{ site.baseurl }}/img/banderes/en.png" alt="" align='center' height="100" width="100">
+                </a>
 
-<br>
-<hr>
-
-<div align='center'>
-
-<a href="{{ site.baseurl }}/catalan">
-    <img src="{{ site.baseurl }}/img/banderes/ca.png" alt="" align='right' style='float:right' height="100" width="100">
-</a>
+                </div>
+                </div>
 
 
-<a href="{{ site.baseurl }}/espanol">
-    <img src="{{ site.baseurl }}/img/banderes/es.png" alt="" align='left' style='float:left' height="100" width="100">
-</a>
-
-<div id='content' align='center'>
-<a href="{{ site.baseurl }}/english">
-    <img src="{{ site.baseurl }}/img/banderes/en.png" alt="" align='center' height="100" width="100">
-</a>
-
-</div>
-</div>
-
-<!-- Previous / next page 
-
-                <ul class="pager">
-                    {% if page.previous.url %}
-                    <li class="previous">
-                        <a href="{{ page.previous.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{page.previous.title}}">&larr; Previous Post</a>
-                    </li>
-                    {% endif %}
-                    {% if page.next.url %}
-                    <li class="next">
-                        <a href="{{ page.next.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{page.next.title}}">Next Post &rarr;</a>
-                    </li>
-                    {% endif %}
-                </ul>
-                -->
 
             </div>
             <div class="column">
