@@ -105,6 +105,132 @@ layout: default
                 <br>
                 <hr>
 
+                <!-- LANGUAGE SPECIFIC FORWARD/NEXT MENU -->
+
+                <!--espanol-->
+                {% if page.category == "es" %}
+                    {% assign previous = "Anterior" %}
+                    {% assign next = "Siguiente" %}
+
+                    <ul class="pager">
+
+                    {% assign before = false %}
+                    {% for post in site.categories.es %}
+                    {% if post.date < page.date %}
+                    {% if before == false %}
+                    {% assign before = true %}
+                    <li class="previous">
+                        <a href="{{ site.baseurl }}{{post.url}}" data-toggle="tooltip" data-placement="top" title="{{post.title}}">&larr; {{previous}}</a>
+                    </li>                
+                    {% endif %}
+                    {% endif %}
+                    {% endfor %}
+
+                    {% assign after = false %}
+                    {% for post in site.categories.es reversed %}
+                    {% if post.date > page.date %}
+                    {% if after == false %}
+                    {% assign after = true %}
+                    <li class="next">
+                    <a href="{{ site.baseurl }}{{post.url}}" data-toggle="tooltip" data-placement="top" title="{{post.title}}">{{next}} &rarr;</a>
+                    </li>
+                    {% endif %}
+                    {% endif %}
+                    {% endfor %}
+                </ul>
+                {% endif %}
+
+                <!--catalan-->
+                {% if page.category == "ca" %}
+                    {% assign previous = "Anterior" %}
+                    {% assign next = "Següent" %}
+
+                    <ul class="pager">
+
+                    {% assign before = false %}
+                    {% for post in site.categories.ca %}
+                    {% if post.date < page.date %}
+                    {% if before == false %}
+                    {% assign before = true %}
+                    <li class="previous">
+                        <a href="{{ site.baseurl }}{{post.url}}" data-toggle="tooltip" data-placement="top" title="{{post.title}}">&larr; {{previous}}</a>
+                    </li>                
+                    {% endif %}
+                    {% endif %}
+                    {% endfor %}
+                    
+                    {% assign after = false %}
+                    {% for post in site.categories.ca reversed %}
+                    {% if post.date > page.date %}
+                    {% if after == false %}
+                    {% assign after = true %}
+                    <li class="next">
+                    <a href="{{ site.baseurl }}{{post.url}}" data-toggle="tooltip" data-placement="top" title="{{post.title}}">{{next}} &rarr;</a>
+                    </li>
+                    {% endif %}
+                    {% endif %}
+                    {% endfor %}
+                </ul>
+
+                {% endif %}
+
+                <!--english-->
+                {% if page.category == "en" %}
+                    {% assign previous = "Previous" %}
+                    {% assign next = "Next" %}
+
+                    <ul class="pager">
+
+                    {% assign before = false %}
+                    {% for post in site.categories.en %}
+                    {% if post.date < page.date %}
+                    {% if before == false %}
+                    {% assign before = true %}
+                    <li class="previous">
+                        <a href="{{ site.baseurl }}{{post.url}}" data-toggle="tooltip" data-placement="top" title="{{post.title}}">&larr; {{previous}}</a>
+                    </li>                
+                    {% endif %}
+                    {% endif %}
+                    {% endfor %}
+                    
+                    {% assign after = false %}
+                    {% for post in site.categories.en reversed %}
+                    {% if post.date > page.date %}
+                    {% if after == false %}
+                    {% assign after = true %}
+                    <li class="next">
+                    <a href="{{ site.baseurl }}{{post.url}}" data-toggle="tooltip" data-placement="top" title="{{post.title}}">{{next}} &rarr;</a>
+                    </li>
+                    {% endif %}
+                    {% endif %}
+                    {% endfor %}
+                </ul>
+                {% endif %}
+
+
+
+
+                <hr>
+                <hr>
+
+                <!--
+                <ul class="pager">
+                    <li class="previous">
+                        <a href="{{ site.baseurl }}/en/2015/11/30/Car-accidents-in-Barcelona.en/" data-toggle="tooltip" data-placement="top" title="The most dangerous intersection in Barcelona">&larr; Previous</a>
+                    </li>
+                    <li class="next">
+                        <a href="{{ site.baseurl }}/en/2015/12/07/Every-car-accident-in-Barcelona-since-2010.en/" data-toggle="tooltip" data-placement="top" title="Every Barcelona car accident since 2010">Next &rarr;</a>
+                    </li>
+                </ul>
+                -->
+
+                    
+
+
+
+
+                <!-- END LANGUAGE SPECIFIC FORWARD/NEXT MENU -->
+
                 <div align='center'>
 
                 <a href="{{ site.baseurl }}/catalan">

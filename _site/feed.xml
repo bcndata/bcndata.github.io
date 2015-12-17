@@ -5,9 +5,290 @@
     <description>BCN data</description>
     <link>http://bcndata.github.io/</link>
     <atom:link href="http://bcndata.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 15 Dec 2015 14:31:53 -0500</pubDate>
-    <lastBuildDate>Tue, 15 Dec 2015 14:31:53 -0500</lastBuildDate>
+    <pubDate>Wed, 16 Dec 2015 16:52:08 -0500</pubDate>
+    <lastBuildDate>Wed, 16 Dec 2015 16:52:08 -0500</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>El tiempo en Barcelona... ¿perfecto?</title>
+        <description>&lt;script async src=&quot;//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js&quot;&gt;&lt;/script&gt;
+&lt;!-- horiz large ad --&gt;
+&lt;ins class=&quot;adsbygoogle&quot;
+     style=&quot;display:inline-block;width:728px;height:15px&quot;
+     data-ad-client=&quot;ca-pub-7902219614622730&quot;
+     data-ad-slot=&quot;4722795601&quot;&gt;&lt;/ins&gt;
+&lt;script&gt;
+(adsbygoogle = window.adsbygoogle || []).push({});
+&lt;/script&gt;
+
+&lt;h3 class=&quot;section-heading&quot;&gt;What exactly is &quot;good&quot; weather?&lt;/h3&gt;
+
+&lt;p&gt;Two things:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;The temperature is comfortable.&lt;/li&gt;
+&lt;li&gt;That temperature is predictable (ie, there's not too much variance).&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;By these standards, Barcelona has...&lt;/p&gt;
+
+
+&lt;h3 class=&quot;section-heading&quot;&gt;The best weather in Spain&lt;/h3&gt;
+
+&lt;a href=&quot;/img/2015-12-16-Weather/spain_plot_en.JPG&quot;&gt;
+    &lt;img src=&quot;/img/2015-12-16-Weather/spain_plot_en.JPG&quot; alt=&quot;&quot;&gt;
+&lt;/a&gt;
+&lt;span class=&quot;caption text-muted&quot;&gt;Granda looks terrible&lt;/span&gt;
+
+&lt;p&gt;Málaga has nice winters but oppresive summers.  Bilbao, in addition to being covered in clouds most of the year, has wildly unpredictable summer temperature swings.  Madrid's summers are too hot and its winters too cold.  And Granada - don't even start.&lt;/p&gt;
+
+&lt;h3 class=&quot;section-heading&quot;&gt;No crazy swings&lt;/h3&gt;
+
+
+&lt;p&gt;What's most striking is how little &lt;em&gt;variance&lt;/em&gt; there is in Barcelona's daily temperatures. On average, the daily &quot;swing&quot; (difference between maximum and minimum temperature) in Barcelona is only 7.1 degrees (C).  In Madrid, it's 12. This means that in Barcelona, when you get dressed in the morning, your outfit is likely to remain comfortable all day; in Granada (where the daily swing is 14 degrees), no matter what you wear, you'll end up either shivering or sweating.&lt;/p&gt;
+
+&lt;a href=&quot;/img/2015-12-16-Weather/variance_en.JPG&quot;&gt;
+    &lt;img src=&quot;/img/2015-12-16-Weather/variance_en.JPG&quot; alt=&quot;&quot;&gt;
+&lt;/a&gt;
+&lt;span class=&quot;caption text-muted&quot;&gt;Best place to be in January&lt;/span&gt;
+
+&lt;h3 class=&quot;section-heading&quot;&gt;The best weather... in the world?&lt;/h3&gt;
+
+&lt;a href=&quot;/img/2015-12-16-Weather/comparison_en.JPG&quot;&gt;
+    &lt;img src=&quot;/img/2015-12-16-Weather/comparison_en.JPG&quot; alt=&quot;&quot;&gt;
+&lt;/a&gt;
+&lt;span class=&quot;caption text-muted&quot;&gt;Best place to be in January&lt;/span&gt;
+
+&lt;p&gt;With an average of 24 in July and 10 in January, it doesn't get much better than Barcelona. Compare that to New York which is hotter in July (25) and &lt;em&gt;way&lt;/em&gt; colder in January (0!).&lt;/p&gt;
+
+
+&lt;a href=&quot;/img/2015-12-16-Weather/typical_year_en.JPG&quot;&gt;
+    &lt;img src=&quot;/img/2015-12-16-Weather/typical_year_en.JPG&quot; alt=&quot;&quot;&gt;
+&lt;/a&gt;
+&lt;span class=&quot;caption text-muted&quot;&gt;Nice try, Madrid.&lt;/span&gt;
+
+
+&lt;script async src=&quot;//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js&quot;&gt;&lt;/script&gt;
+&lt;!-- non-responsive --&gt;
+&lt;ins class=&quot;adsbygoogle&quot;
+     style=&quot;display:inline-block;width:728px;height:90px&quot;
+     data-ad-client=&quot;ca-pub-7902219614622730&quot;
+     data-ad-slot=&quot;5811079204&quot;&gt;&lt;/ins&gt;
+&lt;script&gt;
+(adsbygoogle = window.adsbygoogle || []).push({});
+&lt;/script&gt;
+
+
+&lt;h3 class=&quot;section-heading&quot;&gt;Visualization&lt;/h3&gt;
+
+&lt;p&gt;We like to end posts with something pretty.  So, here it is - an overview of a typical year in Barcelona.&lt;/p&gt;  
+
+&lt;a href=&quot;/img/2015-12-16-Weather/full_year_en/full_year_en.gif&quot;&gt;
+    &lt;img src=&quot;/img/2015-12-16-Weather/full_year_en/full_year_en.gif&quot; alt=&quot;&quot;&gt;
+&lt;/a&gt;
+&lt;span class=&quot;caption text-muted&quot;&gt;Cool summers, warm winters, and minimal inter- and intra-day variance&lt;/span&gt;
+
+
+&lt;h3 class=&quot;section-heading&quot;&gt;Data sources, code, etc.&lt;/h3&gt;
+
+&lt;p&gt;As always, the code and data for this post (including source files, cleaning script, visualizations, etc.) can all be found on &lt;a href=&quot;https://github.com/bcndata/weather&quot;&gt;github&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The weather data comes from &lt;em&gt;Weather Undeground&lt;/em&gt;, which we accessed via R's &quot;WeatherData&quot; package.&lt;/p&gt;</description>
+        <pubDate>Wed, 16 Dec 2015 07:00:00 -0500</pubDate>
+        <link>http://bcndata.github.io/es/2015/12/16/Weather.es/</link>
+        <guid isPermaLink="true">http://bcndata.github.io/es/2015/12/16/Weather.es/</guid>
+        
+        
+        <category>es</category>
+        
+      </item>
+    
+      <item>
+        <title>Oh the weather outside is... perfect</title>
+        <description>&lt;script async src=&quot;//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js&quot;&gt;&lt;/script&gt;
+&lt;!-- horiz large ad --&gt;
+&lt;ins class=&quot;adsbygoogle&quot;
+     style=&quot;display:inline-block;width:728px;height:15px&quot;
+     data-ad-client=&quot;ca-pub-7902219614622730&quot;
+     data-ad-slot=&quot;4722795601&quot;&gt;&lt;/ins&gt;
+&lt;script&gt;
+(adsbygoogle = window.adsbygoogle || []).push({});
+&lt;/script&gt;
+
+&lt;h3 class=&quot;section-heading&quot;&gt;What exactly is &quot;good&quot; weather?&lt;/h3&gt;
+
+&lt;p&gt;Two things:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;The temperature is comfortable.&lt;/li&gt;
+&lt;li&gt;That temperature is predictable (ie, there's not too much variance).&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;By these standards, Barcelona has...&lt;/p&gt;
+
+
+&lt;h3 class=&quot;section-heading&quot;&gt;The best weather in Spain&lt;/h3&gt;
+
+&lt;a href=&quot;/img/2015-12-16-Weather/spain_plot_en.JPG&quot;&gt;
+    &lt;img src=&quot;/img/2015-12-16-Weather/spain_plot_en.JPG&quot; alt=&quot;&quot;&gt;
+&lt;/a&gt;
+&lt;span class=&quot;caption text-muted&quot;&gt;Granda looks terrible&lt;/span&gt;
+
+&lt;p&gt;Málaga has nice winters but oppresive summers.  Bilbao, in addition to being covered in clouds most of the year, has wildly unpredictable summer temperature swings.  Madrid's summers are too hot and its winters too cold.  And Granada - don't even start.&lt;/p&gt;
+
+&lt;h3 class=&quot;section-heading&quot;&gt;No crazy swings&lt;/h3&gt;
+
+
+&lt;p&gt;What's most striking is how little &lt;em&gt;variance&lt;/em&gt; there is in Barcelona's daily temperatures. On average, the daily &quot;swing&quot; (difference between maximum and minimum temperature) in Barcelona is only 7.1 degrees (C).  In Madrid, it's 12. This means that in Barcelona, when you get dressed in the morning, your outfit is likely to remain comfortable all day; in Granada (where the daily swing is 14 degrees), no matter what you wear, you'll end up either shivering or sweating.&lt;/p&gt;
+
+&lt;a href=&quot;/img/2015-12-16-Weather/variance_en.JPG&quot;&gt;
+    &lt;img src=&quot;/img/2015-12-16-Weather/variance_en.JPG&quot; alt=&quot;&quot;&gt;
+&lt;/a&gt;
+&lt;span class=&quot;caption text-muted&quot;&gt;Best place to be in January&lt;/span&gt;
+
+&lt;h3 class=&quot;section-heading&quot;&gt;The best weather... in the world?&lt;/h3&gt;
+
+&lt;a href=&quot;/img/2015-12-16-Weather/comparison_en.JPG&quot;&gt;
+    &lt;img src=&quot;/img/2015-12-16-Weather/comparison_en.JPG&quot; alt=&quot;&quot;&gt;
+&lt;/a&gt;
+&lt;span class=&quot;caption text-muted&quot;&gt;Best place to be in January&lt;/span&gt;
+
+&lt;p&gt;With an average of 24 in July and 10 in January, it doesn't get much better than Barcelona. Compare that to New York which is hotter in July (25) and &lt;em&gt;way&lt;/em&gt; colder in January (0!).&lt;/p&gt;
+
+
+&lt;a href=&quot;/img/2015-12-16-Weather/typical_year_en.JPG&quot;&gt;
+    &lt;img src=&quot;/img/2015-12-16-Weather/typical_year_en.JPG&quot; alt=&quot;&quot;&gt;
+&lt;/a&gt;
+&lt;span class=&quot;caption text-muted&quot;&gt;Nice try, Madrid.&lt;/span&gt;
+
+
+&lt;script async src=&quot;//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js&quot;&gt;&lt;/script&gt;
+&lt;!-- non-responsive --&gt;
+&lt;ins class=&quot;adsbygoogle&quot;
+     style=&quot;display:inline-block;width:728px;height:90px&quot;
+     data-ad-client=&quot;ca-pub-7902219614622730&quot;
+     data-ad-slot=&quot;5811079204&quot;&gt;&lt;/ins&gt;
+&lt;script&gt;
+(adsbygoogle = window.adsbygoogle || []).push({});
+&lt;/script&gt;
+
+
+&lt;h3 class=&quot;section-heading&quot;&gt;Visualization&lt;/h3&gt;
+
+&lt;p&gt;We like to end posts with something pretty.  So, here it is - an overview of a typical year in Barcelona.&lt;/p&gt;  
+
+&lt;a href=&quot;/img/2015-12-16-Weather/full_year_en/full_year_en.gif&quot;&gt;
+    &lt;img src=&quot;/img/2015-12-16-Weather/full_year_en/full_year_en.gif&quot; alt=&quot;&quot;&gt;
+&lt;/a&gt;
+&lt;span class=&quot;caption text-muted&quot;&gt;Cool summers, warm winters, and minimal inter- and intra-day variance&lt;/span&gt;
+
+
+&lt;h3 class=&quot;section-heading&quot;&gt;Data sources, code, etc.&lt;/h3&gt;
+
+&lt;p&gt;As always, the code and data for this post (including source files, cleaning script, visualizations, etc.) can all be found on &lt;a href=&quot;https://github.com/bcndata/weather&quot;&gt;github&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The weather data comes from &lt;em&gt;Weather Undeground&lt;/em&gt;, which we accessed via R's &quot;WeatherData&quot; package.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 16 Dec 2015 07:00:00 -0500</pubDate>
+        <link>http://bcndata.github.io/en/2015/12/16/Weather.en/</link>
+        <guid isPermaLink="true">http://bcndata.github.io/en/2015/12/16/Weather.en/</guid>
+        
+        
+        <category>en</category>
+        
+      </item>
+    
+      <item>
+        <title>El temps a Barcelona... perfecte?</title>
+        <description>&lt;script async src=&quot;//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js&quot;&gt;&lt;/script&gt;
+&lt;!-- horiz large ad --&gt;
+&lt;ins class=&quot;adsbygoogle&quot;
+     style=&quot;display:inline-block;width:728px;height:15px&quot;
+     data-ad-client=&quot;ca-pub-7902219614622730&quot;
+     data-ad-slot=&quot;4722795601&quot;&gt;&lt;/ins&gt;
+&lt;script&gt;
+(adsbygoogle = window.adsbygoogle || []).push({});
+&lt;/script&gt;
+
+&lt;h3 class=&quot;section-heading&quot;&gt;What exactly is &quot;good&quot; weather?&lt;/h3&gt;
+
+&lt;p&gt;Two things:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;The temperature is comfortable.&lt;/li&gt;
+&lt;li&gt;That temperature is predictable (ie, there's not too much variance).&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;By these standards, Barcelona has...&lt;/p&gt;
+
+
+&lt;h3 class=&quot;section-heading&quot;&gt;The best weather in Spain&lt;/h3&gt;
+
+&lt;a href=&quot;/img/2015-12-16-Weather/spain_plot_en.JPG&quot;&gt;
+    &lt;img src=&quot;/img/2015-12-16-Weather/spain_plot_en.JPG&quot; alt=&quot;&quot;&gt;
+&lt;/a&gt;
+&lt;span class=&quot;caption text-muted&quot;&gt;Granda looks terrible&lt;/span&gt;
+
+&lt;p&gt;Málaga has nice winters but oppresive summers.  Bilbao, in addition to being covered in clouds most of the year, has wildly unpredictable summer temperature swings.  Madrid's summers are too hot and its winters too cold.  And Granada - don't even start.&lt;/p&gt;
+
+&lt;h3 class=&quot;section-heading&quot;&gt;No crazy swings&lt;/h3&gt;
+
+
+&lt;p&gt;What's most striking is how little &lt;em&gt;variance&lt;/em&gt; there is in Barcelona's daily temperatures. On average, the daily &quot;swing&quot; (difference between maximum and minimum temperature) in Barcelona is only 7.1 degrees (C).  In Madrid, it's 12. This means that in Barcelona, when you get dressed in the morning, your outfit is likely to remain comfortable all day; in Granada (where the daily swing is 14 degrees), no matter what you wear, you'll end up either shivering or sweating.&lt;/p&gt;
+
+&lt;a href=&quot;/img/2015-12-16-Weather/variance_en.JPG&quot;&gt;
+    &lt;img src=&quot;/img/2015-12-16-Weather/variance_en.JPG&quot; alt=&quot;&quot;&gt;
+&lt;/a&gt;
+&lt;span class=&quot;caption text-muted&quot;&gt;Best place to be in January&lt;/span&gt;
+
+&lt;h3 class=&quot;section-heading&quot;&gt;The best weather... in the world?&lt;/h3&gt;
+
+&lt;a href=&quot;/img/2015-12-16-Weather/comparison_en.JPG&quot;&gt;
+    &lt;img src=&quot;/img/2015-12-16-Weather/comparison_en.JPG&quot; alt=&quot;&quot;&gt;
+&lt;/a&gt;
+&lt;span class=&quot;caption text-muted&quot;&gt;Best place to be in January&lt;/span&gt;
+
+&lt;p&gt;With an average of 24 in July and 10 in January, it doesn't get much better than Barcelona. Compare that to New York which is hotter in July (25) and &lt;em&gt;way&lt;/em&gt; colder in January (0!).&lt;/p&gt;
+
+
+&lt;a href=&quot;/img/2015-12-16-Weather/typical_year_en.JPG&quot;&gt;
+    &lt;img src=&quot;/img/2015-12-16-Weather/typical_year_en.JPG&quot; alt=&quot;&quot;&gt;
+&lt;/a&gt;
+&lt;span class=&quot;caption text-muted&quot;&gt;Nice try, Madrid.&lt;/span&gt;
+
+
+&lt;script async src=&quot;//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js&quot;&gt;&lt;/script&gt;
+&lt;!-- non-responsive --&gt;
+&lt;ins class=&quot;adsbygoogle&quot;
+     style=&quot;display:inline-block;width:728px;height:90px&quot;
+     data-ad-client=&quot;ca-pub-7902219614622730&quot;
+     data-ad-slot=&quot;5811079204&quot;&gt;&lt;/ins&gt;
+&lt;script&gt;
+(adsbygoogle = window.adsbygoogle || []).push({});
+&lt;/script&gt;
+
+
+&lt;h3 class=&quot;section-heading&quot;&gt;Visualization&lt;/h3&gt;
+
+&lt;p&gt;We like to end posts with something pretty.  So, here it is - an overview of a typical year in Barcelona.&lt;/p&gt;  
+
+&lt;a href=&quot;/img/2015-12-16-Weather/full_year_en/full_year_en.gif&quot;&gt;
+    &lt;img src=&quot;/img/2015-12-16-Weather/full_year_en/full_year_en.gif&quot; alt=&quot;&quot;&gt;
+&lt;/a&gt;
+&lt;span class=&quot;caption text-muted&quot;&gt;Cool summers, warm winters, and minimal inter- and intra-day variance&lt;/span&gt;
+
+
+&lt;h3 class=&quot;section-heading&quot;&gt;Data sources, code, etc.&lt;/h3&gt;
+
+&lt;p&gt;As always, the code and data for this post (including source files, cleaning script, visualizations, etc.) can all be found on &lt;a href=&quot;https://github.com/bcndata/weather&quot;&gt;github&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The weather data comes from &lt;em&gt;Weather Undeground&lt;/em&gt;, which we accessed via R's &quot;WeatherData&quot; package.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 16 Dec 2015 07:00:00 -0500</pubDate>
+        <link>http://bcndata.github.io/ca/2015/12/16/Weather.ca/</link>
+        <guid isPermaLink="true">http://bcndata.github.io/ca/2015/12/16/Weather.ca/</guid>
+        
+        
+        <category>ca</category>
+        
+      </item>
     
       <item>
         <title>Todos los accidentes de coche en Barcelona desde 2010</title>
@@ -32,12 +313,6 @@
 &lt;p&gt;Los datos vienen del &lt;a href=&quot;http://opendata.bcn.cat/opendata/ca/catalog/ENTORN_URBA&quot;&gt;portal OpenDataBCN&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Hicimos el mapa en R, utilizando el paquete Leaflet.  El código y los datos (incluyendo los archivos de fuente, el código para limpiar, y el código para generar visualizaciones) se pueden encontrar en &lt;a href=&quot;https://github.com/bcndata/accidents_de_cotxe&quot;&gt;github&lt;/a&gt;.&lt;/p&gt;
-
-&lt;ul class=&quot;pager&quot;&gt;
-    &lt;li class=&quot;previous&quot;&gt;
-        &lt;a href=&quot;/es/2015/12/04/Does-football-save-lives.es/&quot; data-toggle=&quot;tooltip&quot; data-placement=&quot;top&quot; title=&quot;¿El futból salva vidas?&quot;&gt;&amp;larr; Anterior&lt;/a&gt;
-    &lt;/li&gt;
-
 </description>
         <pubDate>Mon, 07 Dec 2015 07:00:00 -0500</pubDate>
         <link>http://bcndata.github.io/es/2015/12/07/Every-car-accident-in-Barcelona-since-2010.es/</link>
@@ -70,14 +345,7 @@
 
 &lt;p&gt;OpenDataBCN hosts the &lt;a href=&quot;http://opendata.bcn.cat/opendata/ca/catalog/ENTORN_URBA&quot;&gt;dataset&lt;/a&gt; for traffic accidents managed by the Guardia Urbana.&lt;/p&gt;
 
-&lt;p&gt;This map was generated in R, using the leaflet library. The code and data for this post (including source files, cleaning script, visualizations, etc.) can all be found on &lt;a href=&quot;https://github.com/bcndata/accidents_de_cotxe&quot;&gt;github&lt;/a&gt;.&lt;/p&gt;
-
-&lt;ul class=&quot;pager&quot;&gt;
-    &lt;li class=&quot;previous&quot;&gt;
-        &lt;a href=&quot;/en/2015/12/04/Does-football-save-lives.en/&quot; data-toggle=&quot;tooltip&quot; data-placement=&quot;top&quot; title=&quot;Does football save lives?&quot;&gt;&amp;larr; Anterior&lt;/a&gt;
-    &lt;/li&gt;
-
-</description>
+&lt;p&gt;This map was generated in R, using the leaflet library. The code and data for this post (including source files, cleaning script, visualizations, etc.) can all be found on &lt;a href=&quot;https://github.com/bcndata/accidents_de_cotxe&quot;&gt;github&lt;/a&gt;.&lt;/p&gt;</description>
         <pubDate>Mon, 07 Dec 2015 07:00:00 -0500</pubDate>
         <link>http://bcndata.github.io/en/2015/12/07/Every-car-accident-in-Barcelona-since-2010.en/</link>
         <guid isPermaLink="true">http://bcndata.github.io/en/2015/12/07/Every-car-accident-in-Barcelona-since-2010.en/</guid>
@@ -110,11 +378,6 @@
 &lt;p&gt;Les dades venen del &lt;a href=&quot;http://opendata.bcn.cat/opendata/ca/catalog/ENTORN_URBA&quot;&gt;portal OpenDataBCN&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Vem fer el mapa en R, utilitzant el paquet Leaflet. El codi i les dades (incloent els arxius de font, el codi per a netejar, i el codi per a generar les visualitzacions) es poden trobar a &lt;a href=&quot;https://github.com/bcndata/accidents_de_cotxe&quot;&gt;github&lt;/a&gt;.&lt;/p&gt;
-
-&lt;ul class=&quot;pager&quot;&gt;
-    &lt;li class=&quot;previous&quot;&gt;
-        &lt;a href=&quot;/ca/2015/12/04/Does-football-save-lives.ca/&quot; data-toggle=&quot;tooltip&quot; data-placement=&quot;top&quot; title=&quot;El futbol salva vides?&quot;&gt;&amp;larr; Anterior&lt;/a&gt;
-    &lt;/li&gt;
 
 </description>
         <pubDate>Mon, 07 Dec 2015 07:00:00 -0500</pubDate>
@@ -266,15 +529,6 @@
 
 &lt;p&gt;El código y los datos (incluyendo los archivos de fuente, el código para limpiar, y el código para generar las visualizaciones) se pueden encontrar en &lt;a href=&quot;https://github.com/bcndata/accidents_de_cotxe&quot;&gt;github&lt;/a&gt;.&lt;/p&gt;
 
-&lt;ul class=&quot;pager&quot;&gt;
-    &lt;li class=&quot;previous&quot;&gt;
-        &lt;a href=&quot;/es/2015/11/30/Car-accidents-in-Barcelona.es/&quot; data-toggle=&quot;tooltip&quot; data-placement=&quot;top&quot; title=&quot;La intersección más peligrosa de Bacelona&quot;&gt;&amp;larr; Anterior&lt;/a&gt;
-    &lt;/li&gt;
-    &lt;li class=&quot;next&quot;&gt;
-        &lt;a href=&quot;/es/2015/12/07/Every-car-accident-in-Barcelona-since-2010.es/&quot; data-toggle=&quot;tooltip&quot; data-placement=&quot;top&quot; title=&quot;Todos los accidentes de coche en Barcelona desde 2010&quot;&gt;Siguiente &amp;rarr;&lt;/a&gt;
-    &lt;/li&gt;
-&lt;/ul&gt;
-
 </description>
         <pubDate>Fri, 04 Dec 2015 07:00:00 -0500</pubDate>
         <link>http://bcndata.github.io/es/2015/12/04/Does-football-save-lives.es/</link>
@@ -423,15 +677,6 @@ That's probably a stretch.  Yes, there are &lt;em&gt;slightly&lt;/em&gt; fewer d
 
 &lt;p&gt;As always, the code and data for this post (including source files, cleaning script, visualizations, etc.) can all be found on &lt;a href=&quot;https://github.com/bcndata/accidents_de_cotxe&quot;&gt;github&lt;/a&gt;.&lt;/p&gt;
 
-
-&lt;ul class=&quot;pager&quot;&gt;
-    &lt;li class=&quot;previous&quot;&gt;
-        &lt;a href=&quot;/en/2015/11/30/Car-accidents-in-Barcelona.en/&quot; data-toggle=&quot;tooltip&quot; data-placement=&quot;top&quot; title=&quot;The most dangerous intersection in Barcelona&quot;&gt;&amp;larr; Previous&lt;/a&gt;
-    &lt;/li&gt;
-    &lt;li class=&quot;next&quot;&gt;
-        &lt;a href=&quot;/en/2015/12/07/Every-car-accident-in-Barcelona-since-2010.en/&quot; data-toggle=&quot;tooltip&quot; data-placement=&quot;top&quot; title=&quot;Every Barcelona car accident since 2010&quot;&gt;Next &amp;rarr;&lt;/a&gt;
-    &lt;/li&gt;
-&lt;/ul&gt;
 </description>
         <pubDate>Fri, 04 Dec 2015 07:00:00 -0500</pubDate>
         <link>http://bcndata.github.io/en/2015/12/04/Does-football-save-lives.en/</link>
@@ -580,15 +825,6 @@ That's probably a stretch.  Yes, there are &lt;em&gt;slightly&lt;/em&gt; fewer d
 
 &lt;p&gt;El codi i les dades (incloent els arxius de font, el codi per a netejar, i el codi per a generar les visualitzacions) es poden trobar a &lt;a href=&quot;https://github.com/bcndata/accidents_de_cotxe&quot;&gt;github&lt;/a&gt;.&lt;/p&gt;
 
-
-&lt;ul class=&quot;pager&quot;&gt;
-    &lt;li class=&quot;previous&quot;&gt;
-        &lt;a href=&quot;/ca/2015/11/30/Car-accidents-in-Barcelona.ca/&quot; data-toggle=&quot;tooltip&quot; data-placement=&quot;top&quot; title=&quot;La intersecció més perillosa de Bacelona&quot;&gt;&amp;larr; Anterior&lt;/a&gt;
-    &lt;/li&gt;
-    &lt;li class=&quot;next&quot;&gt;
-        &lt;a href=&quot;/ca/2015/12/07/Every-car-accident-in-Barcelona-since-2010.ca/&quot; data-toggle=&quot;tooltip&quot; data-placement=&quot;top&quot; title=&quot;Tots els accidents de cotxe a Barcelona des de 2010&quot;&gt;Següent &amp;rarr;&lt;/a&gt;
-    &lt;/li&gt;
-&lt;/ul&gt;
 </description>
         <pubDate>Fri, 04 Dec 2015 07:00:00 -0500</pubDate>
         <link>http://bcndata.github.io/ca/2015/12/04/Does-football-save-lives.ca/</link>
@@ -708,14 +944,6 @@ That's probably a stretch.  Yes, there are &lt;em&gt;slightly&lt;/em&gt; fewer d
 &lt;p&gt;Los datos vienen del &lt;a href=&quot;http://opendata.bcn.cat/opendata/ca/catalog/ENTORN_URBA&quot;&gt;portal OpenDataBCN&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Hicimos el mapa en R, utilizando el paquete Leaflet.  El código y los datos (incluyendo los archivos de fuente, el código para limpiar, y el código para generar visualizaciones) se pueden encontrar en &lt;a href=&quot;https://github.com/bcndata/accidents_de_cotxe&quot;&gt;github&lt;/a&gt;.&lt;/p&gt;
-
-
-
-&lt;ul class=&quot;pager&quot;&gt;
-    &lt;li class=&quot;next&quot;&gt;
-        &lt;a href=&quot;/es/2015/12/04/Does-football-save-lives.es/&quot; data-toggle=&quot;tooltip&quot; data-placement=&quot;top&quot; title=&quot;¿El futból salva vides?&quot;&gt;Siguiente &amp;rarr;&lt;/a&gt;
-    &lt;/li&gt;
-&lt;/ul&gt;
 </description>
         <pubDate>Mon, 30 Nov 2015 07:00:00 -0500</pubDate>
         <link>http://bcndata.github.io/es/2015/11/30/Car-accidents-in-Barcelona.es/</link>
@@ -735,283 +963,6 @@ That's probably a stretch.  Yes, there are &lt;em&gt;slightly&lt;/em&gt; fewer d
         
         
         <category>es</category>
-        
-      </item>
-    
-      <item>
-        <title>The most dangerous intersection in Barcelona</title>
-        <description>&lt;script async src=&quot;//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js&quot;&gt;&lt;/script&gt;
-&lt;!-- horiz large ad --&gt;
-&lt;ins class=&quot;adsbygoogle&quot;
-     style=&quot;display:inline-block;width:728px;height:15px&quot;
-     data-ad-client=&quot;ca-pub-7902219614622730&quot;
-     data-ad-slot=&quot;4722795601&quot;&gt;&lt;/ins&gt;
-&lt;script&gt;
-(adsbygoogle = window.adsbygoogle || []).push({});
-&lt;/script&gt;
-
-&lt;h3 class=&quot;section-heading&quot;&gt;Barcelonians crash.  A lot.&lt;/h3&gt;
-
-&lt;p&gt;Wouldn't it be cool to see all the car accidents on one map?  Yes, that would be awesome.  &lt;a href=&quot;/en/2015/12/07/Every-car-accident-in-Barcelona-since-2010.en/&quot;&gt;HERE's&lt;/a&gt; every Barcelona car accident from 2010 to 2014.&lt;/p&gt;
-
-&lt;p&gt;With so many accidents, you might be thinking, &quot;how can I avoid getting in a wreck?&quot; You won't find the answer here, but you might start by avoiding &lt;em&gt;the most dangerous intersection in Barcelona...&lt;/em&gt;&lt;/p&gt;
-
-&lt;h3 class=&quot;section-heading&quot;&gt;And the winner goes to...&lt;/h3&gt;
-
-&lt;p&gt;You guessed it: Avinguda Diagonal and Passeig de Gracia.&lt;/p&gt;
-
-&lt;a href=&quot;/img/2015-11-30-Car-accidents-in-Barcelona/worst.png&quot;&gt;
-    &lt;img src=&quot;/img/2015-11-30-Car-accidents-in-Barcelona/worst.png&quot; alt=&quot;Google Maps&quot;&gt;
-&lt;/a&gt;
-&lt;span class=&quot;caption text-muted&quot;&gt;This technically counts as one intersection, right?&lt;/span&gt;
-
-&lt;p&gt;From 2010 to 2014, there were 129 accidents involving 165 victims and 248 vehicles. That's an average of one accident every two weeks.&lt;/p&gt;
-
-
-&lt;a href=&quot;/img/2015-11-30-Car-accidents-in-Barcelona/google1.png&quot;&gt;
-    &lt;img src=&quot;/img/2015-11-30-Car-accidents-in-Barcelona/google1.png&quot; alt=&quot;Google Maps&quot;&gt;
-&lt;/a&gt;
-&lt;span class=&quot;caption text-muted&quot;&gt;Yikes.&lt;/span&gt;
-
-
-&lt;h3 class=&quot;section-heading&quot;&gt;But everywhere is kind of dangerous&lt;/h3&gt;
-
-&lt;p&gt;The reality is that, relative to other comparable cities, Barcelona is a dangerous place. 
-
-&lt;a href=&quot;/img/2015-11-30-Car-accidents-in-Barcelona/over_time_2014.gif&quot;&gt;
-    &lt;img src=&quot;/img/2015-11-30-Car-accidents-in-Barcelona/over_time_2014.gif&quot; alt=&quot;So many photos in this post&quot;, align='right'&gt;
-&lt;/a&gt;
-&lt;span class=&quot;caption text-muted&quot;&gt;&lt;/span&gt;
-
-Sure, &lt;a href=&quot;http://www.telegraph.co.uk/news/worldnews/europe/italy/3198659/Rome-most-dangerous-city-in-Europe-for-traffic-accidents.html&quot;&gt;Rome is worse&lt;/a&gt; (who's surprised?), but Barcelona's got a lot of cars, a lot of motorcycles, a lot of old roads, and a lot of people trying to get from point A to point B.  And all that commotion adds up - to an average of 9,235 accidents per year over the last 5 years, which sums up to more than 25 per day.&lt;/p&gt;
-
-&lt;h3 class=&quot;section-heading&quot;&gt;And it doesn't appear to be getting any better&lt;/h3&gt;
-
-
-
-&lt;p&gt;In 2010, there were just a hair over 9,000 accidents.  In 2011, that number dropped to 8,809.  Since then, however, the number of accidents has climbed by a few hundred per year, peaking at 9,660 in 2014 (the last year for which data are available).
-
-&lt;a href=&quot;/img/2015-11-30-Car-accidents-in-Barcelona/by_year.JPG&quot;&gt;
-    &lt;img src=&quot;/img/2015-11-30-Car-accidents-in-Barcelona/by_year.JPG&quot; alt=&quot;So many photos in this post&quot;&gt;
-&lt;/a&gt;
-
-&lt;h3 class=&quot;section-heading&quot;&gt;When do accidents happen?&lt;/h3&gt;
-
-As consistent as the yearly numbers are, there's a lot of variation by time and day.  Afternoon is far worse than morning, for example.  In the below chart, you can make out spikes at around 8-9 AM (morning rush hour), 2 PM (afternoon break) and 5-7 PM (evening rush hour).  It's odd that the mid-day spike is so much higher than the morning and evening spikes - are that many people on the road at that time?
-
-
-&lt;a href=&quot;{ site.baseurl }}/img/2015-11-30-Car-accidents-in-Barcelona/hora.JPG&quot;&gt;
-    &lt;img src=&quot;/img/2015-11-30-Car-accidents-in-Barcelona/hora.JPG&quot; alt=&quot;I can't really think of any way in which this photo is relevant&quot;&gt;
-&lt;/a&gt;
-
-&lt;p&gt;Weekdays (especially Friday) are far worse than weekends.&lt;/p&gt;
-
-&lt;a href=&quot;/img/2015-11-30-Car-accidents-in-Barcelona/dia.JPG&quot;&gt;
-    &lt;img src=&quot;/img/2015-11-30-Car-accidents-in-Barcelona/dia.JPG&quot; alt=&quot;I can't really think of any way in which this photo is relevant&quot;&gt;
-&lt;/a&gt;
-
-&lt;script async src=&quot;//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js&quot;&gt;&lt;/script&gt;
-&lt;!-- First ad --&gt;
-&lt;ins class=&quot;adsbygoogle&quot;
-     style=&quot;display:block&quot;
-     data-ad-client=&quot;ca-pub-7902219614622730&quot;
-     data-ad-slot=&quot;1939282806&quot;
-     data-ad-format=&quot;auto&quot;&gt;&lt;/ins&gt;
-&lt;script&gt;
-(adsbygoogle = window.adsbygoogle || []).push({});
-&lt;/script&gt;
-
-
-&lt;p&gt;When we look at the averages over the course of an entire week, we see that weekdays have a pre-midnight spike (coming home from dinner), which is conspicuously absent on weekends.&lt;/p&gt;
-
-&lt;a href=&quot;/img/2015-11-30-Car-accidents-in-Barcelona/full_week.JPG&quot;&gt;
-    &lt;img src=&quot;/img/2015-11-30-Car-accidents-in-Barcelona/full_week.JPG&quot; alt=&quot;So many photos in this post&quot;&gt;
-&lt;/a&gt;
-
-&lt;p&gt;It also seems that most of the Friday spike can be attributed to the AM - not PM - rush.  Strange...&lt;/p&gt;
-
-&lt;h3 class=&quot;section-heading&quot;&gt;Like stars in the night sky&lt;/h3&gt;
-
-&lt;p&gt;Car accidents are a pretty morbid topic.  They take far too many lives, and cause countless suffering by those affected.&lt;/p&gt;
-
-&lt;p&gt;Data visualization can help us to absorb numbers too large for our primate brains (ie, the tens of thousands of car accidents in Barcelona over the last few years, and the hundreds of associated deaths).  So, we'll end this post with a visual: click on the below image and zoom in - white dots are accidents, and red dots are deaths.&lt;/p&gt;    
-
-&lt;a href=&quot;/img/2015-11-30-Car-accidents-in-Barcelona/static.jpeg&quot;&gt;
-    &lt;img src=&quot;/img/2015-11-30-Car-accidents-in-Barcelona/static.jpeg&quot; alt=&quot;So many photos in this post&quot;&gt;
-&lt;/a&gt;
-
-
-&lt;h3 class=&quot;section-heading&quot;&gt;Data sources, code, etc.&lt;/h3&gt;
-
-&lt;p&gt;OpenDataBCN hosts the &lt;a href=&quot;http://opendata.bcn.cat/opendata/ca/catalog/ENTORN_URBA&quot;&gt;dataset&lt;/a&gt; for traffic accidents managed by the Guardia Urbana.  It's a &lt;em&gt;super&lt;/em&gt; interesting dataset with a lot more than what was explored here (mortality, number of injuries, etc.).  &lt;/p&gt;
-
-&lt;p&gt;The code and data for this post (including source files, cleaning script, visualizations, etc.) can all be found on &lt;a href=&quot;https://github.com/bcndata/accidents_de_cotxe&quot;&gt;github&lt;/a&gt;.&lt;/p&gt;
-
-
-&lt;ul class=&quot;pager&quot;&gt;
-    &lt;li class=&quot;next&quot;&gt;
-        &lt;a href=&quot;/en/2015/12/04/Does-football-save-lives.en/&quot; data-toggle=&quot;tooltip&quot; data-placement=&quot;top&quot; title=&quot;Does football save lives?&quot;&gt;Next &amp;rarr;&lt;/a&gt;
-    &lt;/li&gt;
-&lt;/ul&gt;
-
-</description>
-        <pubDate>Mon, 30 Nov 2015 07:00:00 -0500</pubDate>
-        <link>http://bcndata.github.io/en/2015/11/30/Car-accidents-in-Barcelona.en/</link>
-        <guid isPermaLink="true">http://bcndata.github.io/en/2015/11/30/Car-accidents-in-Barcelona.en/</guid>
-        
-        <category>data,</category>
-        
-        <category>car,</category>
-        
-        <category>accidents,</category>
-        
-        <category>barcelona,</category>
-        
-        <category>visualization,</category>
-        
-        <category>maps</category>
-        
-        
-        <category>en</category>
-        
-      </item>
-    
-      <item>
-        <title>La intersecció més perillosa de Bacelona</title>
-        <description>&lt;script async src=&quot;//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js&quot;&gt;&lt;/script&gt;
-&lt;!-- horiz large ad --&gt;
-&lt;ins class=&quot;adsbygoogle&quot;
-     style=&quot;display:inline-block;width:728px;height:15px&quot;
-     data-ad-client=&quot;ca-pub-7902219614622730&quot;
-     data-ad-slot=&quot;4722795601&quot;&gt;&lt;/ins&gt;
-&lt;script&gt;
-(adsbygoogle = window.adsbygoogle || []).push({});
-&lt;/script&gt;
-
-&lt;h3 class=&quot;section-heading&quot;&gt;Els barcelonins xoquen. I molt.&lt;/h3&gt;
-
-&lt;p&gt;Seria molt guai veure tots els accident en un mapa, no? Si cliques  &lt;a href=&quot;/ca/2015/12/07/Every-car-accident-in-Barcelona-since-2010.ca/&quot;&gt;AQUÍ&lt;/a&gt; podras fer-ho. Tot els accidents de cotxe a Barcelona del 2010 al 2014. &lt;/p&gt;
-
-&lt;p&gt;Amb tants accidents, estaras pensant, &quot;com puc evitar aquests merders?&quot; Aquí no trobaràs la resposta, però pots començar evitant &lt;em&gt;la intersecció més perillosa de Barcelona...&lt;/em&gt;&lt;/p&gt;
-
-&lt;h3 class=&quot;section-heading&quot;&gt;I la guanyadora és...&lt;/h3&gt;
-
-&lt;p&gt;Exacte, Avinguda Diagonal amb Passeig de Gracia!&lt;/p&gt;
-
-&lt;a href=&quot;/img/2015-11-30-Car-accidents-in-Barcelona/worst.png&quot;&gt;
-    &lt;img src=&quot;/img/2015-11-30-Car-accidents-in-Barcelona/worst.png&quot; alt=&quot;Google Maps&quot;&gt;
-&lt;/a&gt;
-&lt;span class=&quot;caption text-muted&quot;&gt;Ja es veu que no és una intersecció senzilla...&lt;/span&gt;
-
-&lt;p&gt;Del 2010 al 2014, hi ha hagut 129 accidents amb 165 víctimes en 248 vehicles. Una mitjana d'un accident cada dos setmanes! &lt;/p&gt;
-
-
-&lt;a href=&quot;/img/2015-11-30-Car-accidents-in-Barcelona/google1.png&quot;&gt;
-    &lt;img src=&quot;/img/2015-11-30-Car-accidents-in-Barcelona/google1.png&quot; alt=&quot;Google Maps&quot;&gt;
-&lt;/a&gt;
-&lt;span class=&quot;caption text-muted&quot;&gt;Uups!&lt;/span&gt;
-
-
-&lt;h3 class=&quot;section-heading&quot;&gt;Però tot és una mica perillós &lt;/h3&gt;
-
-&lt;p&gt;La realitat és que, comparant amb altres ciutats, Barcelona és especialment perillosa.&lt;/p&gt;  
-
-&lt;a href=&quot;/img/2015-11-30-Car-accidents-in-Barcelona/over_time_2014.gif&quot;&gt;
-    &lt;img src=&quot;/img/2015-11-30-Car-accidents-in-Barcelona/over_time_2014.gif&quot; alt=&quot;So many photos in this post&quot;, align='right'&gt;
-&lt;/a&gt;
-&lt;span class=&quot;caption text-muted&quot;&gt;&lt;/span&gt;
-
-
-&lt;p&gt;&lt;a href=&quot;http://www.telegraph.co.uk/news/worldnews/europe/italy/3198659/Rome-most-dangerous-city-in-Europe-for-traffic-accidents.html&quot;&gt;Roma és pitjor.&lt;/a&gt; (quina sorpresa, no?), però Barcelona té molts cotxes, moltes motos, molts autobusos i molta gent intentant anar de punt A a punt B. Tot això porta a una mitjana de 9.235 accidents per any en els últims 5 anys, el que correspon a més de 25 accidents per dia.&lt;/p&gt;
-
-&lt;h3 class=&quot;section-heading&quot;&gt;I no sembla que estigui millorant&lt;/h3&gt;
-
-
-&lt;p&gt;El 2010, hi havia només una mica més de 9.000 accidents. El 2011, va baixar fins a 8.809.  Des de llavors però, el nombre d'accidents ha anat augmentant cada any, amb un màxim de 9.660 el 2014 (l'ultim any del qual disposem de dades).&lt;/p&gt;
-
-&lt;a href=&quot;/img/2015-11-30-Car-accidents-in-Barcelona/by_year_ca.JPG&quot;&gt;
-    &lt;img src=&quot;/img/2015-11-30-Car-accidents-in-Barcelona/by_year_ca.JPG&quot; alt=&quot;So many photos in this post&quot;&gt;
-&lt;/a&gt;
-
-&lt;h3 class=&quot;section-heading&quot;&gt;Quan passen tots aquest accidents?&lt;/h3&gt;
-
-&lt;p&gt;Hi ha molta variació depenent del dia i la hora. La tarda és molt pitjor que el matí, per exemple. En el gràfic següent es veu clar la hora punta del matí, de 8 a 9, a les 2 amb el descans del migdia i l'hora punta a la tarda, entre 5 i 7.  És extrany que la pujada al mitgdia es més alta que les del matí i de la tarda - realment hi ha tanta gent als carrers a la hora de dinar?&lt;/p&gt;
-
-&lt;a href=&quot;{ site.baseurl }}/img/2015-11-30-Car-accidents-in-Barcelona/hora)ca.JPG&quot;&gt;
-    &lt;img src=&quot;/img/2015-11-30-Car-accidents-in-Barcelona/hora_ca.JPG&quot; alt=&quot;I can't really think of any way in which this photo is relevant&quot;&gt;
-&lt;/a&gt;
-
-&lt;p&gt;Els dies entre setmana (sobre tot el divendres) son molt pitjors que els caps de setmana.&lt;/p&gt;
-
-&lt;a href=&quot;/img/2015-11-30-Car-accidents-in-Barcelona/dia_ca.JPG&quot;&gt;
-    &lt;img src=&quot;/img/2015-11-30-Car-accidents-in-Barcelona/dia_ca.JPG&quot; alt=&quot;I can't really think of any way in which this photo is relevant&quot;&gt;
-&lt;/a&gt;
-
-&lt;script async src=&quot;//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js&quot;&gt;&lt;/script&gt;
-&lt;!-- First ad --&gt;
-&lt;ins class=&quot;adsbygoogle&quot;
-     style=&quot;display:block&quot;
-     data-ad-client=&quot;ca-pub-7902219614622730&quot;
-     data-ad-slot=&quot;1939282806&quot;
-     data-ad-format=&quot;auto&quot;&gt;&lt;/ins&gt;
-&lt;script&gt;
-(adsbygoogle = window.adsbygoogle || []).push({});
-&lt;/script&gt;
-
-
-&lt;p&gt;Quan mirem els números al llarg d'una setmana sencera, veiem que hi ha una pujada abans de la mitjanit (tornant del sopar?), el que no existeix durant el cap de setmana.&lt;/p&gt;
-
-&lt;a href=&quot;/img/2015-11-30-Car-accidents-in-Barcelona/full_week_ca.JPG&quot;&gt;
-    &lt;img src=&quot;/img/2015-11-30-Car-accidents-in-Barcelona/full_week_ca.JPG&quot; alt=&quot;So many photos in this post&quot;&gt;
-&lt;/a&gt;
-
-&lt;p&gt;També sembla que la taxa d'accidents tan alta del divendres és al matí i no a la tarda.  Que extrany...&lt;/p&gt;
-
-&lt;h3 class=&quot;section-heading&quot;&gt;Com estrelles al cel a la nit&lt;/h3&gt;
-
-&lt;p&gt;Els accidents de cotxe és un tema força mòrbid.  Matan a massa gent, i causan sufriment incontable pels afectats.&lt;/p&gt;
-
-&lt;p&gt;La visualització de dades ens pot ajudar a absorbir números que són massa grans pels nostres cervells de primat (o sigui, els milers d'accidents a Barcelona aquests últims anys, i els centenats de morts associats).  Doncs acabarem aquest post amb un mapa: fes click al mapa d'aquí a sota - els punts blancs són accidents, i els vermells són morts.&lt;/p&gt;    
-
-&lt;a href=&quot;/img/2015-11-30-Car-accidents-in-Barcelona/static.jpeg&quot;&gt;
-    &lt;img src=&quot;/img/2015-11-30-Car-accidents-in-Barcelona/static.jpeg&quot; alt=&quot;So many photos in this post&quot;&gt;
-&lt;/a&gt;
-
-
-
-&lt;h3 class=&quot;section-heading&quot;&gt;Font de dades, codi, etc.&lt;/h3&gt;
-
-&lt;p&gt;Les dades venen del &lt;a href=&quot;http://opendata.bcn.cat/opendata/ca/catalog/ENTORN_URBA&quot;&gt;portal OpenDataBCN&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;El codi i les dades (incloent els arxius de font, el codi per a netejar, i el codi per a generar les visualitzacions) es poden trobar en &lt;a href=&quot;https://github.com/bcndata/accidents_de_cotxe&quot;&gt;github&lt;/a&gt;.&lt;/p&gt;
-
-
-
-&lt;ul class=&quot;pager&quot;&gt;
-    &lt;li class=&quot;next&quot;&gt;
-        &lt;a href=&quot;/ca/2015/12/04/Does-football-save-lives.ca/&quot; data-toggle=&quot;tooltip&quot; data-placement=&quot;top&quot; title=&quot;El futbol salva vides?&quot;&gt;Següent &amp;rarr;&lt;/a&gt;
-    &lt;/li&gt;
-&lt;/ul&gt;
-
-</description>
-        <pubDate>Mon, 30 Nov 2015 07:00:00 -0500</pubDate>
-        <link>http://bcndata.github.io/ca/2015/11/30/Car-accidents-in-Barcelona.ca/</link>
-        <guid isPermaLink="true">http://bcndata.github.io/ca/2015/11/30/Car-accidents-in-Barcelona.ca/</guid>
-        
-        <category>data,</category>
-        
-        <category>car,</category>
-        
-        <category>accidents,</category>
-        
-        <category>barcelona,</category>
-        
-        <category>visualization,</category>
-        
-        <category>maps</category>
-        
-        
-        <category>ca</category>
         
       </item>
     
