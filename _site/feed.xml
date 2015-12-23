@@ -3,10 +3,10 @@
   <channel>
     <title>BCN data</title>
     <description>BCN data</description>
-    <link>http://bcndata.github.io/</link>
-    <atom:link href="http://bcndata.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 16 Dec 2015 16:52:08 -0500</pubDate>
-    <lastBuildDate>Wed, 16 Dec 2015 16:52:08 -0500</lastBuildDate>
+    <link>http://bcndata.cat/</link>
+    <atom:link href="http://bcndata.cat/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Tue, 22 Dec 2015 21:41:25 -0500</pubDate>
+    <lastBuildDate>Tue, 22 Dec 2015 21:41:25 -0500</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -21,50 +21,50 @@
 (adsbygoogle = window.adsbygoogle || []).push({});
 &lt;/script&gt;
 
-&lt;h3 class=&quot;section-heading&quot;&gt;What exactly is &quot;good&quot; weather?&lt;/h3&gt;
+&lt;h3 class=&quot;section-heading&quot;&gt;¿Qué es el &quot;buen&quot; tiempo?&lt;/h3&gt;
 
-&lt;p&gt;Two things:&lt;/p&gt;
+&lt;p&gt;Para que se considere &quot;buen tiempo&quot;, hay que cumplir dos requisitos:&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;The temperature is comfortable.&lt;/li&gt;
-&lt;li&gt;That temperature is predictable (ie, there's not too much variance).&lt;/li&gt;
+&lt;li&gt;La temperatura tiene que ser cómoda.&lt;/li&gt;
+&lt;li&gt;La temperatura tiene que ser predicible (o sea, que no haya mucha varianza).&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;By these standards, Barcelona has...&lt;/p&gt;
+&lt;p&gt;Considerando estos estándares, Barcelona tiene...&lt;/p&gt;
 
 
-&lt;h3 class=&quot;section-heading&quot;&gt;The best weather in Spain&lt;/h3&gt;
+&lt;h3 class=&quot;section-heading&quot;&gt;El mejor tiempo de España&lt;/h3&gt;
 
-&lt;a href=&quot;/img/2015-12-16-Weather/spain_plot_en.JPG&quot;&gt;
-    &lt;img src=&quot;/img/2015-12-16-Weather/spain_plot_en.JPG&quot; alt=&quot;&quot;&gt;
+&lt;a href=&quot;/img/2015-12-16-Weather/spain_plot_es.JPG&quot;&gt;
+    &lt;img src=&quot;/img/2015-12-16-Weather/spain_plot_es.JPG&quot; alt=&quot;&quot;&gt;
 &lt;/a&gt;
-&lt;span class=&quot;caption text-muted&quot;&gt;Granda looks terrible&lt;/span&gt;
+&lt;span class=&quot;caption text-muted&quot;&gt;Pobres granadinos...&lt;/span&gt;
 
-&lt;p&gt;Málaga has nice winters but oppresive summers.  Bilbao, in addition to being covered in clouds most of the year, has wildly unpredictable summer temperature swings.  Madrid's summers are too hot and its winters too cold.  And Granada - don't even start.&lt;/p&gt;
+&lt;p&gt;Málaga tiene inviernos buenos pero veranos casi opresivos.  Bilbao, además de estar cubierto por nubes la mayoría del año, tiene unos cambios veraniegos bestiales.  Los veranos en Madrid - demasiado calientes; y los inviernos - demasiado fríos.  Y Granada - ni empezamos.&lt;/p&gt;
 
-&lt;h3 class=&quot;section-heading&quot;&gt;No crazy swings&lt;/h3&gt;
+&lt;h3 class=&quot;section-heading&quot;&gt;Sin oscilaciones drásticas&lt;/h3&gt;
 
 
-&lt;p&gt;What's most striking is how little &lt;em&gt;variance&lt;/em&gt; there is in Barcelona's daily temperatures. On average, the daily &quot;swing&quot; (difference between maximum and minimum temperature) in Barcelona is only 7.1 degrees (C).  In Madrid, it's 12. This means that in Barcelona, when you get dressed in the morning, your outfit is likely to remain comfortable all day; in Granada (where the daily swing is 14 degrees), no matter what you wear, you'll end up either shivering or sweating.&lt;/p&gt;
+&lt;p&gt;Lo que más sorprende es lo poco que &lt;em&gt;varia&lt;/em&gt; la temperatura cotidiana de Barcelona.  Como promedio, la &quot;oscilación&quot; diara (la diferencia entre la temperatura máxima y mínima) es de alrededor de 7,1°C.  En Madrid, es de 12°C.  Esto significa que en Barcelona, cuando te vistes por la mañana, tu ropa todavía estará apropriada al final del día.  En Granada (dónde la oscilación cotidiana es de 14°C), no importa lo que lleves, acabaras temblando o sudando.&lt;/p&gt;
 
-&lt;a href=&quot;/img/2015-12-16-Weather/variance_en.JPG&quot;&gt;
-    &lt;img src=&quot;/img/2015-12-16-Weather/variance_en.JPG&quot; alt=&quot;&quot;&gt;
+&lt;a href=&quot;/img/2015-12-16-Weather/variance_es.JPG&quot;&gt;
+    &lt;img src=&quot;/img/2015-12-16-Weather/variance_es.JPG&quot; alt=&quot;&quot;&gt;
 &lt;/a&gt;
-&lt;span class=&quot;caption text-muted&quot;&gt;Best place to be in January&lt;/span&gt;
+&lt;span class=&quot;caption text-muted&quot;&gt;Diferencia media entre temperatura máxima y mínima por día&lt;/span&gt;
 
-&lt;h3 class=&quot;section-heading&quot;&gt;The best weather... in the world?&lt;/h3&gt;
+&lt;h3 class=&quot;section-heading&quot;&gt;El mejor tiempo... ¿del mundo?&lt;/h3&gt;
 
-&lt;a href=&quot;/img/2015-12-16-Weather/comparison_en.JPG&quot;&gt;
-    &lt;img src=&quot;/img/2015-12-16-Weather/comparison_en.JPG&quot; alt=&quot;&quot;&gt;
+&lt;a href=&quot;/img/2015-12-16-Weather/comparison_es.JPG&quot;&gt;
+    &lt;img src=&quot;/img/2015-12-16-Weather/comparison_es.JPG&quot; alt=&quot;&quot;&gt;
 &lt;/a&gt;
-&lt;span class=&quot;caption text-muted&quot;&gt;Best place to be in January&lt;/span&gt;
+&lt;span class=&quot;caption text-muted&quot;&gt;Por lo menos es el mejor lugar en enero&lt;/span&gt;
 
-&lt;p&gt;With an average of 24 in July and 10 in January, it doesn't get much better than Barcelona. Compare that to New York which is hotter in July (25) and &lt;em&gt;way&lt;/em&gt; colder in January (0!).&lt;/p&gt;
+&lt;p&gt;Con una media de 24°C en julio y 10°C en energo, no hay lugar mejor que Barcelona.  Compara esto con Nueva York, que tiene un julio más caliente (25°C) y &lt;em&gt;mucho&lt;/em&gt; más frío en enero (¡0°C!).&lt;/p&gt;
 
 
-&lt;a href=&quot;/img/2015-12-16-Weather/typical_year_en.JPG&quot;&gt;
-    &lt;img src=&quot;/img/2015-12-16-Weather/typical_year_en.JPG&quot; alt=&quot;&quot;&gt;
+&lt;a href=&quot;/img/2015-12-16-Weather/typical_year_es.JPG&quot;&gt;
+    &lt;img src=&quot;/img/2015-12-16-Weather/typical_year_es.JPG&quot; alt=&quot;&quot;&gt;
 &lt;/a&gt;
-&lt;span class=&quot;caption text-muted&quot;&gt;Nice try, Madrid.&lt;/span&gt;
+&lt;span class=&quot;caption text-muted&quot;&gt;Buen intento, Madrid.&lt;/span&gt;
 
 
 &lt;script async src=&quot;//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js&quot;&gt;&lt;/script&gt;
@@ -78,24 +78,25 @@
 &lt;/script&gt;
 
 
-&lt;h3 class=&quot;section-heading&quot;&gt;Visualization&lt;/h3&gt;
+&lt;h3 class=&quot;section-heading&quot;&gt;Visualización&lt;/h3&gt;
 
-&lt;p&gt;We like to end posts with something pretty.  So, here it is - an overview of a typical year in Barcelona.&lt;/p&gt;  
+&lt;p&gt;Nos gusta acabar un post con algo bonito.  Aquí lo tienes - una vista de un año típico en Barcelona.&lt;/p&gt;  
 
-&lt;a href=&quot;/img/2015-12-16-Weather/full_year_en/full_year_en.gif&quot;&gt;
-    &lt;img src=&quot;/img/2015-12-16-Weather/full_year_en/full_year_en.gif&quot; alt=&quot;&quot;&gt;
+&lt;a href=&quot;/img/2015-12-16-Weather/full_year_es/full_year_es.gif&quot;&gt;
+    &lt;img src=&quot;/img/2015-12-16-Weather/full_year_es/full_year_es.gif&quot; alt=&quot;&quot;&gt;
 &lt;/a&gt;
-&lt;span class=&quot;caption text-muted&quot;&gt;Cool summers, warm winters, and minimal inter- and intra-day variance&lt;/span&gt;
+&lt;span class=&quot;caption text-muted&quot;&gt;Veranos frescos, inviernos cálidos y mínima varianza&lt;/span&gt;
 
 
-&lt;h3 class=&quot;section-heading&quot;&gt;Data sources, code, etc.&lt;/h3&gt;
+&lt;h3 class=&quot;section-heading&quot;&gt;Fuentes de datos, código, etc.&lt;/h3&gt;
 
-&lt;p&gt;As always, the code and data for this post (including source files, cleaning script, visualizations, etc.) can all be found on &lt;a href=&quot;https://github.com/bcndata/weather&quot;&gt;github&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Como siempre, el código para este post (incluyendo los datos de fuente, el código para limpiar, el código para generar los gráficos, etc.) se puede encontrar en &lt;a href=&quot;https://github.com/bcndata/weather&quot;&gt;github&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;The weather data comes from &lt;em&gt;Weather Undeground&lt;/em&gt;, which we accessed via R's &quot;WeatherData&quot; package.&lt;/p&gt;</description>
+&lt;p&gt;Los datos sobre el tiempo vienen de &lt;a href=&quot;http://www.wunderground.com/&quot;&gt;Weather Underground&lt;/a&gt;, que accedimos con el paquete R &lt;a href=&quot;https://cran.r-project.org/web/packages/weatherData/weatherData.pdf&quot;&gt;weatherData&lt;/a&gt;.&lt;/p&gt;
+</description>
         <pubDate>Wed, 16 Dec 2015 07:00:00 -0500</pubDate>
-        <link>http://bcndata.github.io/es/2015/12/16/Weather.es/</link>
-        <guid isPermaLink="true">http://bcndata.github.io/es/2015/12/16/Weather.es/</guid>
+        <link>http://bcndata.cat/es/2015/12/16/Weather.es/</link>
+        <guid isPermaLink="true">http://bcndata.cat/es/2015/12/16/Weather.es/</guid>
         
         
         <category>es</category>
@@ -116,7 +117,7 @@
 
 &lt;h3 class=&quot;section-heading&quot;&gt;What exactly is &quot;good&quot; weather?&lt;/h3&gt;
 
-&lt;p&gt;Two things:&lt;/p&gt;
+&lt;p&gt;For weather to be considered &quot;good&quot;, two things must be true:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;The temperature is comfortable.&lt;/li&gt;
 &lt;li&gt;That temperature is predictable (ie, there's not too much variance).&lt;/li&gt;
@@ -142,7 +143,7 @@
 &lt;a href=&quot;/img/2015-12-16-Weather/variance_en.JPG&quot;&gt;
     &lt;img src=&quot;/img/2015-12-16-Weather/variance_en.JPG&quot; alt=&quot;&quot;&gt;
 &lt;/a&gt;
-&lt;span class=&quot;caption text-muted&quot;&gt;Best place to be in January&lt;/span&gt;
+&lt;span class=&quot;caption text-muted&quot;&gt;Average difference between daily maximum and minimum temperatures&lt;/span&gt;
 
 &lt;h3 class=&quot;section-heading&quot;&gt;The best weather... in the world?&lt;/h3&gt;
 
@@ -185,11 +186,11 @@
 
 &lt;p&gt;As always, the code and data for this post (including source files, cleaning script, visualizations, etc.) can all be found on &lt;a href=&quot;https://github.com/bcndata/weather&quot;&gt;github&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;The weather data comes from &lt;em&gt;Weather Undeground&lt;/em&gt;, which we accessed via R's &quot;WeatherData&quot; package.&lt;/p&gt;
+&lt;p&gt;The weather data comes from &lt;a href=&quot;http://www.wunderground.com/&quot;&gt;Weather Underground&lt;/a&gt;, which we accessed via R's &lt;a href=&quot;https://cran.r-project.org/web/packages/weatherData/weatherData.pdf&quot;&gt;weatherData package&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Wed, 16 Dec 2015 07:00:00 -0500</pubDate>
-        <link>http://bcndata.github.io/en/2015/12/16/Weather.en/</link>
-        <guid isPermaLink="true">http://bcndata.github.io/en/2015/12/16/Weather.en/</guid>
+        <link>http://bcndata.cat/en/2015/12/16/Weather.en/</link>
+        <guid isPermaLink="true">http://bcndata.cat/en/2015/12/16/Weather.en/</guid>
         
         
         <category>en</category>
@@ -208,50 +209,50 @@
 (adsbygoogle = window.adsbygoogle || []).push({});
 &lt;/script&gt;
 
-&lt;h3 class=&quot;section-heading&quot;&gt;What exactly is &quot;good&quot; weather?&lt;/h3&gt;
+&lt;h3 class=&quot;section-heading&quot;&gt;¿Què és el &quot;bon&quot; temps?&lt;/h3&gt;
 
-&lt;p&gt;Two things:&lt;/p&gt;
+&lt;p&gt;Per considerar que en una ciutat fa bon temps, s'han de complir dos requisists:&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;The temperature is comfortable.&lt;/li&gt;
-&lt;li&gt;That temperature is predictable (ie, there's not too much variance).&lt;/li&gt;
+&lt;li&gt;La temperatura ha de ser cómoda.&lt;/li&gt;
+&lt;li&gt;La temperatura ha de ser previsible (és a dir, que no hi hagi molta variància).&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;By these standards, Barcelona has...&lt;/p&gt;
+&lt;p&gt;Considerant aquests estàndards, Barcelona té...&lt;/p&gt;
 
 
-&lt;h3 class=&quot;section-heading&quot;&gt;The best weather in Spain&lt;/h3&gt;
+&lt;h3 class=&quot;section-heading&quot;&gt;El millor temps d'Espanya&lt;/h3&gt;
 
-&lt;a href=&quot;/img/2015-12-16-Weather/spain_plot_en.JPG&quot;&gt;
-    &lt;img src=&quot;/img/2015-12-16-Weather/spain_plot_en.JPG&quot; alt=&quot;&quot;&gt;
+&lt;a href=&quot;/img/2015-12-16-Weather/spain_plot_ca.JPG&quot;&gt;
+    &lt;img src=&quot;/img/2015-12-16-Weather/spain_plot_ca.JPG&quot; alt=&quot;&quot;&gt;
 &lt;/a&gt;
-&lt;span class=&quot;caption text-muted&quot;&gt;Granda looks terrible&lt;/span&gt;
+&lt;span class=&quot;caption text-muted&quot;&gt;Pobres granadins&lt;/span&gt;
 
-&lt;p&gt;Málaga has nice winters but oppresive summers.  Bilbao, in addition to being covered in clouds most of the year, has wildly unpredictable summer temperature swings.  Madrid's summers are too hot and its winters too cold.  And Granada - don't even start.&lt;/p&gt;
+&lt;p&gt;Màlaga té hiverns bons però estius casi mortals. Bilbao, a més a més d'estar casi sempre cobert de núvols, té uns canvis de temperatura a l'estiu bestials. Els estius a Madrid són massa calents i els hiverns massa freds. I Granada, millor ni començar...&lt;/p&gt;
 
-&lt;h3 class=&quot;section-heading&quot;&gt;No crazy swings&lt;/h3&gt;
+&lt;h3 class=&quot;section-heading&quot;&gt;Sense grans oscil·lacions&lt;/h3&gt;
 
 
-&lt;p&gt;What's most striking is how little &lt;em&gt;variance&lt;/em&gt; there is in Barcelona's daily temperatures. On average, the daily &quot;swing&quot; (difference between maximum and minimum temperature) in Barcelona is only 7.1 degrees (C).  In Madrid, it's 12. This means that in Barcelona, when you get dressed in the morning, your outfit is likely to remain comfortable all day; in Granada (where the daily swing is 14 degrees), no matter what you wear, you'll end up either shivering or sweating.&lt;/p&gt;
+&lt;p&gt;El que és més sorprenent és el poc que &lt;em&gt;varia&lt;/em&gt; la temperatura cotidiana de Barcelona. De mitjana, la oscil·lació diàra (la diferència entre la temperatura màxima i mínima) és al voltant de 7,1°C.  A Madrid, és de 12°C.  Això significa que a Barcelona, quan et vesteixes pel matí, la teva roba encara estarà bé al final del dia.  A Granada (on la oscil·lació quotidiana és de 14°C), no importa el que et posis, acabaras tremolant o suant.&lt;/p&gt;
 
-&lt;a href=&quot;/img/2015-12-16-Weather/variance_en.JPG&quot;&gt;
-    &lt;img src=&quot;/img/2015-12-16-Weather/variance_en.JPG&quot; alt=&quot;&quot;&gt;
+&lt;a href=&quot;/img/2015-12-16-Weather/variance_ca.JPG&quot;&gt;
+    &lt;img src=&quot;/img/2015-12-16-Weather/variance_ca.JPG&quot; alt=&quot;&quot;&gt;
 &lt;/a&gt;
-&lt;span class=&quot;caption text-muted&quot;&gt;Best place to be in January&lt;/span&gt;
+&lt;span class=&quot;caption text-muted&quot;&gt;Diferència mitja entre temperatura màxima i mínima per dia&lt;/span&gt;
 
-&lt;h3 class=&quot;section-heading&quot;&gt;The best weather... in the world?&lt;/h3&gt;
+&lt;h3 class=&quot;section-heading&quot;&gt;El millor temps... del món?&lt;/h3&gt;
 
-&lt;a href=&quot;/img/2015-12-16-Weather/comparison_en.JPG&quot;&gt;
-    &lt;img src=&quot;/img/2015-12-16-Weather/comparison_en.JPG&quot; alt=&quot;&quot;&gt;
+&lt;a href=&quot;/img/2015-12-16-Weather/comparison_ca.JPG&quot;&gt;
+    &lt;img src=&quot;/img/2015-12-16-Weather/comparison_ca.JPG&quot; alt=&quot;&quot;&gt;
 &lt;/a&gt;
-&lt;span class=&quot;caption text-muted&quot;&gt;Best place to be in January&lt;/span&gt;
+&lt;span class=&quot;caption text-muted&quot;&gt;Com a mínim és el millor lloc al gener&lt;/span&gt;
 
-&lt;p&gt;With an average of 24 in July and 10 in January, it doesn't get much better than Barcelona. Compare that to New York which is hotter in July (25) and &lt;em&gt;way&lt;/em&gt; colder in January (0!).&lt;/p&gt;
+&lt;p&gt;Amb una mitja de 24°C al juliol i 10°C al gener, no hi ha millor lloc que Barcelona. Comparat amb Nova York que té juliols més calorosos (25°C) i geners &lt;em&gt;molt&lt;/em&gt; més freds (0°C!).&lt;/p&gt;
 
 
-&lt;a href=&quot;/img/2015-12-16-Weather/typical_year_en.JPG&quot;&gt;
-    &lt;img src=&quot;/img/2015-12-16-Weather/typical_year_en.JPG&quot; alt=&quot;&quot;&gt;
+&lt;a href=&quot;/img/2015-12-16-Weather/typical_year_ca.JPG&quot;&gt;
+    &lt;img src=&quot;/img/2015-12-16-Weather/typical_year_ca.JPG&quot; alt=&quot;&quot;&gt;
 &lt;/a&gt;
-&lt;span class=&quot;caption text-muted&quot;&gt;Nice try, Madrid.&lt;/span&gt;
+&lt;span class=&quot;caption text-muted&quot;&gt;Bon intent, Madrid!&lt;/span&gt;
 
 
 &lt;script async src=&quot;//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js&quot;&gt;&lt;/script&gt;
@@ -265,25 +266,25 @@
 &lt;/script&gt;
 
 
-&lt;h3 class=&quot;section-heading&quot;&gt;Visualization&lt;/h3&gt;
+&lt;h3 class=&quot;section-heading&quot;&gt;Visualizació&lt;/h3&gt;
 
-&lt;p&gt;We like to end posts with something pretty.  So, here it is - an overview of a typical year in Barcelona.&lt;/p&gt;  
+&lt;p&gt;Ens agrada acabar amb algo bonic. Aquí ho teniu, una animació d'un any típic a Barcelona.&lt;/p&gt;  
 
-&lt;a href=&quot;/img/2015-12-16-Weather/full_year_en/full_year_en.gif&quot;&gt;
-    &lt;img src=&quot;/img/2015-12-16-Weather/full_year_en/full_year_en.gif&quot; alt=&quot;&quot;&gt;
+&lt;a href=&quot;/img/2015-12-16-Weather/full_year_ca/full_year_ca.gif&quot;&gt;
+    &lt;img src=&quot;/img/2015-12-16-Weather/full_year_ca/full_year_ca.gif&quot; alt=&quot;&quot;&gt;
 &lt;/a&gt;
-&lt;span class=&quot;caption text-muted&quot;&gt;Cool summers, warm winters, and minimal inter- and intra-day variance&lt;/span&gt;
+&lt;span class=&quot;caption text-muted&quot;&gt;Estius frescos, hiverns càlids i variància mínima&lt;/span&gt;
 
 
-&lt;h3 class=&quot;section-heading&quot;&gt;Data sources, code, etc.&lt;/h3&gt;
+&lt;h3 class=&quot;section-heading&quot;&gt;Fonts de dades, codi, etc.&lt;/h3&gt;
 
-&lt;p&gt;As always, the code and data for this post (including source files, cleaning script, visualizations, etc.) can all be found on &lt;a href=&quot;https://github.com/bcndata/weather&quot;&gt;github&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Com sempre, el codi per aquest post (incloent les dades de fonts, el codi per netejar, el codi per generar els gràfics, etc.) el pots trobar a &lt;a href=&quot;https://github.com/bcndata/weather&quot;&gt;github&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;The weather data comes from &lt;em&gt;Weather Undeground&lt;/em&gt;, which we accessed via R's &quot;WeatherData&quot; package.&lt;/p&gt;
+&lt;p&gt;Les dades sobre el temps venen de &lt;a href=&quot;http://www.wunderground.com/&quot;&gt;Weather Underground&lt;/a&gt;, que hem accedit amb el paquet R &lt;a href=&quot;https://cran.r-project.org/web/packages/weatherData/weatherData.pdf&quot;&gt;weatherData&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Wed, 16 Dec 2015 07:00:00 -0500</pubDate>
-        <link>http://bcndata.github.io/ca/2015/12/16/Weather.ca/</link>
-        <guid isPermaLink="true">http://bcndata.github.io/ca/2015/12/16/Weather.ca/</guid>
+        <link>http://bcndata.cat/ca/2015/12/16/Weather.ca/</link>
+        <guid isPermaLink="true">http://bcndata.cat/ca/2015/12/16/Weather.ca/</guid>
         
         
         <category>ca</category>
@@ -315,8 +316,8 @@
 &lt;p&gt;Hicimos el mapa en R, utilizando el paquete Leaflet.  El código y los datos (incluyendo los archivos de fuente, el código para limpiar, y el código para generar visualizaciones) se pueden encontrar en &lt;a href=&quot;https://github.com/bcndata/accidents_de_cotxe&quot;&gt;github&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Mon, 07 Dec 2015 07:00:00 -0500</pubDate>
-        <link>http://bcndata.github.io/es/2015/12/07/Every-car-accident-in-Barcelona-since-2010.es/</link>
-        <guid isPermaLink="true">http://bcndata.github.io/es/2015/12/07/Every-car-accident-in-Barcelona-since-2010.es/</guid>
+        <link>http://bcndata.cat/es/2015/12/07/Every-car-accident-in-Barcelona-since-2010.es/</link>
+        <guid isPermaLink="true">http://bcndata.cat/es/2015/12/07/Every-car-accident-in-Barcelona-since-2010.es/</guid>
         
         
         <category>es</category>
@@ -347,8 +348,8 @@
 
 &lt;p&gt;This map was generated in R, using the leaflet library. The code and data for this post (including source files, cleaning script, visualizations, etc.) can all be found on &lt;a href=&quot;https://github.com/bcndata/accidents_de_cotxe&quot;&gt;github&lt;/a&gt;.&lt;/p&gt;</description>
         <pubDate>Mon, 07 Dec 2015 07:00:00 -0500</pubDate>
-        <link>http://bcndata.github.io/en/2015/12/07/Every-car-accident-in-Barcelona-since-2010.en/</link>
-        <guid isPermaLink="true">http://bcndata.github.io/en/2015/12/07/Every-car-accident-in-Barcelona-since-2010.en/</guid>
+        <link>http://bcndata.cat/en/2015/12/07/Every-car-accident-in-Barcelona-since-2010.en/</link>
+        <guid isPermaLink="true">http://bcndata.cat/en/2015/12/07/Every-car-accident-in-Barcelona-since-2010.en/</guid>
         
         
         <category>en</category>
@@ -381,8 +382,8 @@
 
 </description>
         <pubDate>Mon, 07 Dec 2015 07:00:00 -0500</pubDate>
-        <link>http://bcndata.github.io/ca/2015/12/07/Every-car-accident-in-Barcelona-since-2010.ca/</link>
-        <guid isPermaLink="true">http://bcndata.github.io/ca/2015/12/07/Every-car-accident-in-Barcelona-since-2010.ca/</guid>
+        <link>http://bcndata.cat/ca/2015/12/07/Every-car-accident-in-Barcelona-since-2010.ca/</link>
+        <guid isPermaLink="true">http://bcndata.cat/ca/2015/12/07/Every-car-accident-in-Barcelona-since-2010.ca/</guid>
         
         
         <category>ca</category>
@@ -531,8 +532,8 @@
 
 </description>
         <pubDate>Fri, 04 Dec 2015 07:00:00 -0500</pubDate>
-        <link>http://bcndata.github.io/es/2015/12/04/Does-football-save-lives.es/</link>
-        <guid isPermaLink="true">http://bcndata.github.io/es/2015/12/04/Does-football-save-lives.es/</guid>
+        <link>http://bcndata.cat/es/2015/12/04/Does-football-save-lives.es/</link>
+        <guid isPermaLink="true">http://bcndata.cat/es/2015/12/04/Does-football-save-lives.es/</guid>
         
         
         <category>es</category>
@@ -679,8 +680,8 @@ That's probably a stretch.  Yes, there are &lt;em&gt;slightly&lt;/em&gt; fewer d
 
 </description>
         <pubDate>Fri, 04 Dec 2015 07:00:00 -0500</pubDate>
-        <link>http://bcndata.github.io/en/2015/12/04/Does-football-save-lives.en/</link>
-        <guid isPermaLink="true">http://bcndata.github.io/en/2015/12/04/Does-football-save-lives.en/</guid>
+        <link>http://bcndata.cat/en/2015/12/04/Does-football-save-lives.en/</link>
+        <guid isPermaLink="true">http://bcndata.cat/en/2015/12/04/Does-football-save-lives.en/</guid>
         
         
         <category>en</category>
@@ -827,8 +828,8 @@ That's probably a stretch.  Yes, there are &lt;em&gt;slightly&lt;/em&gt; fewer d
 
 </description>
         <pubDate>Fri, 04 Dec 2015 07:00:00 -0500</pubDate>
-        <link>http://bcndata.github.io/ca/2015/12/04/Does-football-save-lives.ca/</link>
-        <guid isPermaLink="true">http://bcndata.github.io/ca/2015/12/04/Does-football-save-lives.ca/</guid>
+        <link>http://bcndata.cat/ca/2015/12/04/Does-football-save-lives.ca/</link>
+        <guid isPermaLink="true">http://bcndata.cat/ca/2015/12/04/Does-football-save-lives.ca/</guid>
         
         
         <category>ca</category>
@@ -946,8 +947,8 @@ That's probably a stretch.  Yes, there are &lt;em&gt;slightly&lt;/em&gt; fewer d
 &lt;p&gt;Hicimos el mapa en R, utilizando el paquete Leaflet.  El código y los datos (incluyendo los archivos de fuente, el código para limpiar, y el código para generar visualizaciones) se pueden encontrar en &lt;a href=&quot;https://github.com/bcndata/accidents_de_cotxe&quot;&gt;github&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Mon, 30 Nov 2015 07:00:00 -0500</pubDate>
-        <link>http://bcndata.github.io/es/2015/11/30/Car-accidents-in-Barcelona.es/</link>
-        <guid isPermaLink="true">http://bcndata.github.io/es/2015/11/30/Car-accidents-in-Barcelona.es/</guid>
+        <link>http://bcndata.cat/es/2015/11/30/Car-accidents-in-Barcelona.es/</link>
+        <guid isPermaLink="true">http://bcndata.cat/es/2015/11/30/Car-accidents-in-Barcelona.es/</guid>
         
         <category>data,</category>
         
