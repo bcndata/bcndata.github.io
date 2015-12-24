@@ -3,7 +3,7 @@ layout: page
 title: "About"
 header_title: "Nosaltres"
 description: "People who like Barcelona"
-header-img: "img/joe_i_colo_til.jpg"
+header-img: "img/joe_i_colo_tilt.jpg"
 ---
 
 <div id="fb-root"></div>
