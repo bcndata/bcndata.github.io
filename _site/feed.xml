@@ -5,9 +5,141 @@
     <description>BCN data</description>
     <link>http://bcndata.cat/</link>
     <atom:link href="http://bcndata.cat/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 01 Feb 2016 16:22:10 +0100</pubDate>
-    <lastBuildDate>Mon, 01 Feb 2016 16:22:10 +0100</lastBuildDate>
+    <pubDate>Sun, 07 Feb 2016 17:45:57 +0100</pubDate>
+    <lastBuildDate>Sun, 07 Feb 2016 17:45:57 +0100</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Sexo y la ciudad</title>
+        <description>&lt;script async src=&quot;//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js&quot;&gt;&lt;/script&gt;
+&lt;!-- horiz large ad --&gt;
+&lt;ins class=&quot;adsbygoogle&quot;
+     style=&quot;display:inline-block;width:728px;height:15px&quot;
+     data-ad-client=&quot;ca-pub-7902219614622730&quot;
+     data-ad-slot=&quot;4722795601&quot;&gt;&lt;/ins&gt;
+&lt;script&gt;
+(adsbygoogle = window.adsbygoogle || []).push({});
+&lt;/script&gt;
+
+
+&lt;h3 class=&quot;section-heading&quot;&gt;Mejor no dejar algunas cosas al azar&lt;/h3&gt;
+
+&lt;p&gt;Encontrar una pareja tremenda puede ser tremandamente difícil. Pero al final, como en tantas otras cosas en la vida, es un juego de números - la probabilidad de conocer a tu príncipe azul depende de cuántas personas no tan príncipes estás dispuesta a aguantar.&lt;/p&gt;
+
+&lt;p&gt;Y que sea príncipe o no, si buscas seres humanos de un género específico en Barcelona, mejor no dejar las cosas al azar. Hay barrios en que hay tres hombres para cada dos mujeres. Del otro lado, en los barrios más femininas, hay 70% más mujeres que hombres.&lt;/p&gt;
+
+&lt;h3 class=&quot;section-heading&quot;&gt;Donde encontrar un novio&lt;/h3&gt;
+
+&lt;p&gt;Entonces, ¿cual es la distribución? El mapa aquí abajo muestra dónde se encuentran más mujeres y más hombres por sección censal. Utilízalo de manera sabia.&lt;/p&gt;
+
+
+&lt;a href=&quot;/img/2016-02-06-gender/map_es.png&quot;&gt;
+    &lt;img src=&quot;/img/2016-02-06-gender/map_es.png&quot; alt=&quot;&quot;&gt;
+&lt;/a&gt;
+&lt;span class=&quot;caption text-muted&quot;&gt;Las mujeres van a la playa. Los hombres van a la montaña.&lt;/span&gt;
+
+
+&lt;h3 class=&quot;section-heading&quot;&gt;Código, fuentes de datos, etc.&lt;/h3&gt;
+
+&lt;p&gt;Como siempre, el código y los datos para este post se pueden encontrar en  &lt;a href=&quot;https://github.com/bcndata/&quot;&gt;github&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Los datos que utilizamos para producir este post son accesibles gracias al trabajo de &lt;a href=&quot;https://github.com/BCNAnalytics/BcnDataAccess&quot;&gt;BCN Analytics&lt;/a&gt;.&lt;/p&gt;</description>
+        <pubDate>Sat, 06 Feb 2016 13:00:00 +0100</pubDate>
+        <link>http://bcndata.cat/es/2016/02/06/gender.es/</link>
+        <guid isPermaLink="true">http://bcndata.cat/es/2016/02/06/gender.es/</guid>
+        
+        
+        <category>es</category>
+        
+      </item>
+    
+      <item>
+        <title>Sex in the city</title>
+        <description>&lt;script async src=&quot;//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js&quot;&gt;&lt;/script&gt;
+&lt;!-- horiz large ad --&gt;
+&lt;ins class=&quot;adsbygoogle&quot;
+     style=&quot;display:inline-block;width:728px;height:15px&quot;
+     data-ad-client=&quot;ca-pub-7902219614622730&quot;
+     data-ad-slot=&quot;4722795601&quot;&gt;&lt;/ins&gt;
+&lt;script&gt;
+(adsbygoogle = window.adsbygoogle || []).push({});
+&lt;/script&gt;
+
+
+&lt;h3 class=&quot;section-heading&quot;&gt;Some things are best not left to chance&lt;/h3&gt;
+
+&lt;p&gt;Finding a significant other can be a significant challenge. But ultimately, like so many other things in life, it's a numbers game - the likelihood of finding Mr(s). Right is dependent on the number of Mr(s). Wrongs you're willing to sift through first.&lt;/p&gt;
+
+&lt;p&gt;And right or wrong, if you're looking for humans of a particular gender in Barcelona, you're best off not leaving your search to chance alone. There are neighborhoods where men outnumber women 3 to 2. On the other hand, in the most female-dense neighborhood, there are 70% more women than men.&lt;/p&gt;
+
+&lt;h3 class=&quot;section-heading&quot;&gt;Where to go to find a boyfriend / girlfriend&lt;/h3&gt;
+
+&lt;p&gt;So, what does the break-down look like? The below map shows the distribution of the sexes by census tract. Use it wisely.&lt;/p&gt;
+
+
+&lt;a href=&quot;/img/2016-02-06-gender/map_en.png&quot;&gt;
+    &lt;img src=&quot;/img/2016-02-06-gender/map_en.png&quot; alt=&quot;&quot;&gt;
+&lt;/a&gt;
+&lt;span class=&quot;caption text-muted&quot;&gt;Women flock to the beach. Men run for the hills.&lt;/span&gt;
+
+
+&lt;h3 class=&quot;section-heading&quot;&gt;Data sources, code, etc.&lt;/h3&gt;
+
+&lt;p&gt;As always, the code and data for this post (including source files, cleaning script, visualizations, etc.) can all be found on &lt;a href=&quot;https://github.com/bcndata/&quot;&gt;github&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The data that inspired this post was made accessible by those at &lt;a href=&quot;https://github.com/BCNAnalytics/BcnDataAccess&quot;&gt;BCN Analytics&lt;/a&gt;.&lt;/p&gt;</description>
+        <pubDate>Sat, 06 Feb 2016 13:00:00 +0100</pubDate>
+        <link>http://bcndata.cat/en/2016/02/06/gender.en/</link>
+        <guid isPermaLink="true">http://bcndata.cat/en/2016/02/06/gender.en/</guid>
+        
+        
+        <category>en</category>
+        
+      </item>
+    
+      <item>
+        <title>Sexe i la ciutat</title>
+        <description>&lt;script async src=&quot;//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js&quot;&gt;&lt;/script&gt;
+&lt;!-- horiz large ad --&gt;
+&lt;ins class=&quot;adsbygoogle&quot;
+     style=&quot;display:inline-block;width:728px;height:15px&quot;
+     data-ad-client=&quot;ca-pub-7902219614622730&quot;
+     data-ad-slot=&quot;4722795601&quot;&gt;&lt;/ins&gt;
+&lt;script&gt;
+(adsbygoogle = window.adsbygoogle || []).push({});
+&lt;/script&gt;
+
+
+&lt;h3 class=&quot;section-heading&quot;&gt;Millor no deixar algunes coses a la sort&lt;/h3&gt;
+
+&lt;p&gt;Trobar una parella tremenda pot ser tremandament dificil.  Però al final, com en tantes altres coses en la vida, és un joc de números - la probabilitat de coneixer al teu príncipe azul depend de quantes personas no tan príncipes estàs disposada a aguantar.&lt;/p&gt;
+
+&lt;p&gt;I que sigui príncep o no, si busques essers humans de un genèr específic, é millor no deixar les coses al azar.  Hi ha barris en que es troben tres homes per a cada dues dones. I en altres, hi ha 70% més dones que homes.&lt;/p&gt;
+
+&lt;h3 class=&quot;section-heading&quot;&gt;On trobar un novio&lt;/h3&gt;
+
+&lt;p&gt;Llavors, ¿quina és la distribució? El mapa aquí a sota mostra on es troben més doenes i més homes per secció censal. Utilitza de manera sabia.&lt;/p&gt;
+
+
+&lt;a href=&quot;/img/2016-02-06-gender/map_ca.png&quot;&gt;
+    &lt;img src=&quot;/img/2016-02-06-gender/map_ca.png&quot; alt=&quot;&quot;&gt;
+&lt;/a&gt;
+&lt;span class=&quot;caption text-muted&quot;&gt;Les dones van a la platge. Els homes van a la muntanya.&lt;/span&gt;
+
+
+&lt;h3 class=&quot;section-heading&quot;&gt;Códi, fonts de dades, etc.&lt;/h3&gt;
+
+&lt;p&gt;Com sempre, el códi i les dades per a aquest post es poden trobar en &lt;a href=&quot;https://github.com/bcndata/&quot;&gt;github&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Les dades que vem fer servir pera produir aquest post son accessibles gracias a la feina de &lt;a href=&quot;https://github.com/BCNAnalytics/BcnDataAccess&quot;&gt;BCN Analytics&lt;/a&gt;.&lt;/p&gt;</description>
+        <pubDate>Sat, 06 Feb 2016 13:00:00 +0100</pubDate>
+        <link>http://bcndata.cat/ca/2016/02/06/gender.ca/</link>
+        <guid isPermaLink="true">http://bcndata.cat/ca/2016/02/06/gender.ca/</guid>
+        
+        
+        <category>ca</category>
+        
+      </item>
     
       <item>
         <title>La subida inevitable del 'tió de nadal'</title>
@@ -454,222 +586,6 @@
         <pubDate>Mon, 07 Dec 2015 13:00:00 +0100</pubDate>
         <link>http://bcndata.cat/es/2015/12/07/Every-car-accident-in-Barcelona-since-2010.es/</link>
         <guid isPermaLink="true">http://bcndata.cat/es/2015/12/07/Every-car-accident-in-Barcelona-since-2010.es/</guid>
-        
-        
-        <category>es</category>
-        
-      </item>
-    
-      <item>
-        <title>Every car accident in Barcelona since 2010</title>
-        <description>&lt;script async src=&quot;//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js&quot;&gt;&lt;/script&gt;
-&lt;!-- horiz large ad --&gt;
-&lt;ins class=&quot;adsbygoogle&quot;
-     style=&quot;display:inline-block;width:728px;height:15px&quot;
-     data-ad-client=&quot;ca-pub-7902219614622730&quot;
-     data-ad-slot=&quot;4722795601&quot;&gt;&lt;/ins&gt;
-&lt;script&gt;
-(adsbygoogle = window.adsbygoogle || []).push({});
-&lt;/script&gt;
-
-&lt;h3 align='middle'&gt;Every Barcelona car accident from 2010-2014&lt;/h3&gt;
-
-&lt;iframe src=&quot;/img/2015-11-30-Car-accidents-in-Barcelona/widget.html&quot; height = 600 width = 100%&gt;&lt;/iframe&gt;
-
-&lt;p&gt;Zoom in and around, and click on the markers for details about each accident.&lt;/p&gt;
-
-&lt;h3 class=&quot;section-heading&quot;&gt;Data sources, code, etc.&lt;/h3&gt;
-
-&lt;p&gt;OpenDataBCN hosts the &lt;a href=&quot;http://opendata.bcn.cat/opendata/ca/catalog/ENTORN_URBA&quot;&gt;dataset&lt;/a&gt; for traffic accidents managed by the Guardia Urbana.&lt;/p&gt;
-
-&lt;p&gt;This map was generated in R, using the leaflet library. The code and data for this post (including source files, cleaning script, visualizations, etc.) can all be found on &lt;a href=&quot;https://github.com/bcndata/accidents_de_cotxe&quot;&gt;github&lt;/a&gt;.&lt;/p&gt;</description>
-        <pubDate>Mon, 07 Dec 2015 13:00:00 +0100</pubDate>
-        <link>http://bcndata.cat/en/2015/12/07/Every-car-accident-in-Barcelona-since-2010.en/</link>
-        <guid isPermaLink="true">http://bcndata.cat/en/2015/12/07/Every-car-accident-in-Barcelona-since-2010.en/</guid>
-        
-        
-        <category>en</category>
-        
-      </item>
-    
-      <item>
-        <title>Tots els accidents de cotxe a Barcelona des de 2010</title>
-        <description>&lt;script async src=&quot;//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js&quot;&gt;&lt;/script&gt;
-&lt;!-- horiz large ad --&gt;
-&lt;ins class=&quot;adsbygoogle&quot;
-     style=&quot;display:inline-block;width:728px;height:15px&quot;
-     data-ad-client=&quot;ca-pub-7902219614622730&quot;
-     data-ad-slot=&quot;4722795601&quot;&gt;&lt;/ins&gt;
-&lt;script&gt;
-(adsbygoogle = window.adsbygoogle || []).push({});
-&lt;/script&gt;
-
-&lt;h3 align='middle'&gt;Tots els accidents de cotxe a Barcelona de 2010 a 2014&lt;/h3&gt;
-
-&lt;iframe src=&quot;/img/2015-11-30-Car-accidents-in-Barcelona/widget_ca.html&quot; height = 600 width = 100%&gt;&lt;/iframe&gt;
-
-&lt;p&gt;Fes zoom, explora, i fes clic en els marcadors per a veure detalls sobre cada incident.&lt;/p&gt;
-
-&lt;h3 class=&quot;section-heading&quot;&gt;Font de dades, codi, etc.&lt;/h3&gt;
-
-&lt;p&gt;Les dades venen del &lt;a href=&quot;http://opendata.bcn.cat/opendata/ca/catalog/ENTORN_URBA&quot;&gt;portal OpenDataBCN&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Vem fer el mapa en R, utilitzant el paquet Leaflet. El codi i les dades (incloent els arxius de font, el codi per a netejar, i el codi per a generar les visualitzacions) es poden trobar a &lt;a href=&quot;https://github.com/bcndata/accidents_de_cotxe&quot;&gt;github&lt;/a&gt;.&lt;/p&gt;
-
-</description>
-        <pubDate>Mon, 07 Dec 2015 13:00:00 +0100</pubDate>
-        <link>http://bcndata.cat/ca/2015/12/07/Every-car-accident-in-Barcelona-since-2010.ca/</link>
-        <guid isPermaLink="true">http://bcndata.cat/ca/2015/12/07/Every-car-accident-in-Barcelona-since-2010.ca/</guid>
-        
-        
-        <category>ca</category>
-        
-      </item>
-    
-      <item>
-        <title>¿El futból salva vidas?</title>
-        <description>&lt;script async src=&quot;//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js&quot;&gt;&lt;/script&gt;
-&lt;!-- horiz large ad --&gt;
-&lt;ins class=&quot;adsbygoogle&quot;
-     style=&quot;display:inline-block;width:728px;height:15px&quot;
-     data-ad-client=&quot;ca-pub-7902219614622730&quot;
-     data-ad-slot=&quot;4722795601&quot;&gt;&lt;/ins&gt;
-&lt;script&gt;
-(adsbygoogle = window.adsbygoogle || []).push({});
-&lt;/script&gt;
-
-&lt;h3 class=&quot;section-heading&quot;&gt;El futból y los accidentes de coche&lt;/h3&gt;
-
-
-&lt;p&gt;Parece que los &lt;em&gt;partidos de futból&lt;/em&gt; previenen accidentes de coche.&lt;/p&gt; 
-
-&lt;p&gt;Hemos analizado todos los accidentes de 2010 a 2014, y todos los partidos durante el mismo periodo.  Sucede que, como mediana, los días de partido son aproximadamente 11% más seguros que los días sin.&lt;/p&gt;
-
-&lt;table class='gmisc_table' style='border-collapse: collapse;' &gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th style='border-bottom: 1px solid grey; border-top: 2px solid grey; text-align: center;'&gt;Estado&lt;/th&gt;
-&lt;th style='border-bottom: 1px solid grey; border-top: 2px solid grey; text-align: center;'&gt;Días&lt;/th&gt;
-&lt;th style='border-bottom: 1px solid grey; border-top: 2px solid grey; text-align: center;'&gt;Accidentes&lt;/th&gt;
-&lt;th style='border-bottom: 1px solid grey; border-top: 2px solid grey; text-align: center;'&gt;Por dia&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td style='text-align: center;'&gt;Sin partido&lt;/td&gt;
-&lt;td style='text-align: center;'&gt;1572&lt;/td&gt;
-&lt;td style='text-align: center;'&gt;40376&lt;/td&gt;
-&lt;td style='text-align: center;'&gt;25.68&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style='border-bottom: 2px solid grey; text-align: center;'&gt;Día de partido&lt;/td&gt;
-&lt;td style='border-bottom: 2px solid grey; text-align: center;'&gt;254&lt;/td&gt;
-&lt;td style='border-bottom: 2px solid grey; text-align: center;'&gt;5802&lt;/td&gt;
-&lt;td style='border-bottom: 2px solid grey; text-align: center;'&gt;22.84&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;h3 class=&quot;section-heading&quot;&gt;Tal vez no es el futból&lt;/h3&gt;
-
-
-&lt;p&gt;Se podría pensar que los partidos de futból hacen que la gente esté más en casa (mirando la tele) que en la calle (lo que realmente es verdad), o que los partidos tienden a jugarse más los fines de semana &lt;a href=&quot;/2015/11/30/Car-accidents-in-Barcelona/&quot;&gt;(cuando hay menos accidentes en general)&lt;/a&gt;.  En otras palabras, el futból en si &lt;em&gt;no tiene nada que ver con los accidentes&lt;/em&gt;, y solo sirve de indicador de otros comportamientos que tienen impacto en la densidad de tráfico.&lt;/p&gt;
-
-
-&lt;p&gt;Es el caso? Pensamos que no.&lt;/p&gt; 
-
-
-&lt;script async src=&quot;//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js&quot;&gt;&lt;/script&gt;
-&lt;!-- non-responsive --&gt;
-&lt;ins class=&quot;adsbygoogle&quot;
-     style=&quot;display:inline-block;width:728px;height:90px&quot;
-     data-ad-client=&quot;ca-pub-7902219614622730&quot;
-     data-ad-slot=&quot;5811079204&quot;&gt;&lt;/ins&gt;
-&lt;script&gt;
-(adsbygoogle = window.adsbygoogle || []).push({});
-&lt;/script&gt;
-
-
-&lt;p&gt;Cuando vamos más profundamente en el análisis, encontramos que el &lt;em&gt;resultado&lt;/em&gt; del partido importa más que &lt;em&gt;si hay un partido o no&lt;/em&gt;.  Cuando gana el Barça, hay menos accidentes.  ¡Cuando pierde el Barça, hay aún más accidentes que los días sin partido!
-
-
-
-&lt;table class='gmisc_table' style='border-collapse: collapse;' &gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th style='border-bottom: 1px solid grey; border-top: 2px solid grey; text-align: center;'&gt;Resultado&lt;/th&gt;
-&lt;th style='border-bottom: 1px solid grey; border-top: 2px solid grey; text-align: center;'&gt;Días&lt;/th&gt;
-&lt;th style='border-bottom: 1px solid grey; border-top: 2px solid grey; text-align: center;'&gt;Accidentes&lt;/th&gt;
-&lt;th style='border-bottom: 1px solid grey; border-top: 2px solid grey; text-align: center;'&gt;Por día&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td style='text-align: center;'&gt;Perder&lt;/td&gt;
-&lt;td style='text-align: center;'&gt;26&lt;/td&gt;
-&lt;td style='text-align: center;'&gt;711&lt;/td&gt;
-&lt;td style='text-align: center;'&gt;27.35&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style='text-align: center;'&gt;Sin partido&lt;/td&gt;
-&lt;td style='text-align: center;'&gt;1572&lt;/td&gt;
-&lt;td style='text-align: center;'&gt;40376&lt;/td&gt;
-&lt;td style='text-align: center;'&gt;25.68&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style='text-align: center;'&gt;Empate&lt;/td&gt;
-&lt;td style='text-align: center;'&gt;45&lt;/td&gt;
-&lt;td style='text-align: center;'&gt;1078&lt;/td&gt;
-&lt;td style='text-align: center;'&gt;23.96&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style='border-bottom: 2px solid grey; text-align: center;'&gt;Ganar&lt;/td&gt;
-&lt;td style='border-bottom: 2px solid grey; text-align: center;'&gt;183&lt;/td&gt;
-&lt;td style='border-bottom: 2px solid grey; text-align: center;'&gt;4013&lt;/td&gt;
-&lt;td style='border-bottom: 2px solid grey; text-align: center;'&gt;21.93&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-
-
-
-&lt;a href=&quot;#&quot;&gt;
-    &lt;img src=&quot;/img/2015-11-30-Car-accidents-in-Barcelona/football_es.JPG&quot; alt=&quot;I can't really think of any way in which this photo is relevant&quot;&gt;
-&lt;/a&gt;
-&lt;span class=&quot;caption text-muted&quot;&gt;No puede ser, ¿o sí?&lt;/span&gt;
-
-&lt;h3 class=&quot;section-heading&quot;&gt;Dos teorías&lt;/h3&gt;
-
-&lt;p&gt;¿Qué podría explicar esto? Tenemos dos teorías posibles:&lt;/p&gt;  
-
-&lt;p&gt;(1) La gente se enfada cuando pierde su equipo y conduce aún más fatal que normal (posible, pero no muy probable).&lt;/p&gt;
-
-&lt;p&gt;(2) La gente sale de los lugares donde miraron el partido (bares, casas, etc.) de una manera más escalonada después de una victoria (ya que es más probable hacer fiesta despues de ganar que después de perder).&lt;/p&gt;
-
-&lt;h3 class=&quot;section-heading&quot;&gt;Entonces, ¿El futból salva vidas?&lt;/h3&gt;
-
-&lt;p&gt;Probablemente no.  Es verdad que hay &lt;em&gt;un poco&lt;/em&gt; menos muertes los días que gana el Barça que cuando pierde, pero esto no llega al nivel de &quot;significado estadístico.&quot;&lt;/p&gt;
-
-&lt;a href=&quot;#&quot;&gt;
-    &lt;img src=&quot;/img/2015-11-30-Car-accidents-in-Barcelona/deaths_es.JPG&quot; alt=&quot;I can't really think of any way in which this photo is relevant&quot;&gt;
-&lt;/a&gt;
-&lt;span class=&quot;caption text-muted&quot;&gt;La liga debería prohibir los empates?&lt;/span&gt;
-
-&lt;p&gt;Sin embargo, la reducción en &lt;em&gt;accidentes&lt;/em&gt; asociada con las victorias de futból &lt;em&gt;sí&lt;/em&gt; que es significativa. Así que, si estás lleyendo esto, Leonel, ¡vuelve al entrenamiento!&lt;/p&gt;
-
-
-&lt;h3 class=&quot;section-heading&quot;&gt;Fuente de datos, código, etc.&lt;/h3&gt;
-
-&lt;p&gt;Los datos sobre los accidentes de coche provienen del &lt;a href=&quot;http://opendata.bcn.cat/opendata/ca/catalog/ENTORN_URBA&quot;&gt;portal OpenDataBCN&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Los datos sobre el futból hemos compilado nosotros manualmente de varias páginas de Wikipedia. La versión &quot;limpia&quot; de estos datos se puede accedir &lt;a href='https://github.com/bcndata/bcndata/blob/master/data/accidents_de_cotxe/football_games/games_2010-2014.csv'&gt;aquí&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;El código y los datos (incluyendo los archivos de fuente, el código para limpiar, y el código para generar las visualizaciones) se pueden encontrar en &lt;a href=&quot;https://github.com/bcndata/accidents_de_cotxe&quot;&gt;github&lt;/a&gt;.&lt;/p&gt;
-
-</description>
-        <pubDate>Fri, 04 Dec 2015 13:00:00 +0100</pubDate>
-        <link>http://bcndata.cat/es/2015/12/04/Does-football-save-lives.es/</link>
-        <guid isPermaLink="true">http://bcndata.cat/es/2015/12/04/Does-football-save-lives.es/</guid>
         
         
         <category>es</category>
