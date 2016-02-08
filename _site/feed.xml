@@ -5,8 +5,8 @@
     <description>BCN data</description>
     <link>http://bcndata.cat/</link>
     <atom:link href="http://bcndata.cat/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 07 Feb 2016 17:45:57 +0100</pubDate>
-    <lastBuildDate>Sun, 07 Feb 2016 17:45:57 +0100</lastBuildDate>
+    <pubDate>Mon, 08 Feb 2016 15:00:44 +0100</pubDate>
+    <lastBuildDate>Mon, 08 Feb 2016 15:00:44 +0100</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -22,11 +22,11 @@
 &lt;/script&gt;
 
 
-&lt;h3 class=&quot;section-heading&quot;&gt;Mejor no dejar algunas cosas al azar&lt;/h3&gt;
+&lt;h3 class=&quot;section-heading&quot;&gt;Mejor no dejar algunas cosas en manos del azar&lt;/h3&gt;
 
 &lt;p&gt;Encontrar una pareja tremenda puede ser tremandamente difícil. Pero al final, como en tantas otras cosas en la vida, es un juego de números - la probabilidad de conocer a tu príncipe azul depende de cuántas personas no tan príncipes estás dispuesta a aguantar.&lt;/p&gt;
 
-&lt;p&gt;Y que sea príncipe o no, si buscas seres humanos de un género específico en Barcelona, mejor no dejar las cosas al azar. Hay barrios en que hay tres hombres para cada dos mujeres. Del otro lado, en los barrios más femininas, hay 70% más mujeres que hombres.&lt;/p&gt;
+&lt;p&gt;Y aunque que sea príncipe o no, si buscas seres humanos de un género específico en Barcelona, mejor no dejar las cosas al azar. Hay barrios en que hay tres hombres para cada dos mujeres. Del otro lado, en los barrios más femininos, hay 70% más mujeres que hombres.&lt;/p&gt;
 
 &lt;h3 class=&quot;section-heading&quot;&gt;Donde encontrar un novio&lt;/h3&gt;
 
@@ -110,28 +110,28 @@
 &lt;/script&gt;
 
 
-&lt;h3 class=&quot;section-heading&quot;&gt;Millor no deixar algunes coses a la sort&lt;/h3&gt;
+&lt;h3 class=&quot;section-heading&quot;&gt;Millor no deixar algunes coses en mans de la sort&lt;/h3&gt;
 
-&lt;p&gt;Trobar una parella tremenda pot ser tremandament dificil.  Però al final, com en tantes altres coses en la vida, és un joc de números - la probabilitat de coneixer al teu príncipe azul depend de quantes personas no tan príncipes estàs disposada a aguantar.&lt;/p&gt;
+&lt;p&gt;Trobar una parella perfecta pot ser tremandament difícil.  Però al final, com en tantes altres coses de la vida, és un joc de números - la provabilitat de conèixer al teu príncep blau depèn de quantes persones no tan perfectes estàs disposat a aguantar.&lt;/p&gt;
 
-&lt;p&gt;I que sigui príncep o no, si busques essers humans de un genèr específic, é millor no deixar les coses al azar.  Hi ha barris en que es troben tres homes per a cada dues dones. I en altres, hi ha 70% més dones que homes.&lt;/p&gt;
+&lt;p&gt;I ni que sigui príncep blau o no, si busques éssers humans d'un gènere específic, és millor no deixar les coses al atzar.  Hi ha barris en que es troben tres homes per a cada dues dones. I en altres, hi ha 70% més dones que homes.&lt;/p&gt;
 
-&lt;h3 class=&quot;section-heading&quot;&gt;On trobar un novio&lt;/h3&gt;
+&lt;h3 class=&quot;section-heading&quot;&gt;On trobar un novio?&lt;/h3&gt;
 
-&lt;p&gt;Llavors, ¿quina és la distribució? El mapa aquí a sota mostra on es troben més doenes i més homes per secció censal. Utilitza de manera sabia.&lt;/p&gt;
+&lt;p&gt;Llavors, quina és la distribució de que estem parlant? El mapa d'aquí a sota ens mostra on es troben més dones i més homes segons els cens de la ciutat. Utilitza'l de manera sàvia.&lt;/p&gt;
 
 
 &lt;a href=&quot;/img/2016-02-06-gender/map_ca.png&quot;&gt;
     &lt;img src=&quot;/img/2016-02-06-gender/map_ca.png&quot; alt=&quot;&quot;&gt;
 &lt;/a&gt;
-&lt;span class=&quot;caption text-muted&quot;&gt;Les dones van a la platge. Els homes van a la muntanya.&lt;/span&gt;
+&lt;span class=&quot;caption text-muted&quot;&gt;Les dones van a la platja. Els homes van a la muntanya.&lt;/span&gt;
 
 
-&lt;h3 class=&quot;section-heading&quot;&gt;Códi, fonts de dades, etc.&lt;/h3&gt;
+&lt;h3 class=&quot;section-heading&quot;&gt;Codi, fonts de dades, etc.&lt;/h3&gt;
 
-&lt;p&gt;Com sempre, el códi i les dades per a aquest post es poden trobar en &lt;a href=&quot;https://github.com/bcndata/&quot;&gt;github&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Com sempre, el codi i les dades per aquest post es poden trobar a &lt;a href=&quot;https://github.com/bcndata/&quot;&gt;github&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;Les dades que vem fer servir pera produir aquest post son accessibles gracias a la feina de &lt;a href=&quot;https://github.com/BCNAnalytics/BcnDataAccess&quot;&gt;BCN Analytics&lt;/a&gt;.&lt;/p&gt;</description>
+&lt;p&gt;Les dades que vem fer servir per a produïr aquest post són accessibles gràcies a la feina de &lt;a href=&quot;https://github.com/BCNAnalytics/BcnDataAccess&quot;&gt;BCN Analytics&lt;/a&gt;.&lt;/p&gt;</description>
         <pubDate>Sat, 06 Feb 2016 13:00:00 +0100</pubDate>
         <link>http://bcndata.cat/ca/2016/02/06/gender.ca/</link>
         <guid isPermaLink="true">http://bcndata.cat/ca/2016/02/06/gender.ca/</guid>
